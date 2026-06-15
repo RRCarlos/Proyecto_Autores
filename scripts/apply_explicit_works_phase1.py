@@ -8,11 +8,11 @@ from openpyxl.styles import Alignment, PatternFill
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CSV_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.csv"
-XLSX_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.xlsx"
-CSV_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_FASE1_LIBRO_I.csv"
-XLSX_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_FASE1_LIBRO_I.xlsx"
-MD_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_FASE1_LIBRO_I.md"
+CSV_IN = ROOT / "data" / "validacion_por_lotes.csv"
+XLSX_IN = ROOT / "data" / "validacion_por_lotes.xlsx"
+CSV_OUT = ROOT / "data" / "obras_explicitas_fase1.csv"
+XLSX_OUT = ROOT / "data" / "obras_explicitas_fase1.xlsx"
+MD_OUT = ROOT / "data" / "obras_explicitas_fase1.md"
 
 
 # Fase 1: solo Libro I. Rellenar únicamente cuando el OCR 1617 muestra autor + obra

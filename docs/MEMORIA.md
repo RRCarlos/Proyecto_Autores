@@ -203,10 +203,10 @@ Las obras llegaron a Mariana principalmente por:
 
 | Documento | Contenido |
 |-----------|-----------|
-| `AUTORES_CONSOLIDADO.md` | Tabla maestra con verificación completa |
-| `LISTA_AUTORES_VERIFICADOS.md` | Lista con VIAF IDs y referencias cruzadas |
-| `VERIFICACION_SISTEMATICA.md` | Datos brutos de búsquedas |
-| `FASE9_BIBLIOTECA_CLM_VERIFICACION_COMPLETA.md` | Verificación en Toledo |
+| `data/tabla_base.xlsx/csv` | Tabla base con 180 citas extraídas de notas Word |
+| `data/validacion_1617.xlsx/csv` | Resultados de localización automatizada contra OCR 1617 |
+| `data/validacion_por_lotes.xlsx/csv/md` | Validación completa con fragmentos OCR candidatos |
+| `data/obras_explicitas.xlsx/csv/md` | 18 obras explícitas identificadas |
 
 ---
 

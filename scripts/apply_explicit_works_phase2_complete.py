@@ -8,11 +8,11 @@ from openpyxl.styles import Alignment, PatternFill
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CSV_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.csv"
-XLSX_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.xlsx"
-CSV_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_COMPLETO.csv"
-XLSX_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_COMPLETO.xlsx"
-MD_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_COMPLETO.md"
+CSV_IN = ROOT / "data" / "validacion_por_lotes.csv"
+XLSX_IN = ROOT / "data" / "validacion_por_lotes.xlsx"
+CSV_OUT = ROOT / "data" / "obras_explicitas.csv"
+XLSX_OUT = ROOT / "data" / "obras_explicitas.xlsx"
+MD_OUT = ROOT / "data" / "obras_explicitas.md"
 
 # Obras explícitas — TODOS los libros (I-IV)
 # Solo se rellena "Obra asociada" cuando el OCR 1617 contiene autor + obra

@@ -5,8 +5,8 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CSV_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.csv"
-MD_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.md"
+CSV_IN = ROOT / "data" / "validacion_por_lotes.csv"
+MD_OUT = ROOT / "data" / "validacion_por_lotes.md"
 
 
 def esc(value: str) -> str:

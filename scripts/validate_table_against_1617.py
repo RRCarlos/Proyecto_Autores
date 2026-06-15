@@ -11,10 +11,10 @@ from openpyxl.styles import Alignment, Font, PatternFill
 
 ROOT = Path(__file__).resolve().parents[1]
 OCR = ROOT / "sources" / "mariana_1617_tomo_primero_ocr.txt"
-CSV_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV.csv"
-XLSX_IN = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV.xlsx"
-CSV_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.csv"
-XLSX_OUT = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_VALIDACION_POR_LOTES.xlsx"
+CSV_IN = ROOT / "data" / "tabla_base.csv"
+XLSX_IN = ROOT / "data" / "tabla_base.xlsx"
+CSV_OUT = ROOT / "data" / "validacion_por_lotes.csv"
+XLSX_OUT = ROOT / "data" / "validacion_por_lotes.xlsx"
 
 
 BOOK_RANGES = {

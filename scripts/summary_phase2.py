@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-csv_path = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV_OBRAS_EXPLICITAS_COMPLETO.csv"
+csv_path = ROOT / "data" / "obras_explicitas.csv"
 
 with csv_path.open("r", encoding="utf-8-sig") as f:
     rows = list(csv.DictReader(f))

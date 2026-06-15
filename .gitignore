@@ -17,8 +17,8 @@ env/
 .env
 .env.local
 
-# Datos generados
-data/
+# Datos generados (no versionar)
+# data/  # Descomentar si se generan tablas automáticamente
 
 # IDE
 .vscode/

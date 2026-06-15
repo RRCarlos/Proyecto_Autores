@@ -12,8 +12,8 @@ from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCX = Path(r"C:\Users\PC\Downloads\Historia general de España.docx")
-OUT_XLSX = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV.xlsx"
-OUT_CSV = ROOT / "docs" / "TABLA_USOS_AUTORES_LIBROS_I_IV.csv"
+OUT_XLSX = ROOT / "data" / "tabla_base.xlsx"
+OUT_CSV = ROOT / "data" / "tabla_base.csv"
 
 
 BOOKS = {
