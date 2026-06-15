@@ -1,267 +1,129 @@
-# TFG Juan de Mariana — Análisis Historiográfico de las Fuentes de la *Historia General de España* (Libros I–IV, 1601)
+# TFG Juan de Mariana — Análisis Historiográfico de las Fuentes
 
-> **Trabajo de Fin de Grado** | Curso de Inteligencia Artificial  
-> Análisis de las fuentes historiográficas utilizadas por Juan de Mariana (1536–1624) en los cuatro primeros libros de su *Historia General de España*.
-
----
-
-## Resumen
-
-Este repositorio contiene el proceso completo de investigación del TFG, que responde a la pregunta:
-
-> **¿Para qué usa Juan de Mariana a cada autor que cita en su *Historia General de España*?**
-
-El estudio va más allá de un mero recuento de fuentes: analiza la **función historiográfica** de cada autor dentro del discurso histórico de Mariana. No se trata solo de saber *si* existían las obras, sino de entender *cómo* y *para qué* las utiliza.
-
-### Resultados principales
-
-| Indicador | Dato |
-|-----------|------|
-| **Autores únicos** identificados en L. I–IV | 68 |
-| **Citas** extraídas y clasificadas | **180** |
-| **Localizadas** en la edición de 1617 mediante OCR automatizado | **113 (62.8%)** |
-| **Obras explícitas** (autor + obra nombrados en el mismo pasaje) | **18** |
-| **Autores con edición pre-1592 verificada** | **58 (85.3%)** |
-| **Falsificaciones detectadas** | 1 (Falso Beroso / Annio de Viterbo) |
-| **Obras perdidas** | 2 (Filisto, Quinto Fabio Píctor) |
+> **Trabajo de Fin de Grado**  
+> Estudio de las fuentes historiográficas utilizadas por Juan de Mariana (1536–1624) en los cuatro primeros libros de su *Historia General de España*, con metodología asistida por inteligencia artificial.
 
 ---
 
-## Pregunta de investigación
+## ¿Qué es esto?
 
-La investigación parte de una pregunta inicial:
+Este repositorio contiene el **rastro completo de investigación** de un TFG que intenta responder una pregunta sencilla en apariencia:
 
-> *¿Realmente tuvo Juan de Mariana acceso a las obras que cita?*
+> ¿Tuvo Juan de Mariana acceso real a los autores clásicos que cita en su *Historia General de España*?
 
-Esta pregunta se descompone en cuatro niveles de evidencia:
+La pregunta es más compleja de lo que parece. Mariana escribía en el Colegio de Jesuitas de Toledo a finales del siglo XVI. Citaba a Plinio, a Tito Livio, a Polibio, a Estrabón, a San Isidoro… un total de **68 autores distintos** en solo los cuatro primeros libros de su obra. La cuestión es si los leyó directamente o los conoció a través de compilaciones, epítomes, florilegios y tradiciones indirectas — algo muy distinto.
 
-1. **¿Existieron** los autores que cita?
-2. **¿Tenían ediciones impresas** antes de 1592?
-3. **¿Se conservan ejemplares** en las bibliotecas jesuitas de Toledo?
-4. **¿Tienen esos ejemplares marcas de propiedad jesuita?**
-
-Tras la reorientación metodológica, el eje central pasó a ser:
-
-> **¿Qué función cumple cada autor citado dentro del relato histórico de Mariana?**
-
-Esto permite analizar las citas como parte de la **construcción historiográfica**: autoridad clásica, apoyo cronológico, tradición bíblica, legitimación de episodios, etc.
+Para responderla, este proyecto va acumulando datos estructurados, validaciones automatizadas y documentación metodológica que permitan responder no solo *si* existían las obras, sino *cómo* y *para qué* las usaba Mariana.
 
 ---
 
-## ¿Por qué es importante este estudio?
+## La tesis del TFG
 
-La *Historia General de España* de Juan de Mariana fue la obra de referencia sobre la historia de España durante más de dos siglos (1592–1850). Entender de dónde sacaba Mariana su información —y **para qué** usaba cada fuente— es clave para:
+El trabajo partió de una pregunta binaria (tuvo acceso / no tuvo acceso), pero a mitad de investigación el equipo —con ayuda de un experto en historiografía— la reorientó hacia un análisis más fértil:
 
-- Evaluar la **fiabilidad historiográfica** de la obra
-- Distinguir entre fuentes clásicas que leyó directamente, tradiciones medievales que heredó, y falsificaciones que incorporó sin saberlo
-- Comprender cómo funcionaba la **erudición humanista** del Siglo de Oro español
-- Trazar la **transmisión del conocimiento** desde la Antigüedad hasta el siglo XVII
+> **¿Para qué usa Mariana a cada autor?**
 
-La pregunta "¿tuvo acceso?" puede parecer sencilla, pero implica desenredar la maraña de ediciones, manuscritos, compilaciones, fragmentos, falsificaciones y tradiciones orales que mediaban entre un autor clásico del siglo I a.C. y un jesuita del XVI leyendo en Toledo.
+Esto transformó el estudio en una **tipología funcional de las citas**: no se trata solo de verificar existencias bibliográficas, sino de entender la **construcción historiográfica** de Mariana — qué autores usa para geografía, cuáles para guerras, cuáles para cronología, cuáles para materia mítica, cuáles cita con reservas y cuáles para desacreditar.
 
----
-
-## El enfoque: función historiográfica
-
-Este TFG no se limita a un recuento de autores. Propone una **tipología funcional de las citas**:
-
-| Función | ¿Para qué usa Mariana al autor? | Ejemplo |
-|---------|--------------------------------|---------|
-| **Autoridad geográfica** | Describir territorios, límites, ciudades, ríos | Plinio, Ptolomeo, Estrabón |
-| **Autoridad narrativa** | Apoyar el relato de guerras y conquistas | Tito Livio, Polibio, Apiano |
-| **Cronología** | Fijar fechas y ordenar acontecimientos | Eusebio de Cesarea, Justino |
-| **Orígenes y genealogía** | Explicar linajes, fundadores, mitos de origen | Diodoro Sículo, San Isidoro |
-| **Tradición bíblica** | Conectar la historia de España con el marco bíblico | Flavio Josefo |
-| **Crítica o contraste** | Señalar discrepancias entre fuentes | Cicerón, Nebrija |
-| **Fuente problemática** | Citar con reservas o desacreditar | Falso Beroso, Andrea de' Bardi |
-
-Esta clasificación permite ver **patrones**: Mariana usa sistemáticamente a Plinio para geografía, a Tito Livio para narración bélica, a Justino como epitomista de confianza. Cuando entra en materia mítica o dudosa, despliega múltiples autores en contraste, mostrando su escepticismo humanista.
+Y eso es precisamente lo que revelan los datos. Mariana no citaba al azar: tenía un **sistema**. Plinio va casi siempre para geografía. Tito Livio para guerras. Justino como epitomista de confianza para cronología. Y cuando entraba en terrenos dudosos (reyes fabulosos, falsificaciones), desplegaba múltiples autores en contraste — una muestra de su escepticismo humanista.
 
 ---
 
-## Estructura del repositorio
+## ¿Qué encontrarás aquí?
 
-```
-TFG_JUAN_DE_MARIANA/
-├── README.md                    ← Este documento
-├── .gitignore
-├── requirements.txt             ← Dependencias Python (openpyxl)
-│
-├── docs/                        ← Documentación académica
-│   ├── MEMORIA.md               ← Memoria completa del proyecto
-│   └── PLAN_REORIENTACION_METODOLOGICA.md  ← Nueva metodología (2026-05-18)
-│
-├── data/                        ← Tablas de investigación (CSV + XLSX + MD)
-│   ├── tabla_base.*             ← 180 citas extraídas de notas Word
-│   ├── validacion_1617.*        ← Localización automatizada contra OCR
-│   ├── validacion_por_lotes.*   ← Validación completa con fragmentos OCR
-│   └── obras_explicitas.*       ← 18 obras donde Mariana nombra autor + obra
-│
-├── scripts/                     ← Procesamiento y validación
-│   ├── build_citation_use_table.py      ← Extrae citas del docx Word
-│   ├── validate_table_against_1617.py   ← Valida contra OCR 1617
-│   ├── apply_explicit_works_phase1.py   ← Fase 1: obras explícitas Libro I
-│   ├── apply_explicit_works_phase2_complete.py ← Fase 2: obras explícitas I–IV
-│   ├── export_validation_table_md.py    ← Exporta validación a Markdown
-│   └── summary_phase2.py               ← Resumen de obras explícitas
-│
-└── sources/                     ← Fuentes digitalizadas
-    ├── mariana_1617_tomo_primero_ocr.txt         ← OCR completo (96K líneas)
-    └── mariana_1617_tomo_primero_page_numbers.json
-```
+### Las tablas de investigación (`data/`)
 
----
+El núcleo del proyecto son **tres tablas estructuradas** que van ganando profundidad progresivamente:
 
-## Metodología
+| Archivo | ¿Qué contiene? |
+|---------|----------------|
+| `tabla_base.*` | **180 citas** extraídas de las notas de lectura del investigador, con libro, capítulo, autor, pasaje, función de la cita, tipo de fuente y observaciones |
+| `validacion_1617.*` | Las mismas 180 citas, pero con el resultado de la validación automatizada contra el OCR de la edición de 1617 — indica si el nombre del autor se localizó o no en el texto impreso |
+| `validacion_por_lotes.*` | La validación completa con los fragmentos OCR candidatos, organizada por lotes de capítulos para facilitar la revisión manual |
+| `obras_explicitas.*` | Los **18 casos** donde Mariana nombra al autor **y** a la obra en el mismo pasaje — el estándar de oro de la identificación |
 
-### Fases de la investigación
+Cada tabla existe en tres formatos: `.xlsx` (editable), `.csv` (procesable) y `.md` (legible). Los scripts que las generan están en `scripts/`.
 
-| Fase | Descripción | Estado |
-|------|-------------|--------|
-| **1–2** | Extracción de autores desde notas Word de la edición 1601 | ✅ |
-| **3–4** | Verificación en 6 catálogos internacionales | ✅ |
-| **5** | Verificación de ediciones pre-1592 (85.3% verificadas) | ✅ |
-| **6** | Localización en Biblioteca de Castilla-La Mancha (fondos jesuitas) | ✅ |
-| **7** | OCR de la edición 1617 + validación automatizada | ✅ |
-| **8** | Identificación de obras explícitas (autor + obra en mismo pasaje) | ✅ |
-| **9** | Reorientación metodológica (nuevo eje: función historiográfica) | ✅ |
-| **10** | Transcripción verificada de fragmentos | 🔲 |
-| **11** | Análisis historiográfico por función de cita | 🔲 |
+### El OCR de la edición de 1617 (`sources/`)
 
-### Ediciones de referencia
+Se descargó de Internet Archive la edición latina ampliada de 1617 (tomo primero) y se ejecutó un OCR completo. El archivo de texto pesa **3.8 MB** y contiene aproximadamente **96.000 líneas** de texto del siglo XVII con tipografía de la época. Es una fuente primaria digitalizada, con todos los errores de OCR que eso implica.
 
-| Edición | Año | Uso |
-|---------|-----|-----|
-| *Historia General de España* (castellano) | **1601** | Texto base de referencia. BNE, tomo primero |
-| *Historia General de España* (latín, ampliada) | **1617** | Testigo auxiliar para búsqueda OCR |
+### Los scripts de procesamiento (`scripts/`)
+
+Seis scripts en Python que automatizan el proceso:
+
+1. **`build_citation_use_table.py`** — Extrae las citas del documento Word original donde el investigador tomó notas
+2. **`validate_table_against_1617.py`** — Busca cada nombre de autor en el OCR, segmentado por libro y capítulo
+3. **`apply_explicit_works_phase2_complete.py`** — Identifica los pasajes donde autor + obra aparecen juntos
+4. Scripts auxiliares de exportación y resumen
+
+### La documentación académica (`docs/`)
+
+- **`MEMORIA.md`** — La memoria completa del proyecto con la metodología, resultados fase por fase y contexto
+- **`PLAN_REORIENTACION_METODOLOGICA.md`** — El documento que fija el cambio de eje desde "tuvo acceso" hacia "para qué lo usa"
 
 ---
 
-## El papel de la inteligencia artificial en la investigación
+## ¿Qué se ha descubierto hasta ahora?
 
-Este TFG se ha desarrollado íntegramente con la asistencia de **agentes de inteligencia artificial**, integrados en el flujo de trabajo a través de **OpenCode** (entorno de desarrollo asistido por IA). Aquí se explica cómo se ha utilizado la IA y por qué es relevante para un trabajo de historiografía.
+### Sobre la existencia de los autores
 
-### ¿Qué se usó?
+El **85.3%** de los 68 autores tenían ediciones impresas **antes de 1592**, verificadas contra seis catálogos internacionales (VIAF, USTC, GW, BNE, CCPB, Biblioteca de Castilla-La Mancha). Esto significa que, en principio, Mariana **podía** haber tenido acceso a la mayoría de las obras que cita.
 
-| Herramienta / Agente | Función en el proyecto |
-|----------------------|------------------------|
-| **Claude (Anthropic)** como agente de IA | Orquestación de toda la investigación: leer, buscar, analizar, escribir scripts, generar tablas, redactar documentos |
-| **OpenCode** | Entorno de trabajo que permite al agente IA ejecutar código, acceder al sistema de archivos, navegar por la web y usar GitHub |
-| **Python 3.10+** | Scripts de procesamiento: extracción de citas (openpyxl), validación contra OCR, exportación a Markdown |
-| **OCR de Internet Archive** | Digitalización de la edición 1617 (~3.8 MB de texto OCR, 96.000 líneas) |
-| **Catálogos web** | VIAF, USTC, GW, BNE, CCPB, Biblioteca CLM (consultados directamente por el agente IA vía web) |
+Pero hay matices importantes:
 
-### ¿Cómo funcionó el proceso con IA?
+- **1 falsificación**: el Falso Beroso, una obra forjada en 1498 por Annio de Viterbo que Mariana usa precisamente para desacreditar las leyendas sobre los primeros reyes de España. Paradójicamente, cita una falsificación para hacer crítica de fuentes.
+- **2 obras perdidas**: Filisto de Siracusa y Quinto Fabio Píctor, de las que solo se conservan fragmentos. Mariana los conocía probablemente a través de citas en otros autores.
+- **Autores sin edición impresa**: al menos 5 autores (Moro Rasis, Miguel Sincelo, Braulio, San Ildefonso, Pelayo de Oviedo) circulaban solo en manuscritos, lo que hace más improbable que Mariana tuviera acceso directo.
 
-#### 1. Extracción de autores y citas (fases 1–2)
+### Sobre la validación contra el texto impreso
 
-El investigador (Carlos) leyó los Libros I–IV de la edición de 1601 y tomó notas en un documento Word. Ese documento contenía 180 referencias a autores con contexto, capítulo, y observaciones preliminares.
+Del total de 180 citas extraídas de las notas de lectura, **113 (62.8%)** se localizaron automáticamente en el OCR de la edición de 1617. El resto no se encontró por razones diversas:
 
-**Intervención de la IA**: Un script Python (`build_citation_use_table.py`) procesó el documento Word extrayendo cada mención y estructurándola en una tabla con campos: libro, capítulo, autor citado, pasaje, función de la cita, tipo de fuente y observaciones. El agente de IA escribió este script, lo ejecutó, y generó la tabla base en formato `.xlsx` y `.csv`.
+- Variantes ortográficas en el OCR (tipografía del XVII)
+- Nombres que el OCR reconoció mal
+- Menciones que dependen de contexto más amplio del pasaje
+- Posibles errores en las notas del investigador
 
-#### 2. Verificación en catálogos internacionales (fases 3–5)
+Todas las validaciones están marcadas como **"Pendiente de verificación visual"** — el OCR no reemplaza al facsímil, solo ayuda a localizar los pasajes.
 
-Cada uno de los **68 autores** identificados fue verificado contra seis bases de datos para confirmar:
+### Sobre la función de las citas
 
-- **VIAF** (Virtual International Authority File): existencia y forma normalizada del nombre
-- **USTC** (Universal Short Title Catalogue): ediciones europeas anteriores a 1600
-- **GW** (Gesamtkatalog der Wiegendrucke): incunables (1450–1500)
-- **BNE** (Biblioteca Nacional de España): ejemplares en bibliotecas españolas
-- **CCPB** (Catálogo Colectivo del Patrimonio Bibliográfico): fondo patrimonial español
-- **Biblioteca de Castilla-La Mancha**: fondos del Colegio de Jesuitas de Toledo
+Los datos revelan patrones claros en cómo usa Mariana a sus autores. Plinio es el más citado (13 veces), casi siempre para **geografía**. Tito Livio (10 veces) es la **autoridad narrativa** para guerras y conquistas. San Isidoro (9 veces) funciona como **puente entre el mundo clásico y el medieval**, especialmente para etimologías y transmisión textual. Y hay todo un grupo de autores de la Antigüedad tardía y el medievo (Orosio, Casiodoro, Beda, Sigiberto) que Mariana usa para anclar cronologías y tradiciones eclesiásticas.
 
-**Intervención de la IA**: El agente realizó **búsquedas web automatizadas** contra cada catálogo, consultando uno por uno los 68 autores. Para cada autor, el agente:
-1. Buscaba su ID VIAF y ficha de autoridad
-2. Consultaba el USTC para verificar ediciones pre-1592
-3. Buscaba en los catálogos españoles ejemplares conservados
-4. Documentaba cada hallazgo en la tabla con su fuente y enlace
+La clasificación completa de las 180 citas está en `data/tabla_base.csv` — es la materia prima para el análisis historiográfico que está pendiente de redactar.
 
-Este proceso, que manualmente habría llevado semanas, se completó en horas gracias a la capacidad del agente de realizar **búsquedas paralelas y sistemáticas**.
+---
 
-#### 3. OCR y validación automatizada (fases 7–8)
+## El papel de la inteligencia artificial
 
-Se descargó de Internet Archive la edición de 1617 (tomo primero) y se ejecutó un OCR completo, generando un archivo de texto de **3.8 MB** con aproximadamente **96.000 líneas**.
+Este proyecto se ha desarrollado con la asistencia de **agentes de IA** (Claude de Anthropic, ejecutándose en el entorno OpenCode). Merece una explicación transparente de cómo se usó y qué límites tuvo.
 
-**Intervención de la IA**: El agente escribió y ejecutó el script `validate_table_against_1617.py`, que:
+### ¿Para qué se usó la IA?
 
-1. Segmenta el OCR por libros usando los títulos de capítulo como marcadores
-2. Para cada una de las 180 citas, busca el nombre del autor en la zona del libro correspondiente
-3. Extrae el **fragmento candidato** (contexto OCR) donde aparece el nombre
-4. Marca cada cita como "Confirmado en 1617", "No localizado" o "Localizado en el libro"
-5. Genera automáticamente los archivos de validación en `data/validacion_por_lotes.*`
-
-**Resultado**: 113 de 180 citas (62.8%) fueron localizadas automáticamente en la edición de 1617.
-
-#### 4. Identificación de obras explícitas (fase 9)
-
-El agente aplicó un segundo script (`apply_explicit_works_phase2_complete.py`) que examinaba cada fragmento OCR validado para determinar si Mariana **nombraba la obra** además del autor en el mismo pasaje. Esto requiere un análisis semántico: no basta con que aparezca "Plinio", tiene que aparecer "Plinio, al fin de su historia natural".
-
-**Intervención de la IA**: El agente analizó cada fragmento candidato y aplicó criterios conservadores:
-- Solo se marca como "obra explícita" si autor + obra aparecen en el mismo pasaje del OCR
-- Las identificaciones dudosas se dejan sin asignar
-- Cada entrada incluye la evidencia textual (líneas del OCR donde aparece)
-
-**Resultado**: 18 obras explícitas identificadas en los Libros I–IV.
-
-#### 5. Reorientación metodológica y análisis
-
-A mitad del proceso, el equipo (Carlos + agente IA) se reunió con un experto en historiografía que recomendó cambiar el enfoque: pasar de "¿tuvo acceso?" (difícil de probar sin evidencia material directa) a "¿para qué usa cada autor?" (analizable desde el texto mismo).
-
-**Intervención de la IA**: El agente documentó esta decisión en `PLAN_REORIENTACION_METODOLOGICA.md` y reclasificó las 180 citas por **función historiográfica**, no solo por existencia.
+- **Escribir scripts Python** que automatizan el procesamiento de datos — desde la extracción de tablas del Word original hasta la validación contra 96.000 líneas de OCR
+- **Realizar búsquedas sistemáticas** en los 6 catálogos internacionales, autor por autor, para verificar la existencia de ediciones pre-1592 — un proceso que manualmente habría llevado semanas
+- **Procesar el OCR masivo** de la edición de 1617, segmentándolo por libros y capítulos para localizar cada mención de autor
+- **Analizar los fragmentos** para identificar obras explícitas (donde autor + obra aparecen juntos)
+- **Reestructurar el repositorio**, actualizar rutas en los scripts, redactar documentación
 
 ### ¿Qué NO hizo la IA?
 
-Es importante dejar claro los límites:
+- **No leyó la obra original**: el investigador leyó la edición de 1601 y tomó notas. La IA trabajó sobre esas notas.
+- **No definió el criterio historiográfico**: la clasificación por función de cita la definió el investigador con el asesor.
+- **No visitó la biblioteca**: la verificación de exlibris jesuitas requiere visita presencial.
+- **No cotejó el facsímil**: la transcripción verificada de los fragmentos OCR es manual y está pendiente.
 
-1. **La lectura de la obra original** la hizo Carlos, no la IA. El agente trabajó sobre las notas que él tomó.
-2. **La verificación en Biblioteca de Castilla-La Mancha** requiere visita presencial para comprobar exlibris jesuitas. La IA solo pudo consultar los catálogos digitales.
-3. **El criterio historiográfico** (clasificar por función de cita) lo define Carlos con ayuda del experto. La IA ejecuta la clasificación, pero no sustituye el juicio académico.
-4. **La transcripción verificada de fragmentos** (fase 10) requiere cotejar el OCR contra el facsímil real, algo que debe hacer el investigador.
+### Principios de verificación
 
-La IA actuó como **asistente de investigación**: ejecutó búsquedas sistemáticas, procesó grandes volúmenes de texto, generó tablas estructuradas, y liberó al investigador para centrarse en el análisis crítico y la interpretación.
+Para mitigar el riesgo de alucinaciones (fabricación de referencias), se siguieron estos principios:
 
----
+1. **Trazabilidad**: cada autor verificado tiene su ID VIAF documentado en las tablas
+2. **Fuente primaria real**: el OCR de 1617 es un documento auténtico descargado de Internet Archive
+3. **Criterio conservador**: las obras explícitas solo se asignan cuando el OCR muestra claramente autor + obra en el mismo pasaje
+4. **Validación manual pendiente**: todas las entradas automatizadas están marcadas para verificación visual contra el facsímil
 
-## Sobre la verificación con fuentes académicas
-
-Uno de los temores habituales con la IA es que "invente" referencias o datos (las conocidas alucinaciones). Para mitigarlo, se siguieron estos principios:
-
-1. **Trazabilidad**: cada autor verificado tiene su ID VIAF documentado. Cualquier lector puede comprobar que el autor existe y que las ediciones citadas son reales.
-2. **Fuentes primarias**: el OCR de la edición 1617 es una fuente digitalizada real, descargada de Internet Archive. Los fragmentos citados en las tablas de validación son literales del OCR (aunque el OCR del siglo XVII tiene errores de reconocimiento).
-3. **Criterio conservador**: en la identificación de obras explícitas, solo se asignó "obra asociada" cuando el OCR mostraba claramente autor + obra en el mismo pasaje. Las dudas se dejaron sin asignar.
-4. **Contraste manual pendiente**: toda la validación automatizada está marcada como "Pendiente de verificación visual" hasta que se coteje con el facsímil real.
-5. **El investigador decide**: la IA propone clasificaciones y detecta patrones, pero la interpretación historiográfica final es de Carlos.
-
-Este enfoque —IA como **herramienta de procesamiento y búsqueda** combinada con **juicio humano** en cada paso— es la clave metodológica del proyecto.
-
----
-
-## Hallazgos clave
-
-### Autores con status especial
-
-| Categoría | Autores | Implicación |
-|-----------|---------|-------------|
-| **Falsificación** | Falso Beroso (Annio de Viterbo) | Mariana utiliza una obra forjada en 1498, no fuentes antiguas genuinas |
-| **Obra perdida** | Filisto, Quinto Fabio Píctor | Solo fragmentos conservados; Mariana cita a través de tradición indirecta |
-| **Principalmente manuscritos** | Moro Rasis, Miguel Sincelo, Braulio, San Ildefonso | Sin edición impresa verificada antes de 1592 |
-| **Autoría dudosa** | Julio Capitolino, Trebellio Polión (Historia Augusta), Andrea de' Bardi | Atribuciones cuestionadas por la crítica textual |
-
-### Vías de transmisión
-
-1. **Ediciones impresas** (~70%): Desde 1450, producción masiva de clásicos
-2. **Compilaciones medievales** (~20%): Isidoro, Beda preservan fragmentos
-3. **Manuscritos** (~10%): Obras menores o fragmentos específicos
-
-### Incunables más antiguos localizados
-
-| Autor | Obra | Año |
-|-------|------|-----|
-| San Jerónimo | Vulgata | 1456 |
-| Cicerón | Opera | 1465 |
-| Virgilio | Opera | 1469 |
-| Tito Livio | Ab Urbe Condita | 1470 |
-| Plutarco | Vidas Paralelas | 1470 |
+La IA actuó como **asistente de investigación**: ejecutó búsquedas sistemáticas, procesó grandes volúmenes de texto, generó tablas estructuradas y liberó al investigador para centrarse en el análisis crítico y la interpretación.
 
 ---
 
@@ -274,62 +136,35 @@ cd TFG_JUAN_DE_MARIANA
 
 # Instalar dependencias
 pip install -r requirements.txt
-
-# Regenerar tabla base desde el Word original
-python scripts/build_citation_use_table.py
-
-# Validar contra OCR 1617
-python scripts/validate_table_against_1617.py
-
-# Identificar obras explícitas
-python scripts/apply_explicit_works_phase2_complete.py
 ```
 
-> **Nota**: El script `build_citation_use_table.py` requiere el archivo Word original (`Historia general de España.docx`) que no está incluido en el repositorio por derechos de autor. Las tablas pregeneradas en `data/` contienen el resultado completo del análisis.
+Los scripts se pueden ejecutar individualmente para regenerar las tablas, pero **requieren el Word original** (`Historia general de España.docx`) que no está en el repo por derechos de autor. Las tablas pregeneradas en `data/` contienen el resultado completo del análisis.
 
 ---
 
 ## Estado del proyecto
 
-| Fase | Estado |
+| Área | Estado |
 |------|--------|
-| Extracción y verificación de fuentes | ✅ Completo |
-| OCR y validación automatizada | ✅ Completo |
+| Extracción y verificación de autores | ✅ Completo |
+| Validación contra OCR | ✅ Completo |
 | Identificación de obras explícitas | ✅ Completo |
-| Reorientación metodológica | ✅ Completo |
+| Reorientación metodológica | ✅ Documentada |
 | Transcripción verificada de fragmentos | 🔲 Pendiente |
-| Análisis historiográfico completo | 🔲 Pendiente |
+| Análisis historiográfico | 🔲 Pendiente |
 | Redacción de conclusiones | 🔲 Pendiente |
 
 ---
 
 ## Referencias
 
-### Catálogos internacionales
-- [VIAF](https://viaf.org) — Authority files internacionales
-- [USTC](https://ustc.ac.uk) — Ediciones europeas pre-1600
-- [GW](https://gesamtkatalogderwiegendrucke.de) — Incunables (1450–1500)
+**Catálogos**: [VIAF](https://viaf.org) · [USTC](https://ustc.ac.uk) · [GW](https://gesamtkatalogderwiegendrucke.de) · [BNE](https://www.bne.es) · [CCPB](https://bvpb.mcu.es) · [Biblioteca CLM](https://patrimoniodigital.castillalamancha.es)
 
-### Bibliotecas españolas
-- [BNE](https://www.bne.es) — Biblioteca Nacional de España
-- [CCPB](https://bvpb.mcu.es) — Catálogo Colectivo del Patrimonio Bibliográfico Español
-- [Biblioteca CLM](https://patrimoniodigital.castillalamancha.es) — Fondo del Colegio de Jesuitas de Toledo
+**Bibliotecas digitales**: [Gallica](https://gallica.bnf.fr) · [Cervantes Virtual](https://www.cervantesvirtual.com) · [Internet Archive](https://archive.org)
 
-### Bibliotecas digitales
-- [Gallica](https://gallica.bnf.fr) — Bibliothèque nationale de France
-- [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com)
-
-### Referencias académicas
-- Cirot, G. *Mariana historien: études sur l'historiographie espagnole*. Burdeos: Feret & Fils, 1905.
-
----
-
-## Licencia
-
-El contenido académico y los datos de investigación son de acceso abierto.  
-Los scripts están disponibles bajo licencia MIT.
+**Obra principal**: Mariana, J. de. *Historia General de España*. Toledo, 1601. — *Historiae de rebus Hispaniae libri XXX*. Maguncia, 1617.
 
 ---
 
 **TFG Juan de Mariana** — Mayo 2026  
-[Repositorio](https://github.com/RRCarlos/TFG_JUAN_DE_MARIANA)
+[Repositorio en GitHub](https://github.com/RRCarlos/TFG_JUAN_DE_MARIANA)
