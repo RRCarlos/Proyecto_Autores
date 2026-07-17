@@ -265,7 +265,7 @@ Proyecto_Autores/
 │   ├── export_validation_table_md.py  — Exporta validación a Markdown
 │   └── summary_phase2.py             — Resumen de obras explícitas por libro
 │
-└── sources/
+└── Ediciones_HGE/
     ├── mariana_1617_tomo_primero_ocr.txt      — OCR completo del tomo primero (96K líneas, ~3.8 MB)
     └── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR
 ```
@@ -280,7 +280,7 @@ Proyecto_Autores/
 
 **`data/obras_explicitas.md`** — Los 18 casos en los que Mariana nombra al autor y la obra en el mismo pasaje. Incluye la evidencia OCR con las líneas exactas del texto.
 
-**`sources/mariana_1617_tomo_primero_ocr.txt`** — El archivo de mayor volumen del repositorio. Contiene el texto completo del tomo primero de la edición de 1617, extraído mediante OCR. Es una fuente primaria digitalizada, con todos los errores inherentes al reconocimiento óptico de tipografía del siglo XVII.
+**`Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`** — El archivo de mayor volumen del repositorio. Contiene el texto completo del tomo primero de la edición de 1617, extraído mediante OCR. Es una fuente primaria digitalizada, con todos los errores inherentes al reconocimiento óptico de tipografía del siglo XVII.
 
 ---
 
