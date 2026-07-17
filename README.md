@@ -7,7 +7,7 @@
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1592 la versión latina de su *Historia General de España* (*Historiae de rebus Hispaniae libri XX*, Toledo) y en 1601 la primera traducción al castellano. Posteriormente amplió la obra hasta los 30 libros en ediciones sucesivas (1605, 1608, 1617). Una de las obras de referencia de la historiografía europea hasta mediados del siglo XIX. En los cuatro primeros libros de esa obra —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **68 autores distintos** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1592 la versión latina de su *Historia General de España* (*Historiae de rebus Hispaniae libri XX*, Toledo) y en 1601 la primera traducción al castellano. En 1605 publicó la edición latina completa (*Libri XXX*, Maguncia) y en 1617 la edición castellana corregida y aumentada (Madrid). Una de las obras de referencia de la historiografía europea hasta mediados del siglo XIX. En los cuatro primeros libros de esa obra —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **68 autores distintos** para fundamentar su relato.
 
 La pregunta que guía este proyecto es:
 
@@ -27,7 +27,7 @@ Este proyecto se enmarca en un **Trabajo de Fin de Grado** cuyo objetivo inicial
 
 ### El giro metodológico
 
-A mitad de investigación, y con la orientación de un experto en historiografía, el equipo reorientó el eje del trabajo. La pregunta original —*¿tuvo acceso?*— se transformó en una más fértil:
+En un momento dado, el investigador reorientó el eje del trabajo. La pregunta original —*¿tuvo acceso?*— se transformó en una más fértil:
 
 > **¿Para qué usa Mariana a cada autor?**
 
