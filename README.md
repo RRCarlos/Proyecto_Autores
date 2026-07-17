@@ -7,7 +7,7 @@
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, compuso entre 1592 y 1615 su *Historia General de España*, una de las obras de referencia de la historiografía europea hasta mediados del siglo XIX. En los cuatro primeros libros de esa obra —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **68 autores distintos** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1592 la versión latina de su *Historia General de España* (*Historiae de rebus Hispaniae libri XX*, Toledo) y en 1601 la primera traducción al castellano. Posteriormente amplió la obra hasta los 30 libros en ediciones sucesivas (1605, 1608, 1617). Una de las obras de referencia de la historiografía europea hasta mediados del siglo XIX. En los cuatro primeros libros de esa obra —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **68 autores distintos** para fundamentar su relato.
 
 La pregunta que guía este proyecto es:
 
@@ -48,19 +48,21 @@ Comprender el sistema de citas de Mariana permite, entre otras cosas:
 
 ### 3.1 Edición de 1601 — Texto base
 
-La edición de referencia para este trabajo es la **primera traducción al castellano**, publicada en Toledo en 1601: *Historia General de España*. Es la edición que el investigador leyó íntegramente, tomando notas capítulo por capítulo en un documento Word. Toda la extracción de citas y la clasificación funcional de los autores parte de esa lectura directa.
+La edición de referencia para este trabajo es la **primera traducción al castellano**, publicada en Toledo en 1601: *Historia General de España*. El investigador leyó íntegramente los Libros I–IV de esta edición, tomando notas capítulo por capítulo en un documento Word. Toda la extracción de citas y la clasificación funcional de los autores parte de esa lectura directa.
 
-La elección de la edición de 1601 como base metodológica responde a que es la primera versión completa en lengua vernácla y, por tanto, la que Mariana ofreció al público hispanohablante.
+La elección de la edición de 1601 como base metodológica responde a que es la primera versión completa en lengua vernácula y, por tanto, la que Mariana ofreció al público hispanohablante.
 
 ### 3.2 Notas del investigador
 
-El punto de partida empírico del proyecto es un **documento Word** (*Historia general de España.docx*) donde el investigador recogió, durante la lectura de la edición de 1601, todas las menciones a autores en los Libros I–IV. Cada entrada incluye:
+El punto de partida empírico del proyecto es un **documento Word** (*Historia general de España.docx*) donde el investigador recogió, durante la lectura de la edición de 1601, las menciones a autores en los Libros I–IV. Cada entrada incluye:
 
 - Libro y capítulo donde aparece la mención.
 - Nombre del autor citado (tal como aparece en Mariana).
-- Pasaje o contexto de la cita.
+- Contexto de la cita.
 - Función que cumple esa cita dentro del argumento.
-- Tipo de fuente (clásica, bíblica, medieval, humanista, fragmentaria, falsificada, etc.).
+- Tipo de fuente (realizado a partir de una búsqueda rápida de cada autor).
+
+**Nota:** Durante el procesamiento automatizado, la IA detectó que podían faltar autores en las notas originales. Este aspecto está pendiente de re-verificación.
 
 Esas notas constituyen la **fuente primaria** del proyecto: todo lo que sigue —tablas, validaciones, clasificaciones— se construyó a partir de ellas. El documento Word original no se incluye en el repositorio por derechos de autor, pero su contenido está completamente volcado en `data/tabla_base.csv`.
 
@@ -104,15 +106,6 @@ Para verificar la existencia de cada uno de los 68 autores y la disponibilidad d
 | [GW](https://gesamtkatalogderwiegendrucke.de) | Gesamtkatalog der Wiegendrucke. Incunables (1450–1500). |
 | [CCPB](https://bvpb.mcu.es) | Catálogo Colectivo del Patrimonio Bibliográfico Español. |
 
-La Biblioteca de Castilla-La Mancha reviste especial interés porque conserva los fondos del **antiguo Colegio de Jesuitas de Toledo**, del que Mariana fue miembro. Sus fondos incluyen más de 400 incunables, 1.000 manuscritos y 100.000 impresos de los siglos XVI–XIX, lo que la convierte en el depósito más probable de exemplares que Mariana pudo consultar directamente.
-
-### 3.5 Fuentes secundarias
-
-- Cirot, G. *Mariana historien: études sur l'historiographie espagnole*. Burdeos: Feret & Fils, 1905.
-- [Gallica](https://gallica.bnf.fr) — Biblioteca digital de la BnF.
-- [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com).
-- [Internet Archive](https://archive.org) — Fuente de la edición de 1617 en formato digital.
-
 ---
 
 ## 4. Resultados
@@ -137,13 +130,13 @@ Dentro del grupo de autores cuya situación bibliográfica presenta complejidad,
 
 | Autor | Problema |
 |-------|----------|
-| Falso Beroso (Annio de Viterbo) | Giovanni Nanni (1437–1502) publicó en 1498 textos que atribuyó falsamente al historiador babilónico Beroso. La falsificación fue denunciada ya en el siglo XVI por Scaliger. Paradójicamente, Mariana cita a Beroso precisamente para desacreditar las leyendas sobre los primeros reyes de España: usa una falsificación como herramienta de crítica de fuentes. |
+| Falso Berroso (Annio de Viterbo) | Giovanni Nanni (1437–1502) publicó en 1498 textos que atribuyó falsamente al historiador babilónico Berroso. La falsificación fue denunciada ya en el siglo XVI por Scaliger. Paradójicamente, Mariana cita a Berroso precisamente para desacreditar las leyendas sobre los primeros reyes de España: usa una falsificación como herramienta de crítica de fuentes. |
 
 **Obras perdidas:**
 
 | Autor | Problema |
 |-------|----------|
-| Filisto de Siracusa | Obra completamente perdida (13 libros). Solo se conservan fragmentos a través de citas en otros autores. |
+| Filisto de Siracusa | Obra completamente perdida (11 libros). Solo se conservan fragmentos a través de citas en otros autores. |
 | Quinto Fabio Píctor | Obra completamente perdida. Solo se conservan fragmentos citados por Polibio, Dionisio de Halicarnaso, Tito Livio y Plutarco. |
 
 **Principalmente manuscritos:**
@@ -170,7 +163,7 @@ Se identificaron **18 casos** en los que Mariana nombra al autor **y** la obra e
 | Autor | Obra | Libro | Capítulo |
 |-------|------|-------|----------|
 | Plinio el Viejo | *Naturalis Historia* | I | I |
-| Falso Beroso | *Tablas de Beroso* | I | VII |
+| Falso Berroso | *Tablas de Berroso* | I | VII |
 | San Isidoro | *Etimologías* | I | VII |
 | Platón | *Timeo* | I | XV |
 | Antonino | *Itinerario* | I | XVI |
