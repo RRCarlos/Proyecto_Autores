@@ -1,5 +1,7 @@
 # Plan: Separación del OCR en Libros I–IV
 
+> **Estado actual: FASE 2 EN CURSO** — La fase 1 está cerrada (edición localizada, verificada, PDF descargado). La fase 2 (extracción de Libros I–IV del PDF) aún no ha comenzado. Para retomar: leer `EDICION_1617_USO.md` para contexto de la edición, y usar el PDF `Downloads/HGE_Tomo1_1617.pdf` como fuente. La estructura del PDF ya está mapeada (Libros I–IV = págs 43–234).
+
 ## Objetivo
 
 Obtener los textos individualizados de los Libros I, II, III y IV de la edición de 1617 de la *Historia General de España* de Juan de Mariana, partiendo directamente del PDF digitalizado, y verificarlos contra el OCR existente (`mariana_1617_tomo_primero_ocr.txt`).
@@ -26,9 +28,9 @@ Obtener los textos individualizados de los Libros I, II, III y IV de la edición
 
 ---
 
-## Fase 2: Extraer el OCR de los Libros I–IV
+## Fase 2: Extraer el OCR de los Libros I–IV ◀ EN CURSO
 
-> **Nota:** Se trabaja directamente con el PDF. El archivo `mariana_1617_tomo_primero_ocr.txt` se trata como si no existiera en esta fase.
+> **Inicio pendiente.** Se trabaja directamente con el PDF. El archivo `mariana_1617_tomo_primero_ocr.txt` se trata como si no existiera en esta fase.
 
 | Tarea | Descripción |
 |-------|-------------|
