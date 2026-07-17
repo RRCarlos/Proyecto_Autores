@@ -48,7 +48,21 @@ Comprender el sistema de citas de Mariana permite, entre otras cosas:
 
 ### 3.1 Edición de 1601 — Texto base
 
-La edición de referencia para este trabajo es la **primera traducción al castellano**, publicada en Toledo en 1601: *Historia General de España*. El investigador leyó íntegramente los Libros I–IV de esta edición, tomando notas capítulo por capítulo en un documento Word. Toda la extracción de citas y la clasificación funcional de los autores parte de esa lectura directa.
+La edición de referencia para este trabajo es la **primera traducción al castellano**, publicada en Toledo en 1601: *Historia General de España*, por Pedro Rodríguez. El investigador dispone del archivo de texto completo (OCR de la digitalización BNE Digital) de ambas ediciones, almacenado en `Ediciones_HGE/HGE_TomosI-II.txt` (~5.8 MB, 98.805 líneas).
+
+**Ficha técnica de la edición de 1601:**
+
+| Campo | Valor |
+|-------|-------|
+| Título completo | *Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana* |
+| Lugar | Toledo |
+| Imprenta | Pedro Rodríguez |
+| Fecha | 5 de octubre de 1601 |
+| Formato | 2 tomos en folio: Tomo I (4h + 1015 pág.), Tomo II (2h + 962 pág. + 13h) |
+| OCLC | 36264560 |
+| USTC | 5006449 |
+
+**Límites del TXT**: El archivo proviene de un OCR de una digitalización de la BNE Digital. Contiene artefactos de reconocimiento óptico propios de la tipografía del siglo XVI (ſ→f, v/u intercambiables, ligaduras rotas, abreviaturas de imprenta). Estos artefactos son predecibles y se mitigan con normalización ortográfica antes de la comparación textual. Ver la sección 3.6 para más detalles.
 
 La elección de la edición de 1601 como base metodológica responde a que es la primera versión completa en lengua vernácula y, por tanto, la que Mariana ofreció al público hispanohablante.
 
@@ -66,19 +80,13 @@ El punto de partida empírico del proyecto es un **documento Word** (*Historia g
 
 Esas notas constituyen la **fuente primaria** del proyecto: todo lo que sigue —tablas, validaciones, clasificaciones— se construyó a partir de ellas. El documento Word original no se incluye en el repositorio por derechos de autor, pero su contenido está completamente volcado en `data/tabla_base.csv`.
 
-### 3.3 Edición de 1617 — Testigo auxiliar para OCR
+### 3.3 Edición de 1617 — Testigo auxiliar para contraste
 
-La edición latina ampliada de 1617 (*Historiae de rebus Hispaniae libri XXX*, Maguncia) se incorporó al proyecto como **herramienta de validación**, no como sustituta de la de 1601. Su función es auxiliar: facilitar la localización de pasajes mediante búsqueda de texto.
+La edición de 1617 (*Historia General de España*, Madrid, Viuda de Alonso Martín, "corregida y muy aumentada") se incorporó al proyecto como **herramienta de contraste secundaria**, no como sustituta de la de 1601. Su función es auxiliar: facilitar la localización de pasajes mediante búsqueda de texto y servir como punto de comparación para detectar cambios entre ediciones.
 
-La razón es práctica: de la edición de 1617 se descargó el tomo primero de Internet Archive y se ejecutó un OCR completo, generando un archivo de texto de **aproximadamente 96.000 líneas** (~3.8 MB). Ese texto permite a los agentes de IA procesar la obra y localizar menciones de autores de forma automatizada. La edición de 1601, en cambio, no está disponible en formato digital procesable.
+**Limitaciones**: Solo se dispone del tomo primero (OCR de Internet Archive, `Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`, ~96.000 líneas). El propio Mariana declaró que esta edición contenía más de 500 correcciones respecto a la de 1608 (que a su vez era corregida desde 1601).
 
-**Limitaciones importantes:**
-
-- Solo se dispone del **tomo primero** (Libros I–IV). Los tomos II, III y IV de la edición completa no han sido incorporados.
-- El OCR de una obra del siglo XVII con tipografía de la época genera **errores significativos**: variantes ortográficas, letras confundidas (larga s → f, v → u), nombres propios distorsionados.
-- Todos los resultados de la validación automática están marcados como **"Pendiente de verificación visual"**: el OCR ayuda a localizar pasajes, pero no reemplaza al facsímil.
-
-El corpus se limita a los **Libros I–IV** dentro del tomo primero. No se procesarán libros posteriores salvo necesidad puntual de contraste bibliográfico.
+**Nota**: La validación original del proyecto (113/180 citas localizadas) se realizó contra el OCR de 1617. La verificación definitiva se realizará contra la edición de 1601.
 
 ### 3.4 Catálogos de verificación
 
@@ -235,12 +243,11 @@ Las obras llegaron a Mariana principalmente por tres vías:
 | Área | Estado |
 |------|--------|
 | Extracción y verificación de autores | ✅ Completo — 68 autores verificados |
-| Validación contra OCR 1617 | ✅ Completo — 113/180 localizados |
+| Búsqueda de edición de 1601 digital | ✅ Completo — TXT de ambas ediciones obtenido |
+| Validación contra OCR 1617 | ✅ Completo — 113/180 localizados (testigo auxiliar) |
 | Identificación de obras explícitas | ✅ Completo — 18 casos |
 | Reorientación metodológica | ✅ Documentada |
-| Fase 1 separación OCR (localización edición) | ✅ Completo — edición 1617 verificada, PDF descargado |
-| Fase 2 separación OCR (extracción Libros I–IV) | 🔲 Pendiente |
-| Transcripción verificada de fragmentos | 🔲 Pendiente — verificación visual contra facsímil |
+| Verificación de citas contra edición 1601 | 🔲 Pendiente — normalización ortográfica + búsqueda |
 | Análisis historiográfico | 🔲 Pendiente |
 | Redacción de conclusiones | 🔲 Pendiente |
 
@@ -268,23 +275,28 @@ Proyecto_Autores/
 │   └── summary_phase2.py             — Resumen de obras explícitas por libro
 │
 └── Ediciones_HGE/
-    ├── EDICION_1617_USO.md                       — Ficha completa de la edición 1617 (fuente, OCR, ediciones descartadas)
-    ├── mariana_1617_tomo_primero_ocr.txt          — OCR completo del tomo primero (96K líneas, ~3.8 MB)
-    ├── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR
-    └── PLAN_SEPARACION_OCR.md                     — Plan de separación en Libros I–IV (fase 1 completada)
+    ├── HGE_TomosI-II.txt                        — Texto completo de la edición de 1601 (Tomo I + II, ~5.8 MB, 98K líneas)
+    ├── mariana_1617_tomo_primero_ocr.txt         — OCR del tomo primero de la edición de 1617 (96K líneas)
+    ├── mariana_1617_tomo_primero_page_numbers.json — Mapeo de páginas del OCR 1617
+    ├── EDICION_1617_USO.md                       — Ficha de la edición 1617
+    ├── INVESTIGACION_1601_LOG.md                 — Bitácora de búsqueda de la edición de 1601
+    ├── PLAN_INVESTIGACION_1601.md                — Plan de investigación de la edición de 1601
+    └── PLAN_SEPARACION_OCR.md                   — Plan de separación en Libros I–IV
 ```
 
 ### Descripción de archivos principales
 
+**`Ediciones_HGE/HGE_TomosI-II.txt`** — Texto completo de la edición de 1601 (Tomo I + II). Obtenido del OCR de la digitalización BNE Digital. Contiene ambas partes de la obra de Mariana: Tomo I (Libros I–XV, ~48.800 líneas) y Tomo II (Libros XVI–XXX, ~50.000 líneas). Incluye artefactos OCR propios de la tipografía del siglo XVI (ver sección 3.6).
+
 **`data/tabla_base.csv`** — Es el núcleo del proyecto. Contiene las 180 citas extraídas del documento Word original, organizadas con los siguientes campos: orden, libro, capítulo, título del capítulo, autor citado, forma normalizada, obra asociada, pasaje/contexto, función de la cita, tipo de fuente y observaciones.
 
-**`data/validacion_1617.csv`** — Las mismas 180 citas cruzadas con el OCR de la edición de 1617. Indica para cada una si el autor fue localizado o no en el texto impreso.
+**`data/validacion_1617.csv`** — Las mismas 180 citas cruzadas con el OCR de la edición de 1617. Indica para cada una si el autor fue localizado o no en el texto impreso. Resultado preliminar (pendiente de verificación contra edición de 1601).
 
 **`data/validacion_por_lotes.md`** — La validación completa, organizada en 12 lotes por rangos de capítulos. Incluye los fragmentos OCR candidatos y la columna de transcripción verificada manualmente (todavía vacía, pendiente de verificación visual).
 
 **`data/obras_explicitas.md`** — Los 18 casos en los que Mariana nombra al autor y la obra en el mismo pasaje. Incluye la evidencia OCR con las líneas exactas del texto.
 
-**`Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`** — El archivo de mayor volumen del repositorio. Contiene el texto completo del tomo primero de la edición de 1617, extraído mediante OCR. Es una fuente primaria digitalizada, con todos los errores inherentes al reconocimiento óptico de tipografía del siglo XVII.
+**`Ediciones_HGE/mariana_1617_tomo_primero_ocr.txt`** — Texto del tomo primero de la edición de 1617, extraído mediante OCR. Fuente auxiliar de contraste (ya no es la fuente primaria de verificación).
 
 ---
 
@@ -306,9 +318,11 @@ Proyecto_Autores/
 
 | Biblioteca | URL |
 |------------|-----|
+| BNE Digital (Biblioteca Nacional de España) | https://bnedigital.bne.es |
 | Gallica (BnF) | https://gallica.bnf.fr |
 | Biblioteca Virtual Miguel de Cervantes | https://www.cervantesvirtual.com |
 | Internet Archive | https://archive.org |
+| Lau Haizeetara Digital (Bizkaia) | https://liburutegibiltegi.bizkaia.eus |
 
 ### Obra de referencia
 
