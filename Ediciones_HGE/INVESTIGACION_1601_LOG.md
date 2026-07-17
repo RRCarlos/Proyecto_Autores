@@ -5,8 +5,8 @@
 | Campo | Valor |
 |-------|-------|
 | **Inicio** | 2026-07-17 |
-| **Estado** | EN CURSO |
-| **Fase actual** | Fase 2 — Validación (tras Oleada 2) |
+| **Estado** | EN CURSO — Fase 2 completada |
+| **Fase actual** | Fase 3 — Decisión (Candidatos consolidados) |
 
 ---
 
@@ -132,7 +132,7 @@
 ## Fase 4A — Verificación de candidato
 
 **Fecha**: --
-**Estado**: No aplicada / Pendiente
+**Estado**: Pendiente (requiere decisión Fase 3)
 
 ---
 
@@ -153,33 +153,74 @@
 
 ---
 
-## Fase 5 — Oleada 3: Contacto directo
+## Fase 5 — Oleada 3: Búsqueda final + descarte
 
-**Fecha**: --
-**Estado**: Pendiente
+**Fecha**: 2026-07-17
+**Estado**: Completada ✅
+
+### Nuevos hallazgos
+
+#### Candidato 4: Biblioteca Foral de Bizkaia (Lau Haizeetara Digital)
+
+| Campo | Valor |
+|-------|-------|
+| **Repositorio** | Biblioteca Foral de Bizkaia — Lau Haizeetara Digital |
+| **Handle** | `liburutegibiltegi.bizkaia.eus/handle/20.500.11938/71883` |
+| **Viewer** | `liburutegibiltegi.bizkaia.eus/handle/20.500.11938/71883/viewer/461613` |
+| **Contenido** | Solo **Tomo II** — [4]+962+[25] p., Fol. |
+| **Imprenta** | Toledo, Pedro Rodríguez, 1601 |
+| **Notas físico** | Portada con escudo real; apostillas marginales en la mayoría de las páginas |
+| **Derechos** | Public Domain Mark (PDM) |
+| **¿Tomo I?** | ❌ NO — el tomo I en Bizkaia es de 1678 (otra edición) |
+| **Estado visor** | PDF.js cargado pero documento no se renderizó vía webfetch (puede funcionar en navegador) |
+
+#### Confirmación: Internet Archive NO tiene la edición de 1601
+
+Todas las ediciones de Mariana en Internet Archive son posteriores:
+
+| ID | Año | Editor | Tomo |
+|---|---|---|---|
+| historiagenerald01mari | 1780 | Ibarra (14ª impresión) | I |
+| A212089 | 1678 | García de la Iglesia | I |
+| A212090 | 1678 | García de la Iglesia | II |
+| A276449 | 1818 | Sabau y Blanco | I |
+| historiageneraldes00mari | 1794 | Benito Cano | — |
+| historiageneral00migoog | 1839 | F. Oliva (Barcelona) | — |
+| ARes71211 | 1592 | Pedro Rodríguez | — (latín original) |
+
+#### Descartes definitivos
+
+| Candidato | Razón de descarte |
+|---|---|
+| cristoraul.org (7 tomos PDF) | Edición de **1780 Ibarra** ("DECIMACUARTA IMPRESIÓN"), no 1601 |
+| clasicoshistoria.blogspot.com | Transcripción basada en 1780 |
+| Cervantes Virtual (enlaces múltiples) | Ediciones 1678, 1780, 1794 — ninguna es 1601 |
+| Deutsche Digitale Bibliothek | Solo tiene 1592 (latín) y 1605 (Maguncia) |
+
+### Tabla consolidada de candidatos (post-Oleada 3)
+
+| # | Candidato | Tomo I | Tomo II | Formato | Acceso | OCR | Notas |
+|---|---|---|---|---|---|---|---|
+| 1 | **U. de Chile** | ✅ | ✅ | FlippingBook | Lectura online | Desconocido (imagen) | Ambos tomos, Public Domain |
+| 2 | **BNE Digital** | Probable | Probable | PDF/TXT/JPEG | Manual (403 programático) | TXT puede ser bueno | Verificar manualmente |
+| 3 | **Bizkaia** | ❌ | ✅ | PDF viewer | Public Domain | Desconocido | Solo tomo II |
+| 4 | **Cartagena (USal)** | ❌ | Parcial | Transcripción + escaneados | Online | Bueno (diplomático) | Solo pp. 252-476 |
 
 ---
 
-## Fase 6 — Síntesis y selección
+## Fase 3 — Punto de decisión
 
-**Fecha**: --
-**Estado**: Pendiente
+**Fecha**: 2026-07-17
+**Estado**: ◀ EN CURSO — Se requiere decisión del usuario
 
----
+### Decisión pendiente
 
-## Fase 7 — Reporte final
+¿Qué candidato elegimos como referencia textual para verificar 180 citas?
 
-**Fecha**: --
-**Estado**: Pendiente
+**Opción A** — **U. de Chile** (ambos tomos): Acceso inmediato, FlippingBook. Limitación: no se puede descargar PDF directamente; calidad OCR desconocida.
 
----
+**Opción B** — **BNE Digital** (verificar manualmente): El usuario confirma que ya accedió al PDF pero el OCR era malo (imágenes). Sin embargo, puede haber descarga de TXT que sí tenga texto. Requiere verificación manual del usuario.
 
-## Errores y problemas encontrados
+**Opción C** — **Híbrido U. de Chile + Bizkaia**: U. de Chile para tomo I, Bizkaia para tomo II (ambos con licencia abierta).
 
-| # | Fase | Problema | Acción tomada | Resultado |
-|---|------|----------|---------------|-----------|
-| 1 | Fase 1 | BNE búsqueda directa falló (site:bdh.bne.es no encontró la edición) | Cambiar a búsqueda en datos.bne.es (catálogo) | Encontrada en Oleada 2 |
-| 2 | Fase 2 | BNE visor BDH devuelve HTTP 403 | Documentar URL antigua; buscar URL alternativa | Pendiente investigación |
-| 3 | Fase 2 | U. de Chile: no hay descarga PDF directa (solo FlippingBook) | Investigar si hay API o exportación | Pendiente investigación |
-| 4 | Fase 2 | Biblioteca Cartagena: solo tomo II parcial (pp. 252-476) | Usar como referencia complementaria | OK — no es fuente primaria |
-| 5 | Fase 1 | Búsqueda inicial no encontró la edición de 1601 | Reintentar con búsquedas más específicas | Resuelto en Oleada 2 |
+**Opción D** — **Buscar alternativa no encontrada**: Si ninguna opción satisface, la Fase 5 del plan sugiere contactar repositorios directamente (Cátedra Menéndez Pidal, CSIC, universidades con fondos antiguos).
