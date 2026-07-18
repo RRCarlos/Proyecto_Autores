@@ -231,6 +231,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Eusebio de Cesarea | 2 | II | Cronología antigua, datos numéricos de batallas navales |
 | Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
 | Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
+| *Filón de Biblos | 1 | I | Costumbres fenicias de sacrificio humano (hallado como "Philon", línea 1987) |
 | *Festo Pompeyo | 1 | I | Instituciones políticas de Cartago (suffetes) |
 | Floro | 1 | III | Guerras civiles en Hispania |
 | Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
@@ -238,6 +239,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
 | Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
 | Marco Varrón | 11 | I, II, III | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
+| *Nicéforo | 1 | IV | Martirio de Cristóbal (hallado como "Nicephoro", línea 1446) |
 | Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
 | Ovidio Naso | 1 | III | Poemas de destierro, referencias a poetas hispanos |
 | *Polibio | 3 | II | Guerras púnicas, asedio de Sagunto, tácticas militares cartaginesas |
@@ -245,6 +247,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Plinio | 19 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía, datos numéricos |
 | Plutarco | 7 | I, II, III, IV | Biografías comparadas, etimología, costumbres, enfermedades, guerras civiles |
 | Pomponio Mela | 2 | I, III | Geografía costera de Galicia, monumentos augustales |
+| *Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano (hallado como "Pogio Plorentin", línea 460) |
 | Procopio | 2 | IV | Usurpaciones imperiales, historia bizantina tardía |
 | Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
 | Prudencio | 6 | IV | Martirologio cristiano, poesía hispanolatina, concilios, martyres |
@@ -266,7 +269,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 56**
+**Total de autores distintos: 59**
 
 ## Autores no encontrados en los archivos TXT
 
