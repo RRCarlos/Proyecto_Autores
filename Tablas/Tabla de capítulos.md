@@ -2,115 +2,115 @@
 
 ## Libro Primero
 
-| Capítulo | Título |
-|----------|--------|
-| I | De la venida de Tubal, y de la fertilidad de España |
-| II | Del asiento y circunferencia de España |
-| III | De los montes y ríos principales de España |
-| IV | De dos divisiones de España, la antigua, y la moderna |
-| V | De las lenguas de España |
-| VI | De las costumbres de los Españoles |
-| VII | De los reyes fabulosos de España |
-| VIII | De los Geriones |
-| IX | Del rey Hispalo, y de la muerte de Hércules |
-| X | De Hespero y Atlas reyes de España |
-| XI | De Sículo rey de España |
-| XII | De diversas gentes que vinieron a España |
-| XIII | De las cosas de Abides, y de la sequedad general de España |
-| XIIII | Cómo los Celtas, Assyrios, y los de Rodas vinieron a España |
-| XV | De la venida de los de Fenicia a España |
-| XVI | Cómo los Cartagineses tomaron Ibiza, y acometieron a los Mallorquines |
-| XVII | De la edad de Argantonio |
-| XVIII | Cómo los Fenicios trataron de apoderarse de España |
-| XIX | Cómo los Cartagineses se levantaron contra los de Cádiz |
-| XX | Cómo Saphón vino en España |
-| XXI | Cómo Himilcón y Hannon descubrieron nuevas navegaciones |
-| XXII | De la navegación de Hannón |
+| Cap | Título | Línea |
+|-----|--------|-------|
+| I | De la venida de Tubal, y de la fertilidad de España | 4 |
+| II | Del asiento y circunferencia de España | 121 |
+| III | De los montes y ríos principales de España | 242 |
+| IV | De dos divisiones de España, la antigua, y la moderna | 321 |
+| V | De las lenguas de España | 514 |
+| VI | De las costumbres de los Españoles | 561 |
+| VII | De los reyes fabulosos de España | 615 |
+| VIII | De los Geriones | 776 |
+| IX | Del rey Hispalo, y de la muerte de Hércules | 967 |
+| X | De Hespero y Atlas reyes de España | 1051 |
+| XI | De Sículo rey de España | 1171 |
+| XII | De diversas gentes que vinieron a España | 1282 |
+| XIII | De las cosas de Abides, y de la sequedad general de España | 1496 |
+| XIIII | Cómo los Celtas, Assyrios, y los de Rodas vinieron a España | 1639 |
+| XV | De la venida de los de Fenicia a España | 1759 |
+| XVI | Cómo los Cartagineses tomaron Ibiza, y acometieron a los Mallorquines | 1887 |
+| XVII | De la edad de Argantonio | 1997 |
+| XVIII | Cómo los Fenicios trataron de apoderarse de España | 2119 |
+| XIX | Cómo los Cartagineses se levantaron contra los de Cádiz | 2340 |
+| XX | Cómo Saphón vino en España | 2495 |
+| XXI | Cómo Himilcón y Hannon descubrieron nuevas navegaciones | 2596 |
+| XXII | De la navegación de Hannón | 2732 |
 
 ## Libro Segundo
 
-| Capítulo | Título |
-|----------|--------|
-| I | Que Hannón y sus hermanos volvieron a su tierra |
-| II | De las cosas por los Españoles hechas en Sicilia |
-| III | Cómo la guerra de Sicilia se movió de nuevo |
-| IIII | De lo que hizo Hannon |
-| V | De una embajada que se envió a Alejandro, rey de Macedonia |
-| VI | De la primera guerra Púnica contra Cartago |
-| VII | Cómo Amílcar vino otra vez a España |
-| VIII | De lo que Asdrúbal hizo |
-| IX | De la guerra Saguntina |
-| X | Del principio de la segunda guerra Púnica contra Cartago |
-| XI | Cómo Aníbal pasó en Italia |
-| XII | De lo que sucedió por el mismo tiempo en España |
-| XIII | De la batalla que se dio junto al lago Trasimeno |
-| XIIII | Cómo Publio Scipión vino a España |
-| XV | Cómo Asdrúbal no pudo entrar en Italia |
-| XVI | Cómo los Cartagineses fueron maltratados en muchas partes de España |
-| XVII | De una nueva guerra que se emprendió en África |
-| XVIII | Cómo los Scipiones fueron muertos en España |
-| XIX | Cómo Lucio Marcio reprimió el atrevimiento de los Cartagineses |
-| XX | Cómo Publio Escipión tomó a Cartagena |
-| XXI | Como Asdrúbal Barchino fue vencido por Scipión |
-| XXII | Como echaron a los Cartagineses de España |
-| XXIII | De otras cosas que Escipión hizo en España |
-| XXIIII | Como Scipión venció a Cartago en África |
-| XXV | Como M. Porcio Catón siendo cónsul vino a España |
-| XXVI | De diferentes pretores que vinieron a España |
+| Cap | Título | Línea |
+|-----|--------|-------|
+| I | Que Hannón y sus hermanos volvieron a su tierra | 1 |
+| II | De las cosas por los Españoles hechas en Sicilia | 84 |
+| III | Cómo la guerra de Sicilia se movió de nuevo | 316 |
+| IIII | De lo que hizo Hannon | 378 |
+| V | De una embajada que se envió a Alejandro, rey de Macedonia | 449 |
+| VI | De la primera guerra Púnica contra Cartago | 627 |
+| VII | Cómo Amílcar vino otra vez a España | 777 |
+| VIII | De lo que Asdrúbal hizo | 901 |
+| IX | De la guerra Saguntina | 1046 |
+| X | Del principio de la segunda guerra Púnica contra Cartago | 1276 |
+| XI | Cómo Aníbal pasó en Italia | 1397 |
+| XII | De lo que sucedió por el mismo tiempo en España | 1458 |
+| XIII | De la batalla que se dio junto al lago Trasimeno | 1523 |
+| XIIII | Cómo Publio Scipión vino a España | 1630 |
+| XV | Cómo Asdrúbal no pudo entrar en Italia | 1703 |
+| XVI | Cómo los Cartagineses fueron maltratados en muchas partes de España | 1838 |
+| XVII | De una nueva guerra que se emprendió en África | 1939 |
+| XVIII | Cómo los Scipiones fueron muertos en España | 2033 |
+| XIX | Cómo Lucio Marcio reprimió el atrevimiento de los Cartagineses | 2144 |
+| XX | Cómo Publio Escipión tomó a Cartagena | 2266 |
+| XXI | Como Asdrúbal Barchino fue vencido por Scipión | 2415 |
+| XXII | Como echaron a los Cartagineses de España | 2504 |
+| XXIII | De otras cosas que Escipión hizo en España | 2568 |
+| XXIIII | Como Scipión venció a Cartago en África | 2693 |
+| XXV | Como M. Porcio Catón siendo cónsul vino a España | 2796 |
+| XXVI | De diferentes pretores que vinieron a España | 3006 |
 
 ## Libro Tercero
 
-| Capítulo | Título |
-|----------|--------|
-| I | Del principio de la guerra de Numancia |
-| II | Cómo Publio Cornelio Scipión vino por legado o lugarteniente a España |
-| III | De la guerra de Viriato |
-| IIII | De lo que Q. Cecilio Metello hizo en España |
-| V | Cómo Viriato fue muerto |
-| VI | Cómo revolvió la guerra de Numancia |
-| VII | De la confederación que el cónsul Mancio hizo con los numantinos |
-| VIII | Cómo Caio Mancio fue entregado a los numantinos |
-| IX | Cómo Scipión hecho cónsul vino a España |
-| X | Cómo Numancia fue destruida |
-| XI | De lo que sucedió en España después de la guerra de Numancia |
-| XII | Cómo se comenzó la guerra de Sertorio |
-| XIII | Cómo Metello y Pompeyo vinieron a España |
-| XIIII | Cómo Sertorio fue vencido y muerto |
-| XV | Cómo Pompeyo apaciguó a España |
-| XVI | Cómo Cayo Julio César vino en España |
-| XVII | Del principio de la guerra civil en España |
-| XVIII | Como los Pompeianos fueron en España vencidos |
-| XX | De lo que Longino hizo en España |
-| XXI | Cómo en España se hizo la guerra contra los hijos de Pompeyo |
-| XXII | Cómo César volvió a Roma |
-| XXIII | Cómo después de la muerte de César se levantaron nuevas alteraciones en España |
-| XXIIII | De la cuenta llamada Era |
-| XXV | De la guerra de Cantabria |
+| Cap | Título | Línea |
+|-----|--------|-------|
+| I | Del principio de la guerra de Numancia | 2 |
+| II | Cómo Publio Cornelio Scipión vino por legado o lugarteniente a España | 235 |
+| III | De la guerra de Viriato | 379 |
+| IIII | De lo que Q. Cecilio Metello hizo en España | 548 |
+| V | Cómo Viriato fue muerto | 662 |
+| VI | Cómo revolvió la guerra de Numancia | 726 |
+| VII | De la confederación que el cónsul Mancio hizo con los numantinos | 830 |
+| VIII | Cómo Caio Mancio fue entregado a los numantinos | 903 |
+| IX | Cómo Scipión hecho cónsul vino a España | 978 |
+| X | Cómo Numancia fue destruida | 1078 |
+| XI | De lo que sucedió en España después de la guerra de Numancia | 1260 |
+| XII | Cómo se comenzó la guerra de Sertorio | 1421 |
+| XIII | Cómo Metello y Pompeyo vinieron a España | 1513 |
+| XIIII | Cómo Sertorio fue vencido y muerto | 1640 |
+| XV | Cómo Pompeyo apaciguó a España | 1730 |
+| XVI | Cómo Cayo Julio César vino en España | 1802 |
+| XVII | Del principio de la guerra civil en España | 1893 |
+| XVIII | Como los Pompeianos fueron en España vencidos | 1997 |
+| XX | De lo que Longino hizo en España | 2081 |
+| XXI | Cómo en España se hizo la guerra contra los hijos de Pompeyo | 2149 |
+| XXII | Cómo César volvió a Roma | 2289 |
+| XXIII | Cómo después de la muerte de César se levantaron nuevas alteraciones en España | 2365 |
+| XXIIII | De la cuenta llamada Era | 2435 |
+| XXV | De la guerra de Cantabria | 2597 |
 
 > **Nota:** No existe capítulo XIX en Libro Tercero. La numeración salta de XVIII a XX.
 
 ## Libro Cuarto
 
-| Capítulo | Título |
-|----------|--------|
-| I | De la venida del hijo de Dios al mundo |
-| II | De los Emperadores Caio y Claudio |
-| III | Del Emperador Domicio Nerón |
-| IIII | Los Emperadores Flavio Vespasiano, y sus hijos |
-| V | De los Emperadores Nerva, Trajano y Adriano |
-| VI | De los tres Emperadores Antoninos |
-| VII | De los Emperadores Severo y Caracalla |
-| VIII | De los Emperadores Heliogábalo y Alejandro |
-| IX | De los Emperadores Maximino, Gordiano y Philippo |
-| X | De los Emperadores Valeriano, Gallieno, Claudio y Aureliano |
-| XI | De algunos otros Emperadores |
-| XII | De los Emperadores Diocleciano y Maximiano |
-| XIII | En qué parte de España está Elbora |
-| XIIII | La descripción de Elbora |
-| XV | De los Emperadores Constancio y Galerio |
-| XVI | Del Emperador Constantino Magno |
-| XVII | De los hijos del gran Constantino |
-| XVIII | De los Emperadores Juliano y Joviano |
-| XIX | De los Emperadores Valentiniano y Valente |
-| XX | De los Emperadores Graciano, Valentiniano y Teodosio |
-| XXI | De los Emperadores Arcadio y Honorio |
+| Cap | Título | Línea |
+|-----|--------|-------|
+| I | De la venida del hijo de Dios al mundo | 2 |
+| II | De los Emperadores Caio y Claudio | 152 |
+| III | Del Emperador Domicio Nerón | 298 |
+| IIII | Los Emperadores Flavio Vespasiano, y sus hijos | 538 |
+| V | De los Emperadores Nerva, Trajano y Adriano | 859 |
+| VI | De los tres Emperadores Antoninos | 1026 |
+| VII | De los Emperadores Severo y Caracalla | 1144 |
+| VIII | De los Emperadores Heliogábalo y Alejandro | 1241 |
+| IX | De los Emperadores Maximino, Gordiano y Philippo | 1317 |
+| X | De los Emperadores Valeriano, Gallieno, Claudio y Aureliano | 1466 |
+| XI | De algunos otros Emperadores | 1630 |
+| XII | De los Emperadores Diocleciano y Maximiano | 1715 |
+| XIII | En qué parte de España está Elbora | 1856 |
+| XIIII | La descripción de Elbora | 1973 |
+| XV | De los Emperadores Constancio y Galerio | 2078 |
+| XVI | Del Emperador Constantino Magno | 2134 |
+| XVII | De los hijos del gran Constantino | 2350 |
+| XVIII | De los Emperadores Juliano y Joviano | 2490 |
+| XIX | De los Emperadores Valentiniano y Valente | 2553 |
+| XX | De los Emperadores Graciano, Valentiniano y Teodosio | 2776 |
+| XXI | De los Emperadores Arcadio y Honorio | 3048 |

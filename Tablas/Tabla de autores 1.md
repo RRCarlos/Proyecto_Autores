@@ -1,116 +1,78 @@
 # Tabla de autores 1
 
-Relación de autores citados por capítulo en los Libros Primero a Cuarto de la *Historia General de España* de Juan de Mariana (edición de 1601).
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Ordenados alfabéticamente por nombre.
 
-## Libro Primero
-
-| Capítulo | Autores citados |
-|----------|----------------|
-| I | Cayo Plinio Segundo (Plinio el Viejo) |
-| II | Cayo Julio Solino; Pomponio Mela; Marco Juniano Justino |
-| III | Solino |
-| IV | San Isidoro de Sevilla; Sexto Rufo; Plinio; Claudio Ptolomeo |
-| V | — |
-| VI | — |
-| VII | Falso Beroso (Annio de Viterbo); Plinio; Apiano de Alejandría; San Isidoro; Estrabón |
-| VIII | Diodoro de Sicilia; Cayo Suetonio Tranquilo |
-| IX | Marco Juniano Justino; San Isidoro |
-| X | Quinto Fabio Píctor; Quinto Valerio Sorano |
-| XI | Filisto de Siracusa; Solino; Justino |
-| XII | Diodoro Siculo; Justino; San Isidoro; Estrabón; Solino |
-| XIII | Justino |
-| XIV | — |
-| XV | Aristóteles; Justino; Platón; Herodoto; Plinio; Solino |
-| XVI | Antonino; Lucio Anneo Floro; Filón de Biblos |
-| XVII | Cayo Silio Itálico; Tito Flavio Josefo |
-| XVIII | Tito Livio; Polibio |
-| XIX | — |
-| XX | Silio Itálico; Festo Pompeyo; Plinio |
-| XXI | Rufo Festo; Tito Libio |
-| XXII | Lucio Flavio Arriano; Polibio; Rufo Festo; Plinio; Ptolomeo |
-
-## Libro Segundo
-
-| Capítulo | Autores citados |
-|----------|----------------|
-| I | — |
-| II | Tucídides; Tito Livio; Dionisio de Halicarnaso; Hipócrates de Cos |
-| III | — |
-| IV | — |
-| V | Paulo Orosio; Arriano; Justino |
-| VI | Polibio; Eusebio de Cesarea; Plinio |
-| VII | Estrabón; Ptolomeo; Tito Livio |
-| VIII | — |
-| IX | Polibio |
-| X | Polibio |
-| XI | — |
-| XII | Rufo Festo |
-| XIII | — |
-| XIV | — |
-| XV | — |
-| XVI | Tito Livio |
-| XVII | Tito Livio; Plutarco |
-| XVIII | — |
-| XIX | — |
-| XX | — |
-| XXI | Plinio |
-| XXII | — |
-| XXIII | Plinio; Valerio Máximo |
-| XXIIII | Tito Livio |
-| XXV | Aulus Gellius |
-| XXVI | Ptolomeo; Plutarco; Estrabón; Silio Itálico |
-
-## Libro Tercero
-
-| Capítulo | Autores citados |
-|----------|----------------|
-| I | Appiano; Ptolomeo |
-| II | Marco Tulio Cicerón; Estrabón; Plinio; Appiano |
-| III | Cicerón; Andrea de' Bardi |
-| IIII | Plinio; Appiano |
-| V | — |
-| VI | — |
-| VII | — |
-| VIII | — |
-| IX | — |
-| X | Appiano |
-| XI | Antonio de Nebrija |
-| XII | Plinio; Ptolomeo |
-| XIII | Plutarco; Casiodoro; Tertuliano; Paulo Orosio |
-| XIIII | Ambrosio de Morales |
-| XV | Estrabón |
-| XVI | — |
-| XVII | Paulo Orosio; Estrabón; Marco Anneo Lucano |
-| XVIII | — |
-| XX | — |
-| XXI | Plutarco |
-| XXII | Floro; Virgilio |
-| XXIII | Dion Casio |
-| XXIIII | Juan Margarite; Dion; Hilderico; San Isidoro; Paulo Orosio; Estrabón |
-| XXV | Ptolomeo; Orosio; El moro Rasis; Mela; Plinio; Ptolomeo |
-
-## Libro Cuarto
-
-| Capítulo | Autores citados |
-|----------|----------------|
-| I | San Agustín; Dion; Plinio; Tácito |
-| II | San Lucas; Flavio Josefo; Seneca el Viejo; Quintiliano; Eusebio; Isidoro de Sevilla; Pelayo de Oviedo |
-| III | Beda el Venerable; Usuardo; Plutarco; Poggio Florentín; Prieto Crinito; Gregorio Giraldo; Quintiliano |
-| IV | Mariana (se cita a sí mismo); Suetonio Tranquilo; Miguel Sincelo |
-| V | — |
-| VI | Julio Capitolino; Dion |
-| VII | — |
-| VIII | — |
-| IX | Nicéforo |
-| X | Trebellio Polión |
-| XI | — |
-| XII | San Agustín; Códices de Teodosio y Justiniano; Prudencio |
-| XIII | Braulio de Zaragoza; Ptolomeo; Tito Livio |
-| XIIII | Ptolomeo; Tito Livio; El moro Rasis |
-| XV | Pietro Ricci (Crinito) |
-| XVI | Moro Rasis; Eusebio Cesariense |
-| XVII | San Jerónimo; San Isidoro |
-| XVIII | — |
-| XIX | Amiano Marcellino |
-| XX | Severo Sulpicio; San Isidoro; Sigiberto de Gembloux; Claudiano |
-| XXI | Paulo Orosio; Próspero Aquitano |
+| Autor | Libro(s) | Capítulo(es) |
+|-------|----------|-------------|
+| Andrea de' Bardi | III | III |
+| Antonio de Nebrija | III | XI |
+| Apiano de Alejandría | I, II, III | VII, VIII / II / IIII, IV, X |
+| Arriano | II, IV | V, XXII / — |
+| Aristóteles | I | XV |
+| Aulus Gellius | II | XXV |
+| Beda el Venerable | IV | III |
+| Braulio de Zaragoza | IV | XIII |
+| Casiodoro | III | XIII |
+| Cayo Julio Solino | I | II, III, XI, XII, XV, XXI |
+| Cayo Plinio Segundo (Plinio el Viejo) | I, II, III, IV | I, II, IV, VII, IX, XV, XX, XXII / VI, VII, XX, XXIII, XXVI / II, IIII, XII, XXV / I |
+| Cayo Silio Itálico | I, II | XVII, XX, XXI / XX, XXVI |
+| Cayo Suetonio Tranquilo | I, IV | VIII / IV |
+| Cicerón | III | II, III |
+| Claudiano | IV | XX |
+| Claudio Ptolomeo | I, II, III, IV | IV, XXII / VII, XXVI / I, XII, XXV / XIII, XIIII |
+| Diodoro de Sicilia | I | VII, VIII, XII |
+| Dion | IV | I, II, VI |
+| Dion Casio | III | XXIII, XXIV |
+| Dionisio de Halicarnaso | I, II | — / II |
+| El moro Rasis | III, IV | XXV / XIIII, XVI |
+| Eusebio de Cesarea | II | VI |
+| Eusebio Cesariense | IV | XVI |
+| Estrabón | I, II, III, IV | IV, VII, XII, XXII / VII, XXVI / II, XV, XVII, XXIV, XXV / — |
+| Fabio Píctor (Quinto) | I | X |
+| Falso Beroso | I | VII |
+| Filisto de Siracusa | I | XI |
+| Filón de Biblos | I | XVI |
+| Festo Pompeyo | II | XX |
+| Flavio Josefo (Tito) | I, IV | XVII / II, IV |
+| Floro (Lucio Anneo) | I, III | XVI / XXII |
+| Gregorio Giraldo | IV | III |
+| Herodoto | I | XV, XV |
+| Hipócrates de Cos | II | II |
+| Juan de Mariana | IV | IV |
+| Juan Margarite | III | XXIIII |
+| Justino (Marco Juniano) | I, II | II, IV, VII, IX, X, XI, XII, XIII, XV / V |
+| Lucano (Marco Anneo) | III | XVII |
+| Mela (Pomponio) | I, III | II / XXV |
+| Miguel Sincelo | IV | IV |
+| Moro Rasis | IV | XIIII, XVI |
+| Nicéforo | IV | IX |
+| Paulo Orosio | II, III, IV | V / XIII, XVII, XXIII, XXIIII / XXI |
+| Pelayo de Oviedo | IV | II |
+| Pietro Ricci (Crinito) | IV | XV |
+| Platón | I | XV |
+| Plutarco | II, III, IV | XXVI / XIII, XXI / III |
+| Polibio | II | VI, IX, X |
+| Poggio Florentín | IV | III |
+| Prudencio | IV | XII |
+| Prieto Crinito | IV | III |
+| Quintiliano | IV | II, III |
+| Rufo Festo | II | XII, XXI |
+| San Agustín | IV | I, XII |
+| San Isidoro de Sevilla | I, III, IV | IV, VII, IX, XII, XXII / XXIIII / II, XX, XXIIII |
+| San Jerónimo | IV | XVII |
+| San Lucas | IV | II |
+| Seneca el Viejo | IV | II |
+| Severo Sulpicio | IV | XX |
+| Sigiberto de Gembloux | IV | XX |
+| Solino | I | II, III, XI, XII, XV, XXI |
+| Suetonio | I, IV | VIII / IV |
+| Tácito | IV | I |
+| Tertuliano | III | XIII |
+| Tito Libio | II | XXI |
+| Tito Livio | I, II, III, IV | XVIII / II, VII, XV, XVI, XXIIII / — / XIII |
+| Trebellio Polión | IV | X |
+| Tucídides | II | II |
+| Usuardo | IV | III |
+| Valerio Máximo | II | XXIII |
+| Valerio Sorano (Quinto) | I | X |
+| Virgilio | III | XXII |
