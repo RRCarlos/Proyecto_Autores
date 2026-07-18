@@ -207,64 +207,64 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 
 ## Resumen por autor
 
-| Autor | Apariciones | Libros |
-|-------|-------------|--------|
-| Amiano Marcelino | 3 | IV |
-| *Antonio de Nebrija | 1 | III |
-| Aristoteles | 2 | I, II |
-| Arriano | 2 | I, II |
-| *Appiano | 3 | III |
-| *Aulo Gelio | 1 | II |
-| *Beda | 1 | IV |
-| Braulio de Zaragoza | 1 | IV |
-| Cayo Julio Solino | 3 | I |
-| Cayo Silio Italico | 5 | II, IV |
-| Cayo Suetonio Tranquilo | 3 | I, IV |
-| Ciceron | 7 | III |
-| Claudio Ptolomeo | 14 | I, II, III, IV |
-| Columela | 1 | IV |
-| Diodoro Siculus | 3 | I |
-| Dion | 8 | III, IV |
-| Dionisio de Halicarnaso | 1 | II |
-| Estrabon | 5 | I, III |
-| Eusebio Cesariense | 7 | IV |
-| Eusebio de Cesarea | 2 | II |
-| Fabio Pictor | 1 | I |
-| Falso Beroso | 1 | I |
-| *Festo Pompeyo | 1 | I |
-| Floro | 1 | III |
-| Gregorio Giraldo | 1 | IV |
-| Herodoto | 1 | I |
-| Justino | 3 | I |
-| Lucano | 2 | III, IV |
-| Marco Varron | 11 | I, II, III |
-| Orosio | 3 | II, III, IV |
-| Ovidio Naso | 1 | III |
-| *Polibio | 3 | II |
-| Pietro Ricci (Crinito) | 2 | IV |
-| Plinio | 19 | I, II, III, IV |
-| Plutarco | 7 | I, II, III, IV |
-| Pomponio Mela | 2 | I, III |
-| Procopio | 2 | IV |
-| Prospero de Aquitania | 1 | IV |
-| Prudencio | 6 | IV |
-| Quintiliano | 5 | IV |
-| *Rufo Festo | 1 | II |
-| San Basilio | 2 | IV |
-| San Gregorio Nacianceno | 1 | IV |
-| San Isidoro de Sevilla | 7 | I, III, IV |
-| San Lucas | 2 | IV |
-| Seneca | 7 | III, IV |
-| Sigiberto de Gembloux | 1 | IV |
-| Tacito | 1 | IV |
-| Tertuliano | 1 | III |
-| Tito Flavio Josefo | 1 | I |
-| Tito Livio | 5 | I, II, IV |
-| Tucides | 1 | II |
-| *Usuardo | 1 | IV |
-| Valerio Maximo | 1 | II |
-| Valerio Sorano | 1 | I |
-| Virgilio | 2 | I, III |
+| Autor | Apariciones | Libros | Temática |
+|-------|-------------|--------|----------|
+| Amiano Marcelino | 3 | IV | Relatos de costumbres sociales romanas, disputas papales (Damaso vs. Ursino), sucesión imperial |
+| *Antonio de Nebrija | 1 | III | Verificación arqueológica de la Vía de la Plata |
+| Aristóteles | 2 | I, II | Costumbres funerarias hispanas, política cartaginesa (ocultamiento de islas) |
+| Arriano | 2 | I, II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
+| *Appiano | 3 | III | Conquista romana de Hispania, guerras numantinas, sitio de Numancia |
+| *Aulo Gelio | 1 | II | Campañas militares de Catón contra Numancia |
+| *Beda | 1 | IV | Cronología apostólica (predicación de Pablo en Narbona) |
+| Braulio de Zaragoza | 1 | IV | Hagiografía de Santa Leocadia |
+| Cayo Julio Solino | 3 | I | Etnografía antigua, fundaciones de ciudades (Valencia, Tarragona), mitología de Ultramediterráneo |
+| Cayo Silio Italico | 5 | II, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado |
+| Cayo Suetonio Tranquilo | 3 | I, IV | Religiones antiguas (templo de los Gériones), persecuciones imperiales (Domiciano) |
+| Cicerón | 7 | III | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
+| Claudio Ptolomeo | 14 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos, coordenadas y provincias |
+| Columela | 1 | IV | Tratados de agricultura |
+| Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
+| Dion | 8 | III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
+| Dionisio de Halicarnaso | 1 | II | Epidemias antiguas |
+| Estrabón | 5 | I, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
+| Eusebio Cesariense | 7 | IV | Cronología eclesiástica, herejía arriana, concilios, biografías episcopales |
+| Eusebio de Cesarea | 2 | II | Cronología antigua, datos numéricos de batallas navales |
+| Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
+| Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
+| *Festo Pompeyo | 1 | I | Instituciones políticas de Cartago (suffetes) |
+| Floro | 1 | III | Guerras civiles en Hispania |
+| Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
+| Heródoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
+| Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
+| Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
+| Marco Varrón | 11 | I, II, III | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
+| Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
+| Ovidio Naso | 1 | III | Poemas de destierro, referencias a poetas hispanos |
+| *Polibio | 3 | II | Guerras púnicas, asedio de Sagunto, tácticas militares cartaginesas |
+| Pietro Ricci (Crinito) | 2 | IV | Biografía de Silio Itálico, erudición literaria |
+| Plinio | 19 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía, datos numéricos |
+| Plutarco | 7 | I, II, III, IV | Biografías comparadas, etimología, costumbres, enfermedades, guerras civiles |
+| Pomponio Mela | 2 | I, III | Geografía costera de Galicia, monumentos augustales |
+| Procopio | 2 | IV | Usurpaciones imperiales, historia bizantina tardía |
+| Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
+| Prudencio | 6 | IV | Martirologio cristiano, poesía hispanolatina, concilios, martyres |
+| Quintiliano | 5 | IV | Retórica, biografías de oradores, teatro y tragedia, muertes imperiales |
+| *Rufo Festo | 1 | II | Topografía de Hispania (Solorio) |
+| San Basilio | 2 | IV | Martirologio oriental (40 mártires de Sebaste), conflictos arianos |
+| San Gregorio Nacianceno | 1 | IV | Historia eclesiástica de Constantinopla |
+| San Isidoro de Sevilla | 7 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
+| San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
+| Seneca | 7 | III, IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
+| Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
+| Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
+| Tertuliano | 1 | III | Costumbres antiguas |
+| Tito Flavio Josefo | 1 | I | Historia de Judea, invasiones babilónicas |
+| Tito Livio | 5 | I, II, IV | Guerras púnicas, conquista de Hispania, etnografía (Turdulos/Turdetanos), topografía |
+| Tucides | 1 | II | Epidemias antiguas |
+| *Usuardo | 1 | IV | Cronología apostólica (predicación de Pablo) |
+| Valerio Máximo | 1 | II | Ejempla morales, hechos memorables (Mancino) |
+| Valerio Sorano | 1 | I | Religión y secretos sagrados |
+| Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
 **Total de autores distintos: 56**
 
