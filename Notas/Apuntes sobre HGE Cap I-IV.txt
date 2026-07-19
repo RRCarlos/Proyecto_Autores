@@ -1,0 +1,795 @@
+﻿HISTORIA GENERAL DE ESPAÑA DEL JESUITA JUAN DE MARIANA: HISTORIOGRAFÍA Y FUENTES
+
+
+APUNTES
+        Importante para el TFG contextualizar la obra. Felipe III con el Duque de Lerma.
+Primera edición en latín: Historiae de rebus Hispaniae, 1592. Sin embargo, publica una edición en castellano (Toledo, 1601), llamada Historia General de España. Posteriormente, nuevas ediciones enmendadas y aumentadas, tanto por el propio autor, como por otros historiadores.
+Voy a emplear la original de 1601, digitalizada y publicada en la Biblioteca Digital Hispánica. 2 tomos, 20 libros en total.
+Prólogo 
+        ¿Por qué escribió la obra? → Necesidad de poner en valor la historia de nuestro país. Hasta ahora, no existía una historia general, es decir, completa, acerca de España. Tras sus viajes al extranjero, necesidad de entender las cuestiones que dotaron a nuestro país de su grandeza (Contexto, finales del siglo XVI, inicios del XVII). 
+        Edición en castellano → “Bolvila en Romance, muy fuera de lo que al principio pensè, por la instancia continua que de diversas partes me hizieron sobre ello, y por el poco conocimiento que de ordinario oy tienen en España de la lengua Latina”. En dicha traducción interviene como autor y no como intérprete, así pues, añade o elimina palabras a gusto. De esta forma, puede expresar sus ideas como le place. Destacar que la edición en castellano emplea lenguaje en ocasiones menos culto que la latina, por favorecer su lectura tanto para eruditos como para gente más llana. Y, sobre todo, intencionalidad de hacer la obra más agradable para que sea tratada a menudo por Fernando III, a quien está dirigida. 
+
+
+CUIDADO, hay una intención de aleccionar a Fernando III (como rey, ya tiene un valido, concretamente el duque de Lerma). En el marco de esta cuestión, publicó en Toledo De Rege et Regis institutione (1599), libro de filosofía política, donde expone las virtudes que un rey debe poseer. En Historia General de España, “los preceptos, avisos, y las reglas de la vida real, aquí se ven puestas en práctica”.
+
+
+Cuidado, ya desde el prólogo introduce elementos que se alejan de la objetividad. En cierta medida, aleccionadores: “Todo con mucha precision, para que la balumba de historia tan larga, y tan varia, à exemplo de las otras naciones, saliesse tolerable”. 
+        
+        Gran importancia de la verdad a lo largo de todo el discurso. Para Mariana, “es la primera ley de la historia”. En relación a cuestiones formales: cuidadoso tratamiento de la cronología, ajustando la de los moros a los años de Cristo. Lugares geográficos señalados en base a las designaciones romanas. Intento de realizar una historia de España conjunta, no se limita a un solo rey, o a un solo reino. Además, tratamiento de las cuestiones eclesiásticas, no sólo seculares. 
+
+
+        Obra que trata la historia de España desde el inicio (a priori, un inicio mitológico) hasta la muerte de Fernando el Católico. Debido a su faceta crítica, no trata cuestiones posteriores, para no herir la sensibilidad de personajes contemporáneos, o faltar a la verdad en su intento de contentar a todos. No obstante, en 1605 publica una nueva edición en Madrid, corregida y aumentada, que tiene como punto de partida el final de la edición de 1601, es decir, el fallecimiento de Fernando el Católico hasta Fernando III.
+
+
+        En relación a las cartas e inscripciones que incluye → quedan fuera del objeto de estudio. Sería demasiado complicado rastrearlas. Esto hay que dejarlo justificado, podría ser un punto débil del trabajo.
+
+
+
+
+Notas sobre la lectura 
+
+
+Sitúa el inicio de España en un plano mitológico, bíblico. Fundada por Tubal, hijo de Jafet, nieto de Noé. 
+
+
+Relato patriótico. Verdadero interés por exaltar las virtudes de nuestro país. 
+
+
+Tratamiento exhaustivo de la información. Amplios conocimientos geográficos, y topográficos (ligados al mundo clásico). Si bien es cierto, cita autores clásicos como fuente de información, desacredita aquellas cosas que ellos dicen, pero que considera falsas. Ojo, son todo fuentes secundarias. Emplea las obras de otros autores para elaborar la suya.
+
+
+Gran dote narrativa para la descripción de lugares y sus entornos. De Toledo comenta lo siguiente: “Pasa Tajo en particular por Toledo, ciudad situada en medio de España, Iuz y fortaleza de toda ella, fuerte por la naturaleza del sitio, excelente por la hermosura e ingenios de sus moradores, señalada por el culto de la religión, y estudio de las ciencias, bienaventurada por el saludable cielo de que goza”. (libro I cap. 4)
+
+
+No es un autor imparcial, incluso en cuanto a cuestiones propias se refiere. De las costumbres de los antiguos españoles dice así: “Groseras, sin policía mi crianza, fueron antiguamente las costumbres de los españoles”.
+
+
+Curioso que en el prólogo habla de la falta de habilidad para las letras, al menos en lo que a Historia se refiere, cuando la obra fue publicada en pleno siglo de Oro.
+
+
+OJO, Mariana emplea el término de Nación, que ya existía en el siglo XVII, pero no poseía el significado actual. Nación no hace referencia a soberanía política, sino a lugar de nacimiento o comunidad étnica, cultural o lingüística. Hay que incidir en ello, sobre todo para el trabajo de clase.
+        También es importante lo siguiente: como casi todas las fuentes son secundarias, hay problemas bibliográficos derivados de ello. 
+__________________________________________________
+
+
+*Libro Primero de la Historia de España.
+        
+Cap I. De la venida de Tubal, y de la fertilidad de España
+Cayo Plinio Segundo (Plinio el Viejo, s. I). Autor romano. Principal obra: Naturalis Historia (Historia Natural), es la que cita Mariana. Enciclopedia en 37 libros, compuesta hacia el 77 d. C. y dedicada al emperador Tito. Es la única obra conservada de Plinio. Geografía de Hispania y sus riquezas materiales.  El libro III de la Naturalis Historia es una fuente fundamental porque describe: provincias romanas de Hispania, ciudades y conventus, pueblos indígenas, recursos naturales. 
+
+
+Cap II. Del asiento y circunferencia de España
+Cayo Julio Solino (Gaius Iulius Solinus, s. III probáblemente). Compilador y geógrafo romano. Obra principal: Collectanea Rerum Memorabilium (Colección de Cosas Memorables). Obra enciclopédica y geográfica que describe regiones del mundo, pueblos, animales, plantas y fenómenos extraordinarios. 
+Gran parte del Collectanea consiste en una adaptación resumida de materiales procedentes de la Naturalis Historia de Plinio.
+
+
+Pomponio Mela (Pomponius Mela, s. I), geógrafo romano. Obra principal: De Chorographia (Sobre la descripción del mundo) o De Situ Orbis. Es un tratado geográfico en tres libros que describe el mundo conocido desde la perspectiva del Imperio romano. La obra constituye el único tratado geográfico latino completo conservado anterior a Plinio el Viejo. El texto se transmitió a través de numerosos manuscritos medievales con variantes.
+
+
+Marco Juniano Justino (Marcus Iunianus Iustinus, s. II o III probáblemente). Historiador o, más precisamente, epitomista (resumidor) romano. Para geografía de España. Epitoma Historiarum Philippicarum Pompei Trogi (Epitome de las Historiae Philippicae de Pompeyo Trogo). Esta obra constituye un resumen o compendio de la historia universal escrita por: Pompeyo Trogo. La obra original de Trogo —compuesta en la época de Augusto— se ha perdido casi por completo, de modo que el texto de Justino constituye la principal vía de transmisión de esta tradición historiográfica.
+
+
+Cap III. De los montes y ríos principales de España
+Mención a Solino (para Geografía).
+
+
+Cap IV. De dos divisiones de España, la antigua, y la moderna
+San Isidoro de Sevilla (Isidorus Hispalensis, s. VI-VII). Etymologiae (Etimologías). Sobre la división de España por parte Constantino en Tarraconense, Cartaginense, y Galicia→ Historia Gothorum, Vandalorum et Suevorum, y Chronica maiora. Entre estas obras, las que tienen mayor relevancia para la historiografía de la España antigua y altomedieval —y por tanto para Juan de Mariana— son principalmente Historia Gothorum y Chronica.
+
+
+Sexto Rufo (Sextus Rufus, s. IV posíblemente), para lo mismo. Historiador romano. Breviarium Rerum Gestarum Populi Romani (Breviario de las Hazañas del Pueblo Romano). No se si es la que usa. (también citado en la tradición manuscrita como Breviarium de historia Romana). En la tradición humanista del siglo XVI, el Breviarium circulaba frecuentemente junto a otros compendios de historia romana (Eutropio, Aurelio Víctor). Por ello: Mariana pudo consultarlo en ediciones renacentistas que reunían estos autores. 
+
+
+Vuelve a mencionar a Plinio.
+
+
+Claudio Ptolomeo (Claudius Ptolemaeus, s. II). Sobre la geografía de España. Geographike Hyphegesis (Guía Geográfica o Geografía). Para la historiografía de España y, en particular, para el uso que hace Juan de Mariana de las fuentes clásicas, la obra fundamental es la Geographia, tratado geográfico que contiene una descripción sistemática del mundo conocido con coordenadas geográficas.
+
+
+Cap V. De las lenguas de España
+Cap VI. De las costumbres de los Españoles
+Cap VII. De los reyes fabulosos (inventados) de España
+
+
+Falso Berroso o pseudo Beroso. El original finales s. IV a.C., pero falsificación del siglo XV-XVI atribuida a Annio de Viterbo (Giovanni Nanni). Para desacreditar información acerca de los reyes españoles que son falsos. La obra falsificada aparece en la colección publicada por Annio da Viterbo: Antiquitatum Variarum volumina XVII. Dentro de esta compilación Annio incluyó supuestos fragmentos de autores antiguos inexistentes o falsificados, entre ellos: Berosi Chaldaici Antiquitates (atribuidas al historiador babilónico Beroso). Estos textos pretendían reconstruir una historia universal muy antigua basada en tradiciones orientales y bíblicas.
+
+
+Nueva mención a Plinio y Apiano. Sobre los distintos pueblos en España, y nombres de reyes. San Isidoro, Etimologías. Estrabón.
+
+
+Apiano de Alejandría (s. I-II). Ῥωμαϊκά (Romaika / Historia romana). Esta obra constituye una historia del Imperio romano organizada por pueblos o regiones conquistadas, no por orden cronológico estricto. Entre sus secciones destacan: Iberiké (Historia de Iberia), Hannibalica, Mithridatica, Bellum civile (Historia de las guerras civiles romanas). Para la historia antigua de la Península Ibérica resulta especialmente relevante el libro Iberiké, dedicado a las campañas romanas en Hispania.
+Conservación fragmentaria: Algunas partes de la Historia romana se han perdido o sólo se conservan en extractos bizantinos: Dependencia de compilaciones medievales. Parte del texto ha llegado a través de colecciones de extractos como los Excerpta Constantiniana. Recepción humanista: Durante el Renacimiento se difundieron traducciones latinas y ediciones impresas que permitieron su utilización por historiadores como Mariana.
+
+
+Cap VIII. De los Geriones
+
+
+Diodoro de Sicilia (Diodorus Siculus), s. I a.C., para el periodo antiguo y mítico de España. Romano. Obra más relevante, Bibliotheca Historica. Βιβλιοθήκη Ἱστορική (Bibliotheca historica). Se trata de una vasta historia universal compuesta originalmente por 40 libros, que abarcaba desde los tiempos míticos hasta la época de Julio César.Para la historia antigua de la Península Ibérica son particularmente relevantes los pasajes contenidos en Libro V, donde se describe el Occidente mediterráneo.
+La Bibliotheca historica es considerada una obra auténtica, pero presenta importantes problemas de transmisión. Conservación incompleta: Más de la mitad de la obra original se ha perdido. Dependencia de extractos bizantinos: Gran parte del texto se conserva gracias a compilaciones medievales como los Excerpta Constantiniana. Carácter compilatorio: Muchos pasajes dependen directamente de autores anteriores, lo que plantea problemas para identificar con precisión sus fuentes. A pesar de estas dificultades, Diodoro es una fuente esencial para la historiografía antigua.
+
+
+Cayo Suetonio Tranquilo (Gaius Suetonius Tranquillus), s. I-II. Romano, para el periodo mítico y antiguo de España. La obra más influyente es De vita Caesarum, compuesta por doce biografías de los emperadores romanos, desde Julio César hasta Domiciano. Sin embargo, en lo relativo a la historia específica de Hispania, Suetonio desempeña un papel menos central que autores como Estrabón, Plinio, Apiano y Floro, ya que su obra se centra principalmente en la biografía imperial. No sé qué obra está utilizando, cuidado.
+
+
+Cap IX. Del rey Hispalo, y de la muerte de Hércules
+
+
+Marco Juniano Justino (Marcus Junianus Justinus), entre s. II-III. Romano. Epitoma historiarum Philippicarum Pompei Trogi (Epítome de las Historias Filípicas de Pompeyo Trogo). Para el periodo mítico y antiguo de España. Esta obra constituye un resumen o compendio de la historia universal escrita por Pompeyo Trogo (Historiae Philippicae), historiador galo-romano del siglo I a. C. cuya obra original se ha perdido. Marco Juniano Justino pertenece a la tradición literaria de las epítomes históricas, muy frecuente en la Antigüedad tardía. Este género consistía en resumir obras extensas de historiadores clásicos con fines didácticos o retóricos.
+
+
+Vuelve a mencionar a San Isidoro, para la fundación Hispalis (Sevilla).
+Vuelve a desechar las fábulas del falso Beroso.
+
+
+Cap X. De Hespero y Atlas reyes de España
+
+
+Quinto Fabio Píctor (Quintus Fabius Pictor), s. III a.C. Romano. Empleado por historiadores para conectar la creación de Roma con los españoles→ Va a ser desacreditado por Mariana. Annales o Rerum gestarum libri. (Obra completamente perdida; solo se conservan fragmentos y referencias en autores posteriores). Se trata de una historia de Roma desde sus orígenes hasta la Segunda Guerra Púnica, escrita originalmente en lengua griega. La obra no se conserva directamente; su contenido se conoce únicamente a través de citas y referencias de autores posteriores, entre ellos: Polibio, Dionisio de Halicarnaso, Tito Livio, Plutarco.
+
+
+Quinto Valerio Sorano (Quintus Valerius Soranus), s. II-I a.C. Ejecutado por difundir secretos (para Mariana, ejecutado por difundir el verdadero nombre de la ciudad de Roma). No lo cita como fuente directa. Luego, quizás no tiene interés para el TFG.
+
+
+Mariana desacredita el origen de Roma vinculado a los españoles. Empleado por autores contemporáneos/medievales.
+
+
+Cap XI. De Sículo rey de España
+
+
+Filisto de Siracusa (Philistus Syracusanus), s. V-IV a.C. Historiador y militar griego. Historias Sicilianas (Obra completamente perdida, compuesta de 13 libros; solo se conservan fragmentos y referencias en otros autores). Para el periodo mítico y antiguo de España → vínculo entre españoles y Sicilia.
+
+
+Solino, atribuye Valencia como antiguo nombre de Roma.
+
+
+Justino, para reyes antiguos y mitológicos de España.
+
+
+Cap XII. De diversas gentes que vinieron a España
+
+
+Diodoro Siculo. Reyes antiguos y/o mitológicos.
+
+
+Justino y San Isidoro, sobre la venida de Teucro (rey mitológico) a España.
+
+
+Estrabón, libro III, sobre la llegada de Mnesteo Atheniense a Cádiz.
+
+
+Estrabón y Solino sobre Ulises en España.
+
+
+
+
+
+
+Cap XIII. De las cosas de Abides, y de la sequedad general de España
+
+
+Justino
+Cap XIV. Cómo los celtas, asirios y los de rodas vinieron a España
+
+
+Cap XV. De la venida de los de Fenicia a España
+
+
+Aristóteles. Griego. Sobre la llegada de los fenicios a Tarteso, identificado por Mariana como Tarifa.
+
+
+Justino, libro XVIII. Sobre los fenicios en España y norte de África.
+
+
+Platón. Timeo. Sobre los atlántides, que parten de Eritrea y toman Atenas. Intento conectar a los fenicios con un pasado mítico.
+
+
+Herodoto. Sobre la guerra entre Asirios (Senacherib) y Egipcios-Etíopes Tarachon → Tirhaka (Taharko), un faraón de la XXV Dinastía de Egipto, de origen nubio o kushita. Tras ganar la guerra, Tarachon pasó a otros reinos, España entre ellos. Al menos a Europa → Estrabón.
+
+
+Plinio y Solino, atribuyen la creación de Tarragona a los Scipiones. Si bien Mariana la considera creación del rey Tarachon.
+
+
+Cap XVI. Cómo los Cartagineses tomaron Ibiza, y acometieron a los mallorquines
+
+
+Antonino. Obra: Itinerarium Antonini Augusti. Autor desconocido.
+
+
+Florian→ Lucio Anneo Floro (Lucius Annaeus Florus). S. I-II. Epitome de Tito Livio bellorum omnium annorum DCC (Epítome de la historia de Tito Livio sobre todas las guerras de setecientos años). También conocida simplemente como Epítome. Incorpora la obra de Antonino, referente a la geografía. Mientras que él habla de las guerras.
+Filón de Biblos (Philo Byblius), s. I-II, Romano. Phoinikē Hiera historia (Historia Sagrada de Fenicia). Sobre la historia de los de Fenicia.
+
+
+Cap XVII. De la edad de Argantonio
+
+
+Cayo Silio Itálico (Caius Silius Italicus), s. I-II. Romano. Sobre Tartessos y su rey, Argantonio. De él dice, vivió 300 años. Plinio, por testimonio de Anacreonte, 150.
+
+
+Tito Flavio Josefo (Titus Flavius Iosephus), s. I. Nace en Jerusalén, muere en Roma. Ioudaikē Archaiología (Antigüedades Judías). Nabucodonosor se apoderó de España, en su guerra contra los fenicios. Hecho célebre en las obras de los Hebreos.
+
+
+Cap XVIII. Cómo los fenicios trataron de apoderarse de España
+
+
+Tito Livio y Polibio, sobre Turdulos y Turdetanos (consideran que son el mismo pueblo). 
+
+
+Cap XIX. Cómo los cartagineses se levantaron contra los de Cádiz
+
+
+Cap XX. Cómo Saphón vino en España
+
+
+Silio Itálico (Tiberius Catius Asconius Silius Italicus). Romano, s. I-II. Punica: El único poema épico latino conservado en su totalidad, compuesto por 17 libros. Narra la Segunda Guerra Púnica (218-201 a.C.), centrándose en el conflicto entre Roma y Cartago, con especial atención a figuras como Aníbal y Escipión.
+
+
+Festo Pompeyo (Sextus Pompeius Festus), s. II. Romano. Fuente indirecta para el conocimiento de las cosas antiguas romanas. 
+
+
+Plinio. Todos ellos para la historia de los cartagineses.
+
+
+Cap XXI. Cómo Himilcón y Hannon descubrieron nuevas navegaciones
+
+
+Rufo Festo. Historiador y alto funcionario romano. S. IV. Escribe su Breviario, epítome o resumen de la historia de Roma. Para la geografía de España → habla del Guadalquivir.
+
+
+Tito Libio, sobre la ciudad de Iberia (a la que hace mención).
+
+
+Cap XXII. De la navegación de Hannón
+
+
+Lucio Flavio Arriano (Lucius Flavius Arrianus). A menudo conocido como Arriano de Nicomedia, s. I-II. Historiador, filósofo estoico (discípulo de Epicteto) y alto funcionario romano de origen griego del siglo II d.C.  Junto a Polibio, Rufo Festo, Plinio, Ptolomeo. Para cuestiones geográficas referentes al viaje de Hannon, desde P. Ibérica hasta África.
+
+
+*Libro Segundo.
+
+
+Cap I. Que Hannón y su hermanos volvieron a su tierra
+
+
+Cap II. De las cosas por los españoles hechas en Sicilia
+
+
+Tucídides, Tito Livio y Dionisio de Halicarnaso, s. I a.C. - s. I d.C., griego. Hablan de una peste ocurrida en el 327, año de la fundación de Roma. Osea, s.V a.C. 
+
+
+Hipócrates de Cos, s. V-IV a.C. Griego. Corpus Hippocraticum (Colección Hipocrática). Considerado el padre de la medicina en la tradición ocidental. Sobre la peste del siglo V a.C. 
+
+
+Mariana conecta la historia de las grandes civilizaciones de la antigüedad con la española. En este caso, los Cartagineses, y sus periplos por el mediterráneo. Incluso viajes por las costas africanas.
+Cap III. Cómo la guerra de Sicilia se movió de nuevo
+
+
+Cap IV. De lo que hizo Hannón
+
+
+Cap V. De una embajada que se envió a Alejandro, rey de Macedonia
+
+
+Paulo Orosio, s. IV-V. Hispano. Sobre una embajada enviada desde España a Alejandro Magno.
+
+
+Arriano, sobre lo mismo.
+
+
+Justino. Sobre la guerra entre cartagineses y siracusanos.
+
+
+Cap VI. De la primera guerra Púnica contra Cartago
+
+
+Polybio. Cómo los cartagineses reunieron el ejército que lucharía contra los romanos en la primera guerra Púnica.
+
+
+Eusebio de Cesarea, s. III-IV. Sobre la derrota naval del general romano Cecilio Metello.
+
+
+Plinio. Sobre el nacimiento de Aníbal, hijo de Amílcar, en la isla de Tiquadra, cercana a Mallorca. 
+
+
+Cap VII. Cómo Amílcar vino otra vez a España
+
+
+        Estrabón. Sobre la riqueza de la Bética (de la que Amílcar se apoderó).
+
+
+        Ptolomeo. Sobre la ubicación de Cartago la vieja. 
+
+
+Tito Livio. Sobre la muerte de Amílcar por los Edetanos, en una batalla que dicho autor sitúa cercana a un pueblo llamado Castro Alto.
+
+
+Cap VIII. De lo que Asdrúbal hizo
+
+
+Cap IX. De la guerra Saguntina 
+
+
+        Polybio. Marcha de los cartagineses sobre Sagunto.
+ 
+Cap X. Del principio de la segunda guerra Púnica contra Cartago
+
+
+        Polybio. Sobre los números del ejército cartaginés.
+
+
+Cap XI. Cómo Anibal pasó en Italia
+
+
+Cap XII. De lo que sucedió por el mismo tiempo en España
+
+
+Rufo Festo. Sobre el puerto de Salu, denominado por él como Solorio. Donde las naves romanas pasan el invierno.
+
+
+Cap XIII. De la batalla que se dio junto al lago Trasimeno
+
+
+Cap XIV. Cómo Publio Scipión vino a España
+
+
+Cap XV. Cómo Asdrúbal no pudo entrar en Italia
+
+
+Cap XVI. Cómo los cartagineses fueron maltratados en muchas partes de España
+
+
+Tito Livio, sobre las luchas entre romanos (Publio y Gneio Scipión) y cartagineses (Asdrúbal) en España.
+
+
+Cap XVII. De una nueva guerra que se emprendió en África
+
+
+Tito Livio y Plutarco → en sus obras no incluyen un supuesto viaje que realizó Syphax, rey de los númidas, a España. Para parlamentar con los romanos, en el contexto de la guerra contra Cartago.
+
+
+Cap XVIII. Cómo los Scipiones fueron muertos en España
+
+
+Cap XIX. Cómo Lucio Marcio reprimió el atrevimiento de los cartagineses
+
+
+Cap XX. Cómo Publio Escipión tomó a Cartagena
+
+
+Cap XXI. Como Asdrúbal Barchino fue vencido por Scipión
+
+
+Plinio, sobre la ubicación de Oninge, ciudad de los Melessos (mandado conquistar por los romanos en el contexto de la segunda guerra púnica).
+
+
+Cap XXII. Como echaron a los cartagineses de España
+
+
+Tras la conquista de Sagunto, 14 años atrás, los cartagineses pierden el control de España, en favor de los romanos.
+
+
+Cap XXIII. De otras cosas que Escipión hizo en España
+
+
+Plinio, sobre la ubicación de la ciudad de Siga (en frente de Málaga, residencia del rey Siphax). Está empleando a Plinio como fuente para la geografía y ubicación de ciudades.
+
+
+Plinio: los huesos de los Scipiones fueron incinerados en la ciudad de Ilorci (posiblemente la actual Lorca).
+
+
+Valerio Máximo (Valerius Maximus), s. I. Romano. Obra más relevante: Hechos y Dichos Memorables. Colección de anécdotas de la historia romana y griega (en menor medida). Sobre Corbis y Orsua, dos gladiadores, primos hermanos, que participaron en las exequias (hubo juegos de gladiadores) de los Scipiones.
+
+
+Cap XXIV. Como Escipión venció a Cartago en África
+
+
+Tito Livio, sobre la guerra entre Cartago y Roma.
+Cap XXV. Como M. Porcio Catón siendo cónsul vino a España
+
+
+Aulus Gellius (Aulo Gelio). Romano, s. II. Sobre el intento del cónsul Catón de conquistar la actual Sigüenza, ciudad de los Turdetanos, que se habían levantado contra Roma. Tras la segunda guerra púnica, los romanos deben estabilizar la península, levantada en armas (no todos los pueblos) contra ellos.
+
+
+Cap XXVI. De diferentes pretores que vinieron a España
+
+
+Ptolomeo, para cuestiones relacionadas con el nombre de ciudades.
+
+
+Plutarco, sobre la confederación de Numancia con Roma.
+
+
+Estrabón, justifica que Córdoba fue fundada por el cónsul Marco Marcello.
+
+
+Silio Itálico, por su parte, menciona Córdoba en tiempos de Aníbal. Dos fuentes de autoridad contrapuestas.
+
+
+ *Libro Tercero.
+
+
+Cap I. Del principio de la guerra de Numancia
+
+
+Appiano, sobre la ubicación de la ciudad de Segeda, dentro de los pueblos Belos, y no Arévacos (lo usa para contraponer la información disponible).
+
+
+Ptolomeo, sobre la ubicación de Nertóbriga.
+
+
+Cap II. Cómo Publio Cornelio Scipión vino por legado o lugarteniente a España
+
+
+Marco Tulio Cicerón (Marcus Tullius Cicero), s. II-I a.C. Romano. Que Lucullo vino al gobierno de España y Scipión pasó a África. (Para los asuntos de los romanos en el gobierno de Hispania).
+Estrabón, para lo mismo.
+
+
+Plinio, para lo mismo.
+
+
+Appiano, para lo mismo.
+
+
+Cicerón, para lo mismo.
+
+
+Cap III. De la guerra de Viriato
+
+
+        Cicerón, cuestiones relacionadas a la guerra contra Viriato. 
+
+
+Andrea de' Bardi, "El Anconitano" → desacreditado por Mariana, basándose en lo que otros autores comentan. Italiano, s. XIII-XIV. Autor discutido.
+
+
+Cap IV. De lo que Q. Cecilio Metello hizo en España
+
+
+Plinio, sobre los asuntos de Roma en la P. Ibérica.
+
+
+Appiano, lo mismo.
+
+
+Cap V. Cómo Viriato fue muerto
+
+
+Cap VI. Cómo revolvió la guerra de Numancia
+
+
+Cap VII. De la confederación que el cónsul Mancio hizo con los numantinos
+
+
+Cap VIII. Cómo Caio Mancio fue entregado a los numantinos
+
+
+Cap IX. Cómo Scipión hecho cónsul vino a España
+
+
+Cap X. Cómo Numancia fue destruida
+
+
+Appiano, sobre la conquista de Numancia.
+
+
+
+
+Cap XI. De lo que sucedió en España después de la guerra de Numancia
+
+
+Antonio de Nebrija, s. XV-XVI. Castellano. Decadas Rerum Hispanicarum (1545, edición póstuma): Obra historiográfica que cubre la historia de España desde la época romana hasta los Reyes Católicos. → sobre Craso, y la vía de la Plata (ruta romana más famosa de Hispania).
+
+
+Cap XII. Cómo se comenzó la guerra de Sertorio
+
+
+        Plinio y Ptolomeo, de nuevo, para situar ciudades antiguas (geografía).
+
+
+Cap XIII. Cómo Metello y Pompeio vinieron a España
+
+
+Plutarco, sobre el pretor Lucio Domicio, que acompaña a Q. Metello en la guerra contra Sertorio.
+
+
+Flavio Magno Aurelio Casiodoro Senador (Casiodoro), s. V-VI, italiano (Calabria). Político, literato y estadista romano al servicio del Reino Ostrogodo en Italia. 
+
+
+Y Quinto Septimio Florente Tertuliano (Tertulliano), s.II-III. Nace en Cartago (pero es romano). Uno de los principales Padres de la Iglesia latinos, considerado el fundador de la teología latina. Ambos hablan sobre Genio Pompeyo y la guerra contra Sertorio (asuntos de los romanos en la P. Ibérica). 
+
+
+Paulo Orosio (Paulus Orosius), s. IV-V. Sobre lo mismo. 
+
+
+Cap XIV. Cómo Sertorio fue vencido y muerto
+
+
+Ambrosio de Morales, Córdoba, s. XVI. La Crónica General de España (Continuación de la de Ocampo): Publicada en 1574 (Libros VI al X) y la segunda parte en 1586. Sobre la ubicación del sepulcro de Sertorio. 
+
+
+Cap XV. Cómo Pompeyo apaciguó a España
+
+
+        Estrabón, sobre la ciudad de Pompelo. Cuestiones geográficas. 
+
+
+Cap XVI. Cómo Cayo Julio César vino en España
+
+
+Cap XVII. Del principio de la guerra civil en España
+
+
+Paulo Orosio y Estrabón, sobre los españoles (cántabros) que participaron en la guerra de las Galias (de Julio César). 
+
+
+Marco Anneo Lucano, Córdoba, romano, s. I. Sobre el río Segre (geografía) en el contexto de la guerra de las Galias, que se extiende a España.
+
+
+Cap XVIII. Como los Pompeianos fueron en España vencidos
+
+
+NO HAY CAPÍTULO XIX. Yo creo que es un error de edición, Gemini dice que no. Por lo visto, decisión del autor. Investigar sobre eso.
+
+
+Cap XX. De lo que Longino hizo en España. 
+
+
+Cap XXI. Cómo en España se hizo la guerra contra los hijos de Pompeyo
+
+
+        Plutarco, Julio César en Córdoba. 
+
+
+Cap XXII. Cómo César volvió a Roma
+
+
+Floro →Lucius Annaeus Florus. Atribución discutida. Sobre la muerte de Genio Pompeio a manos de Dido y Cesonio, enviados por J. César para matarle. 
+Virgilio → en una égloga habla de Asinio Pollion, que vino por gobernador de la España Ulterior.
+
+
+Cap XXIII. Cómo después de la muerte de César se levantaron nuevas alteraciones en España
+
+
+        Dion Casio (posiblemente). S. II-III. Historia Romana. Sobre Julio César.
+
+
+Cap XXIV. De la cuenta llamada Era
+
+
+Juan Margarite (Joan Margarit i Pau), obispo de Gerona. S. XV. Paralipomenon Hispaniae ( Historiae ab adventu Gothorum ad haec usque tempora): Su obra historiográfica magna, inacabada. Es un extenso relato de la historia de la Península Ibérica desde los visigodos hasta su época (finales del siglo XV). Sobre la era del César, 26 años antes de Cristo (fechado por era hispánica o año del señor). Cuidado, que según Mariana esto que dice está mal, el resto autores contradicen al obispo.
+
+
+Dion, sobre el reparto de las provincias  tras la guerra de Perosa. Relacionado con tema de la Era.
+
+
+Hilderico y San Isidoro.
+
+
+Dion, para el periodo posterior a la muerte de César.
+
+
+Paulo Orosio, sobre la duración de la guerra de Cantabria en tiempos de Cayo Norbano.
+
+
+Estrabón → sobre fundación de ciudades y la aculturación tras apaciguar las guerras contra los locales en la P. Ibérica.
+
+
+Cap XXV. De la guerra de Cantabria
+
+
+        Ptolomeo, para situar geográficamente los pueblos aledaños a los cántabros.
+Orosio, que los gallegos se hicieron fuertes en el monte Medulia (hoy Mendulia, Vizcaya), durante la guerra.
+
+
+El moro Rasis ( Áhmad ibn Muhámmad ibn Mūsà al-Rāzī). S. IX-X, Córdoba. Sobre la ciudad de Mérida, cabeza de la Lusitania. Mariana hace una cosa curiosa, en principio Mérida debería ser una ciudad impresionante, debido a su importancia en el mundo romano. Sin embargo, cita a Rasis como autor que encarece la grandeza de dicha ciudad, e, incluso, afirma que fue destruida por los moros.
+
+
+Mela, Plinio y Ptolomeo, sobre las Aras Sextianas y su ubicación. Creo que es un monumento para conmemorar el fin de la guerra contra los cántabros.
+
+
+ *Libro Cuarto.
+
+
+Cap I. De la venida del hijo de Dios al mundo
+
+
+San Agustín, incertidumbre respecto a los cónsules en Hispania al tiempo de nacer Cristo.
+
+
+Dion, sobre uno de los capitanes “españoles” que se dedica a saltar a la gente, tras la guerra con los romanos. Corocota se llama.
+ 
+Dion, Plinio y Tácito (Publio Cornelio Tácito), hablan del avistamiento del ave Fénix, durante el gobierno de Tiberio (año 14-37 d.C.), marcando la resurrección de Cristo.
+
+
+Cap II. De los Emperadores Caio (Calígula) y Claudio
+
+
+        San Lucas, actos de los Apóstoles.
+
+
+Flavio Josefo, s. I-II. Antigüedades Judaicas. 
+
+
+Seneca el Viejo (creo).
+
+
+Quintiliano y Eusebio.
+
+
+Isidoro de Sevilla.
+
+
+Todos ellos hablan de personajes oriundos de Hispania que triunfaron en Roma.
+
+
+Pelayo, obispo de Oviedo. S. XI-XII. Sobre los discípulos del apóstol Santiago. 
+
+
+Cap III. Del Emperador Domicio Nerón
+
+
+        Beda el Venerable, s. VII-VIII. Northumbria (Inglaterra). 
+
+
+Usuardo, s. IX. Posiblemente benedictino de la Abadía de Saint Germain des Prés, París.  Ambos sobre el Apóstol san Pablo.
+
+
+Plutarco→ a la ciudad de Clunia la llama Colonia, dando lugar a una confusión.
+
+
+PÁG 214, LEER LOS MÁRGENES.
+
+
+Poggio Florentín → rescató las obras de Fabio Quintiliano y las publicó en tiempos del concilio de Constanza, s. XV.
+
+
+Prieto Crinito, s. XV-XVI, Florencia. Y Gregorio Giraldo, s. XV-XVI, Ferrara. Ambos italianos, renacentistas. Sobre el lugar de nacimiento de Silio Itálico.
+
+
+Cónsul romano, algunos autores afirman que era Español, Giraldo lo contradice.
+
+
+Quintiliano, sobre la existencia de una Tragedia compuesta por Séneca el Filósofo.
+
+
+Cap IV. De los Emperadores Flavio Vespasiano, y sus hijos
+Hace referencia a su historia Latina. Historiae de rebus Hispaniae libri XX. La versión original en latín, donde incluye ciertas cuestiones que aquí no aparecen. Pero se cita a sí mismo.
+
+
+Suetonio Tranquilo. Sobre el emperador Domiciano, que mandó desterrar de Roma a todos los filósofos (finales s.I). Mariana entiende que destierra a los filósofos crstianos. 
+
+
+Miguel Sincelo, Vida de San Clemente. Sobre San Eugenio. Debió pasar por España, con especial hincapié en Toledo.
+
+
+Cap V. De los Emperadores Nerva, Trajano y Adriano
+
+
+Cap VI. De los tres Emperadores Antoninos
+
+
+Julio Capitolino, uno de los seis autores atribuidos a la colección de biografías imperiales. Junto con Dión, y una carta en griego que lo acredita. → Sobre un episodio de Marco Aurelio Antonino, relacionado con rayos, y una victoria ante los moravos.
+
+
+Julio Capitolino → sobre la familia del emperador Cómodo.
+
+
+Cap VII. De los Emperadores Severo y Caracalla
+
+
+Cap VIII. De los Emperadores Heliogabalo y Alejandro
+
+
+Heliogabalo, hace referencia a Aurelio Antonino Vario, hijo del emperador Caracalla.
+
+
+Cap IX. De los Emperadores Maximino, Gordiano y Philippo
+Nicéforo, Constantinopla, s. XVIII-IX. Sobre la persecución de los cristianos por el emperador Decio, en el año 250.
+
+
+Cap X. De los Emperadores Valeriano, Gallieno, Claudio y Aureliano
+
+
+Trebellio Polión (Trebellius Pollio) hace referencia a otro de los seis autores a los que tradicionalmente se les atribuye la autoría de la colección biográfica conocida como la Historia Augusta. Al igual que Julio Capitolino, su existencia como historiador independiente en la época que supuestamente vivió es altamente cuestionada por la crítica moderna. 
+
+
+Cap XI. De algunos otros Emperadores
+
+
+Cap XII. De los Emperadores Diocleciano y Maximiano
+
+
+San Agustín, sobre la guerra de Diocleciano en contra de los cristinaos. Año 10 de su gobierno.
+
+
+        Códices de Teodosio y Justiniano. Sobre el martirio del centurión Marcello.
+Prudencio, s. IV-V. Calagurris (¿actual Calahorra?). Sobre la muerte de Santa Engracia en Zaragoza.
+
+
+Cap XIII. En qué parte de España está Elbora
+
+
+        Braulio, obispo de Zaragoza, escribió sobre la vida de Santa Leocadia.
+        Ptolomeo, sobre la ciudad de Ébora.
+
+
+        Tito Livio, sobre lo mismo. 
+(Cada uno la ubica en un sitio distinto).
+
+
+Cap XIV. La descripción de Elbora
+
+
+        Elbora → Actual Talavera de la Reina, donde nació Juan de Mariana.
+        Ptolomeo, Tito Livio. 
+Interesante → el autor dota de gran importancia a dicha ciudad, por ser su patria.
+
+
+El moro Rasis ( Áhmad ibn Muhámmad ibn Mūsà al-Rāzī). Murallas de Talavera atribuidas a los visigodos. Mariana emplea al moro Rasis como contrapunto, puesto que dice, las mismas fueron levantadas por los musulmanes para defenderse de las correrías de los cristianos, en el s. X. Cuidado, incluye una cita de este autor.
+
+
+Escritura en el monasterio de San Clemente de Toledo. ¿Es fuente primaria? No especifica cuál es.
+
+
+Cap XV. De los Emperadores Constancio y Galerio
+
+
+        Pietro Ricci (Crinito), s. XV-XVI. Florencia. Sobre el poeta Rufo Festo Avieno.
+
+
+Cap XVI. Del Emperador Constantino Magno
+
+
+        Pág 253, leer el margen.
+
+
+Moro Rasis, sobre la división en diócesis de Constantino.
+
+
+Pág 255, margen.
+
+
+Eusebio Cesariense → escribe fábulas. ¿Autor desacreditado por Mariana?
+
+
+Cap XVII. De los hijos del gran Constantino
+
+
+San Jerónimo, sobre el concilio de Armino (concilio Ariminense, actual Rímini), donde unos prelados arrianos engañan a otros tantos católicos para convertirlos a su secta (arrianismo considerado como secta o herejía). 
+
+
+San Idisoro, toma el testimonio de Marcelino presbítero en sus biografías de hombres ilustres. Habla de San Hilario de Osio (En principio es San Hilario de Poitiers, defensor del catolicismo frente al arrianismo en el siglo IV.)
+
+
+Cap XVIII. De los Emperadores Juliano y Joviano
+
+
+Cap XIX. De los Emperadores Valentiniano y Valente
+
+
+Amiano Marcellino, s. IV-V. Según Mariana era Español, pero fuentes actuales concuerdan que era de Antioquía, Siria. Sobre las revueltas ocurridas tras la muerte del Papa Liberio y la elección de un nuevo pontífice (año 366). 
+
+
+De nuevo Marcellino, que lo emplea como fuente para tratar este periodo: Cuestiones eclesiásticas acontecidas durante el gobierno de Valente.
+
+
+Cap XX. De los Emperadores Graciano, Valentiniano y Teodosio
+
+
+Severo Sulpicio, una sentencia referente a la excomunión de varios eclesiásticos, comunicada a Itacio obispo Sossubense. Habla de la controversia prisciliana de finales del siglo IV.
+
+
+San Isidoro y Sigiberto (Sigeberto de Gembloux, s. XI-XII). Discuten la procedencia del obispo Itacio. San Isidoro dice que es Español, Sigiberto que era de Lamego. En cualquier caso, parece que era portugués (buscar una fuente que lo acredite, lo mismo para otros casos).
+
+
+San Isidoro, sobre el destierro de Itacio e Idacio. Herejes.
+
+
+San Isidoro, sobre una epístola escrita por el papa Siricio a Himerio, obispo de Tarragona. Muy importante, empleada en el primer concilio de Toledo, y mencionada por el propio Isidoro en sus biografías de hombres ilustres. 
+Claudiano, poeta, s. IV-V, Alejandría. Narra la batalla del Frígido, entre el emperador Teodosio I y el usurpador Eugenio. En el 394.
+Cap XXI. De los Emperadores Arcadio y Honorio
+
+
+Habla de San Ildefonso, y una obra titulada claros varones. Posiblemente es una confusión, y se refiere a Hernando del Pulgar, s. XV, posiblemente toledano, que escribió → Claros varones de Castilla.
+
+
+Paulo Orosio y Próspero Aquitanio, s. IV-V, en Aquitania (Francia). Sobre el año exacto del saqueo de Roma, 410. Aunque estos autores añaden dos más, ergo, 412. Empleados por Mariana para contrastar las fechas, o, como mínimo, para indicar que no todos los autores concuerdan.
