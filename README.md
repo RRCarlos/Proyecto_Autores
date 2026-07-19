@@ -7,7 +7,7 @@
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **59 autores distintos** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **62 autores distintos** para fundamentar su relato.
 
 La pregunta que guía este proyecto es:
 
@@ -48,7 +48,7 @@ Comprender el sistema de citas de Mariana permite:
 
 Se realizó una verificación exhaustiva de las **186 citas** contra los archivos OCR de la edición de 1601. Resultados:
 
-- **Autores verificados como fuentes citadas**: 59 de los 68 autores iniciales resultaron ser citaciones genuinas
+- **Autores verificados como fuentes citadas**: 62 autores resultaron ser citaciones genuinas
 - **Autores no encontrados en el OCR**: 9 autores no aparecen como fuentes citadas en los Libros I–IV (algunos aparecen solo como figuras históricas pasajeras o marcas de imprenta)
 - **Autores hallados en búsqueda profunda**: 4 autores no incluidos originalmente en la tabla fueron encontrados como fuentes citadas (Filón de Biblos, Nicéforo, Poggio Florentín, Dion Casio)
 
@@ -66,9 +66,9 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 | Contexto | Descripción del contexto historiográfico de la cita |
 
 Se incluyen además:
-- **Resumen por autor** (59 autores con temática y frecuencia de aparición)
+- **Resumen por autor** (62 autores con temática y frecuencia de aparición)
 - **Autores no encontrados** (9 autores sin citas genuinas en el OCR)
-- **Notas sobre la revisión** (12 hallazgos técnicos: duplicaciones OCR, atribuciones erróneas, variantes ortográficas)
+- **Notas sobre la revisión** (9 hallazgos técnicos: duplicaciones OCR, atribuciones erróneas, variantes ortográficas)
 
 ---
 

@@ -188,20 +188,20 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 165 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
 | 166 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
 | 167 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
-| 168 | Eusebio Cesariense | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
+| 168 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
 | 169 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
-| 170 | Eusebio Cesariense | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
+| 170 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
 | 171 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones ilustres |
 | 172 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
 | 173 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
 | 174 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
 | 175 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
 | 176 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
-| 177 | Eusebio Cesariense | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
+| 177 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
 | 178 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
 | 179 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
 | 180 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
-| 181 | Eusebio Cesariense | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
+| 181 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
 | 182 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
 | 183 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
 | 184 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
@@ -232,8 +232,11 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Dion | 8 | III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
 | Dionisio de Halicarnaso | 1 | II | Epidemias antiguas |
 | Estrabón | 5 | I, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
-| Eusebio Cesariense | 7 | IV | Cronología eclesiástica, herejía arriana, concilios, biografías episcopales |
+| Eusebio Cesariense | 3 | IV | Cronología eclesiástica, herejía arriana (los dos Eusebios), testimonio sobre Arrio |
 | Eusebio de Cesarea | 2 | II | Cronología antigua, datos numéricos de batallas navales |
+| Eusebio de Cesarea de Capadocia | 2 | IV | Biografía episcopal, sucesión de Basilio en Capadocia |
+| Eusebio de Nicomedia | 1 | IV | Herejía arriana, bautizo de Constantino |
+| Eusebio de Vercelli | 1 | IV | Concilio de Milán, oposición a la herejía arriana |
 | Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
 | Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
 | *Filón de Biblos | 1 | I | Costumbres fenicias de sacrificio humano (hallado como "Philon", línea 1987) |
@@ -274,7 +277,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 59**
+**Total de autores distintos: 62**
 
 ## Autores no encontrados en los archivos TXT
 
@@ -307,7 +310,6 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 - **Arriano** (historiador) se confirma en Libros I (línea 2747) y II (línea 534) como fuente. En Libro IV, todas las coincidencias de "Arriano" se refieren a la herejía arriana, no al historiador.
 - Las líneas de **Beda** y **Usuardo** (línea 339, Libro IV, Cap III) están en la misma línea de texto: "Afsimifmo Beday Vfuardo teftifican".
 - Las líneas 2553-2740 del OCR de Libro IV están duplicadas; las entradas 170-176 usan los números de la primera aparición.
-- Las entradas 163 y 165 aparecen etiquetadas como "Eusebio Cesariense" pero en realidad se refieren a Eusebio de Nicomedia y Eusebio de Vercelli respectivamente.
 - La entrada 126 ("Cayo Silio Italico" línea 199) puede estar mal atribuida: el OCR en línea 199 habla de Silio (marido de Mesalina), no del poeta.
 - **Filón de Biblos** se encontró como "Philon" en Libro I (línea 1987), citado sobre costumbres fenicias.
 - **Nicéforo** se encontró como "Nicephoro" en Libro IV (línea 1446), citado sobre el martirio de Cristóbal.
