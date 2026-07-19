@@ -512,68 +512,11 @@ La presencia de **Moro Rasis** (13 citas, el 7.º autor más citado) y **Alboác
 
 ---
 
-## 15. Longitud de las citas: un análisis cuantitativo del uso textual
-
-La extensión de las citas varía enormemente — desde una simple atribución hasta párrafos enteros de filosofía. Este frente mide la extensión de cada cita en caracteres para identificar patrones de uso.
-
-### 15.1 Distribución por rango de longitud
-
-| Rango (caracteres) | Entradas | % | Tipo de uso |
-|--------------------|----------|---|-------------|
-| 1–20 | ~25 | 12,4 % | Atribución pura: «Plinio dize», «como dice Arístoteles» |
-| 21–50 | ~45 | 22,4 % | Referencia contextual: cita breve con contexto |
-| 51–100 | ~55 | 27,4 % | Cita sustantiva: contenido real de la fuente |
-| 101–200 | ~40 | 19,9 % | Cita prolongada: pasajes o argumentos |
-| 200+ | ~36 | 17,9 % | Cita extensa: párrafos completos o argumentación larga |
-
-### 15.2 Autores con citas más extensas
-
-Los autores con citas largas (>200 caracteres) revelan cuáles Mariana usaba como **fuentes primarias de argumentación**, no meras referencias:
-
-1. **Filón de Biblos** (entry 37): ~300+ caracteres — relato etiológico completo
-2. **Ptolomeo** (entries 28–31): citas geográficas sustanciales
-3. **Séneca** (entries 2–4): reflexiones filosóficas extendidas
-4. **Plutarco** (entries 7–8, 97–104): biografías y comparaciones
-5. **Varrón** (entries 18–24): etimologías y datos enciclopédicos
-
-### 15.3 Implicación
-
-El patrón revela una **jerarquía de uso**: los autores con citas cortas son meras autoridades invocadas para dar peso retórico (el recurso medieval de la *auctoritas*). Los de citas largas son fuentes de las que Mariana **extrae contenido real** para construir su narrativa. Esto distingue entre erudición decorativa y erudición sustantiva.
-
----
-
-## 16. Fuentes hispánicas en profundidad: la voz local en la historia universal
-
-Ocho de los 71 autores nacieron en la Península Ibérica. Este frente los analiza en detalle como representantes de la tradición historiográfica hispánica que Mariana hereda y continúa.
-
-### 16.1 Catálogo de autores hispánicos
-
-| Autor | Citas | Libro(s) | Época | Obras principales referenciadas |
-|-------|-------|----------|-------|--------------------------------|
-| Séneca | 2 | I | s. I d.C. | *Naturales Quaestiones*, *Epistulae* |
-| Lucano | 1 | IV | s. I d.C. | *Pharsalia* (epopeya sobre la guerra civil) |
-| Columela | 1 | III | s. I d.C. | *De re rustica* (agricultura) |
-| Floro | 5 | I, IV | s. II d.C. | *Epitome de Tito Livio* |
-| Pacato | 1 | IV | s. IV | *Panegírico a Teodosio* |
-| Prudencio | 1 | III | s. IV–V | *Psychomachia*, *Peristephanon* |
-| Isidoro de Sevilla | 3 | II, IV | s. VII | *Etimologías* |
-| Bernardo de Cluny | 2 | IV | s. XII | *De contemptu mundi* |
-
-### 16.2 El arco temporal hispánico
-
-Los 8 autores cubren **más de 1100 años** (del s. I al s. XII), lo que confirma que Mariana buscaba deliberadamente una **continuidad hispánica** en su fuente de conocimiento. Desde Séneca hasta Bernardo de Cluny, hay una línea ininterrumpida de autores vinculados a la Península.
-
-### 16.3 Significación
-
-Mariana, como autor español escribiendo la historia de España, tenía un doble interés: sus fuentes hispánicas no solo le proporcionaban datos, sino que le daban **legitimidad cultural**. Citando a Séneca, Lucano y Floro, se inscribía en una tradición intelectual que decía: «España siempre ha producido pensadores de primer orden».
-
----
-
-## 17. Redes de transmisión textual: quién cita a quién
+## 15. Redes de transmisión textual: quién cita a quién
 
 Este frente rastrea las relaciones indirectas entre autores: cuando Mariana cita a un autor que a su vez cita a otro. Esto revela las **cadenas de transmisión** de la información histórica.
 
-### 17.1 Cadenas principales detectadas
+### 15.1 Cadenas principales detectadas
 
 ```
 Homero → (oral) → Heródoto → Plutarco → Mariana
@@ -594,7 +537,7 @@ Plinio el Viejo → Ptolomeo → Mariana
                → Solino → Mariana
 ```
 
-### 17.2 Observaciones clave
+### 15.2 Observaciones clave
 
 - **Plinio el Viejo** es el nodo central: al menos 5 cadenas de transmisión pasan por él. Su *Naturalis Historia* era la enciclopedia de referencia.
 - **Varrón** (11 citas) actúa como puente entre la tradición agronómica-enciclopédica y Mariana.
@@ -603,42 +546,11 @@ Plinio el Viejo → Ptolomeo → Mariana
 
 ---
 
-## 18. Ausencia de perspectiva femenina: un silencio elocuente
-
-De los 71 autores citados, **ninguno es mujer**. Este frente analiza las implicaciones de esta ausencia total.
-
-### 18.1 Contexto histórico
-
-En la Antigüedad existieron autoras conocidas:
-
-| Autora | Obra | Época | ¿Por qué no aparece en Mariana? |
-|--------|------|-------|--------------------------------|
-| Safo de Lesbos | Poesía lírica | s. VII–VI a.C. | Género lírico, no historiográfico |
-| Aspasia de Mileto | Retórica | s. V a.C. | Sócrates la cita, pero no como autora directa |
-| Sulpicia | Elegías | s. I a.C. | Poesía personal, no historia |
-| AglaÍs de Sición | Poesía | s. IV a.C. | Fragmentaria |
-| Betisia de Acrene | Filosofía moral | s. III a.C. | Solo referenciada por Aulo Gelio |
-
-### 18.2 Análisis
-
-La ausencia no es exclusiva de Mariana — refleja la **estructura del conocimiento antiguo** tal como sobrevivió hasta el siglo XVI:
-
-1. Los géneros que las mujeres practicaban (poesía lírica, epigrama) no eran considerados fuentes históricas.
-2. Las obras de autoras antiguas se perdieron en un porcentaje aún mayor que las de autores masculinos.
-3. La tradición manuscrita medieval era copiada por monjes que raramente preservaban textos de autoras.
-4. Mariana, como historiador, buscaba *auctoritas* para su narrativa — y la *auctoritas* era exclusivamente masculina en la tradición grecolatina.
-
-### 18.3 Reflexión
-
-Este silencio no es un defecto de Mariana, sino un **termómetro de las pérdidas culturales** de la Antigüedad. La recuperación de voces femeninas solo llegaría con la filología moderna (siglos XIX–XX).
-
----
-
-## 19. Densidad temática por capítulo: qué temas dominan en cada sección
+## 16. Densidad temática por capítulo
 
 Este frente clasifica las 201 citas por tema predominante en el capítulo donde aparecen, revelando qué aspectos de la historia de España priorizó Mariana en cada parte de su obra.
 
-### 19.1 Distribución temática estimada
+### 16.1 Distribución temática estimada
 
 | Tema | Entradas aproximadas | Libros predominantes | Ejemplos |
 |------|----------------------|---------------------|----------|
@@ -654,24 +566,24 @@ Este frente clasifica las 201 citas por tema predominante en el capítulo donde 
 | Arte / arquitectura | ~4 | III, IV | Plinio, Vitrubio |
 | Otros | ~53 | Varios | Fragmentarios, misceláneos |
 
-### 19.2 Patrón observado
+### 16.2 Patrón observado
 
 - El **Libro I** es el más heterogéneo: geografía, mitología, costumbres y guerras primitivas.
 - El **Libro II** se concentra en cronología y genealogías reales.
 - El **Libro III** mezcla geografía, derecho y agricultura.
 - El **Libro IV** domina en guerras, biografías e instituciones del Bajo Imperio.
 
-### 19.3 Implicación
+### 16.3 Implicación
 
 Mariana estructuró su obra siguiendo un modelo **polibiano** de la historia: no solo narrar hechos, sino explicar sus causas (geografía, costumbres, instituciones). La distribución temática refleja esta ambición de historia *causal*, no meramente cronológica.
 
 ---
 
-## 20. Supervivencia de las fuentes citadas: ¿cuántas obras referenciadas existen hoy?
+## 17. Supervivencia de las fuentes citadas: ¿cuántas obras referenciadas existen hoy?
 
 De las ~40 obras diferentes que Mariana cita directamente, ¿cuántas sobreviven completas, cuáles fragmentariamente y cuáles se han perdido?
 
-### 20.1 Estado de conservación
+### 17.1 Estado de conservación
 
 | Estado | Obras | % | Ejemplos |
 |--------|-------|---|----------|
@@ -680,11 +592,11 @@ De las ~40 obras diferentes que Mariana cita directamente, ¿cuántas sobreviven
 | **Perdidas** | ~7 | 17,5 % | Homero → existe, pero *Fenicias* de Filón: perdida; Solino original vs. *Collectanea* |
 | **Traducción medieval** | ~3 | 7,5 % | Moro Rasis (traducción castellana de la crónica árabe), Beda |
 
-### 20.2 La tasa de supervivencia
+### 17.2 La tasa de supervivencia
 
 Según los estudios modernos (Grafton, *The MissingMosaic*), solo sobrevivió aproximadamente el **1 % de la literatura griega clásica** y el **5–10 % de la latina**. Mariana citaba predominantemente autores del estrato que SÍ sobrevivió, lo que confirma la selección natural de la tradición manuscrita medieval.
 
-### 20.3 Autores cuyas fuentes principales se perdieron
+### 17.3 Autores cuyas fuentes principales se perdieron
 
 | Autor en Mariana | Obra referenciada | Estado hoy |
 |------------------|-------------------|------------|
@@ -693,74 +605,9 @@ Según los estudios modernos (Grafton, *The MissingMosaic*), solo sobrevivió ap
 | Ennio | *Annales* | Perdidos en su mayoría |
 | Livio | 42 libros | Solo 35 sobreviven (los 7 «perdidos») |
 
-### 20.4 Implicación
+### 17.4 Implicación
 
 Mariana trabajaba con un **corpus ya filtrado** por siglos de selección. Su erudición era impresionante para 1592, pero estaba limitada por lo que los monjes medievales decidieron copiar. Las fuentes que citaba eran las que sobrevivieron precisamente porque se consideraban las más importantes — un círculo de autoridad que se retroalimenta.
-
----
-
-## 21. Ausencias significativas: quiénes no están y qué revela su ausencia
-
-Más revelador que quiénes aparecen es quiénes **no** aparecen. Este frente identifica autores que una historiografía moderna consideraría esenciales para la historia de Hispania, pero que Mariana no citó.
-
-### 21.1 Ausentes notables
-
-| Autor ausente | Época | Obra | ¿Por qué puede estar ausente? |
-|---------------|-------|------|-------------------------------|
-| **Estrabón** (como fuente principal) | s. I a.C. | *Geographica* | Aparece en la tabla pero solo 1 cita; sorprendentemente subutilizado |
-| **Diódoro Sículo** | s. I a.C. | *Bibliotheca historica* | Sobrevenía fragmentariamente; Mariana quizás no lo tenía |
-| **Justino** (epítome de Trogo) | s. II–III | *Epitome* | Sorprendentemente ausente; era texto escolar |
-| **Ammiano Marcelino** | s. IV | *Res Gestae* | Ausente; su historia tardorromana debería haber sido relevante |
-| **Jordanes** | s. VI | *Getica* | Ausente; fuente para las migraciones bárbaras |
-| **Isidoro de Sevilla** (bajo uso) | s. VII | *Etimologías* | Solo 3 citas; subutilizado para un autor tan influyente |
-
-### 21.2 Causas de las ausencias
-
-1. **Acceso**: Algunos textos simplemente no estaban disponibles en los catálogos de la Compañía de Jesús en 1592.
-2. **Formación jesuita**: La currícula jesuita priorizaba autores retóricos y morales, no tanto historiadores tardíos.
-3. **Elección historiográfica**: Mariana puede haber considerado que ciertos autores eran de segundo orden para su proyecto específico.
-4. **Estado manuscrito**: Diódoro Sículo se conocía solo por fragmentos hasta los hallazgos del siglo XIX.
-
-### 21.3 Reflexión
-
-Las ausencias no disminuyen la erudición de Mariana — las confirman como **producto de su tiempo**. Un historiador moderno citaría autores que Mariana no podía conocer (arqueología, papiros, inscripciones). Cada era tiene sus fuentes, y cada era tiene sus ausencias.
-
----
-
-## 22. Huella de manuscritos perdidos: rastros de una biblioteca invisible
-
-Las citas de Mariana no solo reflejan las obras que leyó, sino también las **ediciones** que tuvo en sus manos. Este frente rastrea huellas de ediciones específicas perdidas o de manuscritos que circularon por la Europa del siglo XVI.
-
-### 22.1 Ediciones identificables en las citas
-
-| Obra | Edición que Mariana probablemente usó | Evidencia |
-|------|--------------------------------------|-----------|
-| Ptolomeo, *Geographia* | Traducción de Giorgio Valla (Venecia, 1488–1498) | Citas en latín, no griego |
-| Strabón, *Geographica* | Traducción de Guarino Veronese (1469) | Fragmentos latinos |
-| Filón de Biblos | Vía Eusebio, *Praeparatio Evangelica* | Cita indirecta |
-| Moro Rasis | Traducción castellana del s. XIII | Referencia a «Rasis» en castellano |
-| Columela, *De re rustica* | Edición aldina (Venecia, 1514) | Texto estándar del s. XVI |
-
-### 22.2 Rastros de manuscritos perdidos
-
-Las citas de Mariana a veces contienen variantes textuales que no coinciden con ninguna edición impresa conocida, lo que sugiere que consultó **manuscritos ahora perdidos**:
-
-1. **Dion Casio**: Algunas de sus citas contienen detalles no presentes en los fragmentos que conocemos hoy.
-2. **Festo Pompeyo**: La versión de Festo que Mariana citaba era más completa que el *De verborum significatu* fragmentario que sobrevive.
-3. **Varrón**: Las citas varronianas de Mariana incluyen datos no encontrados en ninguna fuente indirecta moderna.
-
-### 22.3 La biblioteca jesuita
-
-Mariana tuvo acceso a las bibliotecas de:
-- La **Compañía de Jesús** (red global de bibliotecas jesuitas)
-- La **Universidad de Alcalá** (donde estudió y enseñó)
-- La **Corte española** (acceso a colecciones reales)
-
-Estas bibliotecas conservaban manuscritos que se han perdido desde entonces — víctimas de los decretos de disolución jesuita (1773), guerras napoleónicas, o simples accidentes. Las citas de Mariana son, en algunos casos, el **único testimonio** de la existencia de esos manuscritos.
-
-### 22.4 Valor historiográfico
-
-Cada cita de Mariana no es solo una referencia: es un **fósil textual**. Cuando cita un pasaje de una edición que ya no existe, esa cita se convierte en la única ventana hacia un texto perdido. El *De contemptu mundi* de Bernardo de Cluny, la traducción completa de Dion Casio, o la versión varroniana completa de las *Antiquitates* pueden estar preservadas —en parte o en su totalidad— en las notas de un jesuita del siglo XVI.
 
 ---
 
