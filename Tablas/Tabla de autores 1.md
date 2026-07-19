@@ -225,7 +225,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Cayo Julio Solino | 3 | I | Etnografía antigua, fundaciones de ciudades (Valencia, Tarragona), mitología de Ultramediterráneo |
 | Cayo Silio Italico | 5 | II, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado |
 | Cayo Suetonio Tranquilo | 3 | I, IV | Religiones antiguas (templo de los Gériones), persecuciones imperiales (Domiciano) |
-| Cicerón | 7 | III | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
+| Cicerón | 7 | III, IV | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
 | Claudio Ptolomeo | 14 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos, coordenadas y provincias |
 | Columela | 1 | IV | Tratados de agricultura |
 | Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
@@ -239,23 +239,23 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | Eusebio de Vercelli | 1 | IV | Concilio de Milán, oposición a la herejía arriana |
 | Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
 | Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
-| *Filón de Biblos | 1 | I | Costumbres fenicias de sacrificio humano (hallado como "Philon", línea 1987) |
+| Filón de Biblos | 1 | I | Costumbres fenicias de sacrificio humano |
 | *Festo Pompeyo | 1 | I | Instituciones políticas de Cartago (suffetes) |
-| Floro | 1 | III | Guerras civiles en Hispania |
+| Floro | 1 | IV | Guerras civiles en Hispania |
 | Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
 | Heródoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
 | Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
 | Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
-| Marco Varrón | 11 | I, II, III | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
-| *Nicéforo | 1 | IV | Martirio de Cristóbal (hallado como "Nicephoro", línea 1446) |
+| Marco Varrón | 11 | I, II, III, IV | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
+| Nicéforo | 1 | IV | Martirio de Cristóbal |
 | Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
-| Ovidio Naso | 1 | III | Poemas de destierro, referencias a poetas hispanos |
+| Ovidio Naso | 1 | IV | Poemas de destierro, referencias a poetas hispanos |
 | *Polibio | 3 | II | Guerras púnicas, asedio de Sagunto, tácticas militares cartaginesas |
 | Pietro Ricci (Crinito) | 2 | IV | Biografía de Silio Itálico, erudición literaria |
 | Plinio | 19 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía, datos numéricos |
 | Plutarco | 7 | I, II, III, IV | Biografías comparadas, etimología, costumbres, enfermedades, guerras civiles |
-| Pomponio Mela | 2 | I, III | Geografía costera de Galicia, monumentos augustales |
-| *Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano (hallado como "Pogio Plorentin", línea 460) |
+| Pomponio Mela | 2 | I, IV | Geografía costera de Galicia, monumentos augustales |
+| Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano |
 | Procopio | 2 | IV | Usurpaciones imperiales, historia bizantina tardía |
 | Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
 | Prudencio | 6 | IV | Martirologio cristiano, poesía hispanolatina, concilios, martyres |
@@ -263,9 +263,9 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | *Rufo Festo | 1 | II | Topografía de Hispania (Solorio) |
 | San Basilio | 2 | IV | Martirologio oriental (40 mártires de Sebaste), conflictos arianos |
 | San Gregorio Nacianceno | 1 | IV | Historia eclesiástica de Constantinopla |
-| San Isidoro de Sevilla | 7 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
+| San Isidoro de Sevilla | 7 | I, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
 | San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
-| Seneca | 7 | III, IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
+| Seneca | 7 | IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
 | Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
 | Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
 | Tertuliano | 1 | III | Costumbres antiguas |
@@ -275,22 +275,13 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | *Usuardo | 1 | IV | Cronología apostólica (predicación de Pablo) |
 | Valerio Máximo | 1 | II | Ejempla morales, hechos memorables (Mancino) |
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
-| Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
+| Virgilio | 2 | I, IV | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
 **Total de autores distintos: 62**
 
 ## Autores no encontrados en los archivos TXT
 
 Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OCR individuales (`01_libro_primero.txt`, `02_libro_segundo.txt`, `03_libro_tercero.txt`, `04_libro_cuarto.txt`), con múltiples variantes de búsqueda por autor.
-
-### Autores hallados como fuentes en los archivos (eliminados de esta lista)
-
-| Autor | Libro(s) | Línea(s) | Resultado |
-|-------|----------|----------|-----------|
-| Filón de Biblos | I | 1987 | **Hallado como "Philon"** — citado sobre costumbres fenicias de sacrificio humano. Fuente genuina. |
-| Nicéforo | IV | 1446 | **Hallado como "Nicephoro"** — citado sobre el martirio de Cristóbal. Fuente genuina. |
-| Poggio Florentín | IV | 460 | **Hallado como "Pogio Plorentin"** — citado por recuperar las *Instituciones oratorias* de Quintiliano. Fuente genuina. |
-| Dion Casio | III, IV | 1860, 2375, 2465, 2559, 2777, 35, 145, 1069 | **Hallado como "Dion"** (8 citas) — referido siempre por el nombre monónimo. El nombre completo "Dion Casio" no aparece en el texto, pero las referencias son inequívocamente al historiador Dion Casio por su contexto (historia imperial romana, emperadores, consulados). |
 
 ### Autores no encontrados como fuentes
 

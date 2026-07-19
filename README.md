@@ -50,7 +50,6 @@ Se realizó una verificación exhaustiva de las **186 citas** contra los archivo
 
 - **Autores verificados como fuentes citadas**: 62 autores resultaron ser citaciones genuinas
 - **Autores no encontrados en el OCR**: 9 autores no aparecen como fuentes citadas en los Libros I–IV (algunos aparecen solo como figuras históricas pasajeras o marcas de imprenta)
-- **Autores hallados en búsqueda profunda**: 4 autores no incluidos originalmente en la tabla fueron encontrados como fuentes citadas (Filón de Biblos, Nicéforo, Poggio Florentín, Dion Casio)
 
 #### Tabla de autores
 
