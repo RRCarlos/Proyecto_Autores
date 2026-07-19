@@ -298,12 +298,7 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 
 ## Notas sobre la revisión
 
-- **Arriano** (historiador) se confirma en Libros I (línea 2747) y II (línea 534) como fuente. En Libro IV, todas las coincidencias de "Arriano" se refieren a la herejía arriana, no al historiador.
-- Las líneas de **Beda** y **Usuardo** (línea 339, Libro IV, Cap III) están en la misma línea de texto: "Afsimifmo Beday Vfuardo teftifican".
-- Las líneas 2553-2740 del OCR de Libro IV están duplicadas; las entradas 170-176 usan los números de la primera aparición.
-- La entrada 126 ("Cayo Silio Italico" línea 199) puede estar mal atribuida: el OCR en línea 199 habla de Silio (marido de Mesalina), no del poeta.
-- **Filón de Biblos** se encontró como "Philon" en Libro I (línea 1987), citado sobre costumbres fenicias.
-- **Nicéforo** se encontró como "Nicephoro" en Libro IV (línea 1446), citado sobre el martirio de Cristóbal.
-- **Poggio Florentín** se encontró como "Pogio Plorentin" en Libro IV (línea 460), citado por recuperar las *Instituciones oratorias* de Quintiliano.
-- **Dion Casio** se encontró como "Dion" (sin "Casio") en 8 citas a lo largo de Libros III y IV — siempre referido por el nombre monónimo, como era convención habitual.
-- **San Jerónimo** aparece mencionado en Libro IV (líneas 2591, 2688, 3040) solo como personaje histórico (amigo de Damaso), no como fuente citada.
+- **Arriano** (historiador): confirmado como fuente en Libro I (línea 2747, topografía africana) y Libro II (línea 534, embajadas a Alejandro). En Libro IV, las 11 coincidencias de "Arriano" se refieren exclusivamente a la herejía arriana ("Arrianos", "hombre Arriano", "heregía Arriana"), no al historiador.
+- **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 167–173 usan los números de la primera aparición.
+- **Entrada 129** ("Cayo Silio Italico", Libro IV línea 199): la cita ("vn mancebo principal, llamado Silio") se refiere a Silio, marido de Mesalina, no al poeta Cayo Silio Italico. El poeta sí aparece como fuente en Libro II (línea 3106) y Libro IV (línea 466).
+- **San Jerónimo**: las 3 menciones en Libro IV (líneas 2591, 2688, 3040) lo describen como personaje histórico (amigo de Damaso y de Licinio Bético), nunca como fuente citada por Mariana.

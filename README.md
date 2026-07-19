@@ -67,7 +67,7 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 Se incluyen además:
 - **Resumen por autor** (62 autores con temática y frecuencia de aparición)
 - **Autores no encontrados** (9 autores sin citas genuinas en el OCR)
-- **Notas sobre la revisión** (9 hallazgos técnicos: duplicaciones OCR, atribuciones erróneas, variantes ortográficas)
+- **Notas sobre la revisión** (4 hallazgos verificados: duplicaciones OCR, atribuciones erróneas, variantes ortográficas)
 
 ---
 
