@@ -190,44 +190,45 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 167 | Dion | VI | 1069 | muchos y muy antiguos, que refieren la cosa como ella dizo, favorece Dion | Legion Fulminatrix — lluvia |
 | 168 | Nicéforo | IX | 1446 | padeÃ§io el martyr santo Christoval, segun que lo refiere Nicephoro | Nicéforo: martirio de Cristóbal |
 | 169 | Quintiliano | X | 1492 | las declamaciones que andan impresas al fin de las instituciones de Quintiliano | Declamaciones de Quintiliano |
-| 170 | Prudencio | X | 1562 | según que lo testifica Prudencio | Prudencio: mártires — hija de Emiliano |
-| 171 | Quintiliano | X | 1593 | nombró en su lugar a Quintiliano su hermano, hombre de tan pequeño coragon | Quintiliano: hermano de Claudio se suicidó |
-| 172 | Prudencio | XII | 1795 | Prudencio la llama Encratis | Santa Engracia |
-| 173 | Prudencio | XII | 1804 | Prudencio refiere que sucedió lo mismo a las cenizas de trescientos martyres | Masa candida |
-| 174 | Braulio de Zaragoza | XIII | 1894 | como esta en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Caragoça | Braulio: vida de Santa Leocadia |
-| 175 | Claudio Ptolomeo | XIII | 1911 | Por lo menos Ptolomeo le da nombre de Libora | Ptolomeo: Talavera = Libora |
-| 176 | Tito Livio | XIII | 1915 | Tito Livio en los Carpetanos pone un pueblo que el llama Ebura | Tito Livio: Talavera = Ebura |
-| 177 | Claudio Ptolomeo | XIII | 1924 | Ptolomeo llama Libora | Ptolomeo: Elbora/Talavera |
-| 178 | *Moro Rasis | XIV | 2010 | Lo qual teftifica el Moro Rafis,queleuantaron los Moros aquellafuercaapropofito de impedirlas correrías | Moro Rasis: murallas de Toledo |
-| 179 | Prudencio | XV | 2102 | Bivió por este tiempo Prudencio obispo de Tarragona | Prudencio obispo |
-| 180 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
-| 181 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
-| 182 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
-| 183 | *Moro Rasis | XVI | 2295 | por las mifmaspalabras del Moro Rafis,hiíloriador antiguo y graue | Moro Rasis: dioceses de Constantino |
-| 184 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
-| 185 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
-| 186 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
-| 187 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones illustres |
-| 188 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
-| 189 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
-| 190 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
-| 191 | San Jerónimo | XVII | 2489 | fan Icronymo dedicó el libro de los eferitores ccclcfiafticos | San Jerónimo dedica *De viris illustribus* a Dextro, hijo de Paciano de Barcelona |
-| 192 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
-| 193 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
-| 194 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
-| 195 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
-| 196 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
-| 197 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
-| 198 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
-| 199 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
-| 200 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
-| 201 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
-| 202 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
-| 203 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
-| 204 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
-| 205 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
+| 170 | Trebellio Polión | X | 1554 | por autoridad de TrcbellioPollion,para concordar las opiniones | Trebellio citado para concordar cronologías — Mariana lo refuta por errado |
+| 171 | Prudencio | X | 1562 | según que lo testifica Prudencio | Prudencio: mártires — hija de Emiliano |
+| 172 | Quintiliano | X | 1593 | nombró en su lugar a Quintiliano su hermano, hombre de tan pequeño coragon | Quintiliano: hermano de Claudio se suicidó |
+| 173 | Prudencio | XII | 1795 | Prudencio la llama Encratis | Santa Engracia |
+| 174 | Prudencio | XII | 1804 | Prudencio refiere que sucedió lo mismo a las cenizas de trescientos martyres | Masa candida |
+| 175 | Braulio de Zaragoza | XIII | 1894 | como esta en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Caragoça | Braulio: vida de Santa Leocadia |
+| 176 | Claudio Ptolomeo | XIII | 1911 | Por lo menos Ptolomeo le da nombre de Libora | Ptolomeo: Talavera = Libora |
+| 177 | Tito Livio | XIII | 1915 | Tito Livio en los Carpetanos pone un pueblo que el llama Ebura | Tito Livio: Talavera = Ebura |
+| 178 | Claudio Ptolomeo | XIII | 1924 | Ptolomeo llama Libora | Ptolomeo: Elbora/Talavera |
+| 179 | *Moro Rasis | XIV | 2010 | Lo qual teftifica el Moro Rafis,queleuantaron los Moros aquellafuercaapropofito de impedirlas correrías | Moro Rasis: murallas de Toledo |
+| 180 | Prudencio | XV | 2102 | Bivió por este tiempo Prudencio obispo de Tarragona | Prudencio obispo |
+| 181 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
+| 182 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
+| 183 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
+| 184 | *Moro Rasis | XVI | 2295 | por las mifmaspalabras del Moro Rafis,hiíloriador antiguo y graue | Moro Rasis: dioceses de Constantino |
+| 185 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
+| 186 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
+| 187 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
+| 188 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones illustres |
+| 189 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
+| 190 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
+| 191 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
+| 192 | San Jerónimo | XVII | 2489 | fan Icronymo dedicó el libro de los eferitores ccclcfiafticos | San Jerónimo dedica *De viris illustribus* a Dextro, hijo de Paciano de Barcelona |
+| 193 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
+| 194 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
+| 195 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
+| 196 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
+| 197 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
+| 198 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
+| 199 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
+| 200 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
+| 201 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
+| 202 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
+| 203 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
+| 204 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
+| 205 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
+| 206 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
 
-**Total de apariciones (fuentes externas): 205**
+**Total de apariciones (fuentes externas): 206**
 
 ## Autoreferencias de Juan de Mariana
 
@@ -310,6 +311,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Seneca | 7 | IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
 | Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
 | Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
+| *Trebellio Polión | 1 | IV | Cronología de la Historia Augusta — Mariana rechaza su cronología discordante |
 | Tertuliano | 1 | III | Costumbres antiguas |
 | Tito Flavio Josefo | 1 | I | Historia de Judea, invasiones babilónicas |
 | Tito Livio | 6 | I, II, IV | Guerras púnicas, conquista de Hispania, etnografía (Turdulos/Turdetanos), topografía |
@@ -319,7 +321,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 75 (74 fuentes externas + 1 autoreferencia)**
+**Total de autores distintos: 76 (75 fuentes externas + 1 autoreferencia)**
 
 ## Autores no encontrados en los archivos TXT
 
@@ -331,7 +333,6 @@ Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OC
 |-------|-------------------|-----------|
 | Casiodoro | "Casiodoro", "Cafiodoro", "Casiodo", "Cafodoro", "Caſiodoro" en libros I–IV | **No encontrado.** Nombre posiblemente corruptado en OCR o ausente de esta edición. |
 | Filisto de Siracusa | "Filisto", "Filto", "Filifto", "Filfto", "Philiſto" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
-| Trebellio Polión | "Trebellio", "Polión", "Polion", "Trebello", "Trebelio" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
 | Hilderico | "Hilderico", "Hilderic", "Ilderic" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro III Cap XXIV pero ausente del OCR. |
 | Miguel Sincelo | "Sincelo", "Syncelo", "Síncelo" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap IV pero ausente del OCR. |
 | Hernando del Pulgar | "Pulgar", "del Pulgar" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap XXI pero solo aparece en libros posteriores (VII+). |
@@ -345,13 +346,12 @@ De los autores referidos en las notas del investigador o mencionados en la bibli
 |---|-------|-------|----------------|
 | 1 | **Casiodoro** | III | Nombre corrupto en OCR o ausente de esta edición |
 | 2 | **Filisto de Siracusa** | I | Fuente muy antigua (s. IV a.C.), Mariana quizá cita de memoria |
-| 3 | **Trebellio Polión** | III | Autor de la *Historia Augusta* — nombre no detectado en OCR |
-| 4 | **Hilderico** | III | Solo en libros V+ |
-| 5 | **Miguel Sincelo** | IV | Bizantino (s. IX), fuera del rango de fuentes de L I–IV |
-| 6 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
-| 7 | **Arriano (en LIV)** | IV | Confundido con herejía arriana; presente como historiador solo en L I y L II |
+| 3 | **Hilderico** | III | Solo en libros V+ |
+| 4 | **Miguel Sincelo** | IV | Bizantino (s. IX), fuera del rango de fuentes de L I–IV |
+| 5 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
+| 6 | **Arriano (en LIV)** | IV | Confundido con herejía arriana; presente como historiador solo en L I y L II |
 
-**Total: 7 autores no encontrados en OCR.**
+**Total: 6 autores no encontrados en OCR.**
 
 ### Autores encontrados en OCR pendientes de indexar
 
@@ -369,4 +369,5 @@ Los siguientes autores fueron localizados en el texto OCR con citas verificables
 - **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 188–194 usan los números de la primera aparición.
 - **Entrada 137** ("Cayo Silio Italico", Libro IV línea 199): la cita ("vn mancebo principal, llamado Silio") se refiere a Silio, marido de Mesalina, no al poeta Cayo Silio Italico. El poeta sí aparece como fuente en Libro II (línea 3106) y Libro IV (línea 466).
 - **San Jerónimo**: indexado como fuente en Libro IV (línea 2489, entrada 189), donde Mariana lo cita por su *De viris illustribus* dedicado a Dextro de Barcelona. Las otras 3 menciones (líneas 2591, 2688, 3040) lo describen como personaje histórico (amigo de Damaso y de Licinio Bético). Encontrado mediante variante de búsqueda «Icronymo» (OCR corrupto).
-- **Verificación de julio 2026**: se añadieron 19 entradas nuevas (186→205 apariciones, 62→74 autores). Barrido de 25 capítulos sin citas: halladas 2 en Libro I CAP XXI (Rufo Festo, Tito Livio). San Jerónimo recuperado del OCR. San Agustín (2 citas) y Juan Margarite (1 cita) localizados en OCR pero pendientes de indexar. 7 autores continúan sin localizar en OCR. Arreglado duplicado de numeración 191. Revisión completa de numeración completada.
+- **Trebellio Polión**: indexado como fuente en Libro IV (línea 1553, entrada 170). El OCR corrompe «Trebellio» como «TrcbellioPollion» (e→c). Mariana lo cita para rechazar su cronología discordante. Retirado de la tabla de no encontrados.
+- **Verificación de julio 2026**: se añadieron 20 entradas nuevas (186→206 apariciones, 62→75 autores). Barrido de 25 capítulos sin citas: halladas 2 en Libro I CAP XXI (Rufo Festo, Tito Livio). Recuperados del OCR: San Jerónimo y Trebellio Polión (indexados), San Agustín (2 citas) y Juan Margarite (1 cita) localizados en OCR pero pendientes de indexar. 6 autores continúan sin localizar en OCR. Arreglado duplicado de numeración 191 y 177. Revisión completa de numeración completada.
