@@ -229,14 +229,16 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 204 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
 | 205 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
 | 206 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
+| San Ildefonso de Toledo | 1 | IV | Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá de Henares |
 | 207 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
 | 208 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
 | 209 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
 | 210 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
 | 211 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
 | 212 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
+| 213 | San Ildefonso de Toledo | XX | 3077 | es aquelde quien testifica fanlllcfonfo en fus claros varones, que halló los cuerpos de los santos martyres Iufto y Pastor en Alcala de Henares | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá |
 
-**Total de apariciones (fuentes externas): 212**
+**Total de apariciones (fuentes externas): 213**
 
 ## Autoreferencias de Juan de Mariana
 
@@ -332,7 +334,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 80 (79 fuentes externas + 1 autoreferencia)**
+**Total de autores distintos: 81 (80 fuentes externas + 1 autoreferencia)**
 
 ## Tabla de autores aún no encontrados con OCR
 
