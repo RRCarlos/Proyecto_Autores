@@ -1,6 +1,6 @@
 # Relación de datos
 
-Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV de la *Historia General de España* de Juan de Mariana (edición de 1601). Fuente: [Tabla de autores 1](../Tablas/Tabla%20de%20autores%201.md) (209 entradas, 77 autores únicos).
+Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV de la *Historia General de España* de Juan de Mariana (edición de 1601). Fuente: [Tabla de autores 1](../Tablas/Tabla%20de%20autores%201.md) (210 entradas, 78 autores únicos).
 
 ---
 
@@ -8,16 +8,16 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 
 | Métrica | Valor |
 |---------|-------|
-| Total de apariciones (citas) | 209 |
-| Autores únicos | 77 |
+| Total de apariciones (citas) | 210 |
+| Autores únicos | 78 |
 | Libros cubiertos | 4 (I–IV) |
 | Capítulos con al menos 1 cita | 82 de 92 totales |
-| Autores que acaparan el 50 % de las citas | 13 de 77 (16,9 %) |
+| Autores que acaparan el 50 % de las citas | 13 de 78 (16,7 %) |
 | Autor más citado | Plinio (20 citas, 9,6 %) |
-| Libro con más citas | Libro Cuarto (75 citas, 35,9 %) |
+| Libro con más citas | Libro Cuarto (75 citas, 35,7 %) |
 | Libro con más autores únicos | Libro Cuarto (41 autores) |
-| Autores citados en 3+ libros | 12 de 77 (15,6 %) |
-| Autores de una sola aparición | 41 de 77 (53,2 %) |
+12 de 78 (15,4 %)
+| Autores de una sola aparición | 42 de 78 (53,8 %) |
 
 **Ley de Pareto aplicada:** Los 10 autores más citados (13,0 % del total) concentran 94 apariciones, el **45,0 %** de todas las citas. Los 20 primeros (26,0 %) concentran 133 citas, el **63,6 %**.
 
@@ -54,7 +54,7 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 | 23 | Moro Rasis | 3 | 1,4 % | III, IV | Historiador árabe |
 | 24 | Orosio | 3 | 1,4 % | II, III, IV | Cronista cristiano |
 | 25–36 | 12 autores con 2 apariciones | 24 | 11,5 % | — | Varios |
-| 37–77 | 41 autores con 1 aparición | 41 | 19,6 % | — | Varios |
+| 37–78 | 42 autores con 1 aparición | 42 | 21,5 % | — | Varios |
 
 ### 2.2 Curva de concentración (Pareto)
 
@@ -65,7 +65,7 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 | Top 15 | + Apiano, Silio, Estrabón, Quintiliano, Polibio | 19,5 % | 118 | 56,5 % |
 | Top 20 | + Amiano, Aristóteles, Solino, Suetonio, Diodoro | 26,0 % | 133 | 63,6 % |
 | Top 24 | + Eusebio, Justino, Moro Rasis, Orosio | 31,2 % | 145 | 69,4 % |
-| Todos (77) | — | 100 % | 209 | 100 % |
+| Todos (78) | – | 100 % | 210 | 100 % |
 
 **Interpretación:** Un tercio de los autores concentra dos tercios de las citas. El modelo es típico de una obra historiográfica clásica: unas pocas autoridades fundacionales (Plinio, Ptolomeo, Varrón) sostienen la mayor parte del aparato erudito, mientras que la «cola larga» de 40 autores de una sola aparición refleja menciones puntuales, curiosidades o referencias de apoyo.
 
@@ -81,7 +81,7 @@ Análisis cuantitativo y cualitativo de las citas a autores en los Libros I–IV
 | Libro Segundo | 30 | 14,4 % | 17 | 1,2 |
 | Libro Tercero | 55 | 26,3 % | 22 | 2,3 |
 | Libro Cuarto | 75 | 35,9 % | 41 | 3,6 |
-| **Total** | **209** | **100 %** | **77** | **2,3** |
+| **Total** | **210** | **100 %** | **78** | **2,3** |
 
 **Observaciones:**
 - El Libro Cuarto tiene **el triple de densidad** que el Libro Segundo. Esto se explica porque LIV cubre 400 años de historia (siglos I–V) con multiplicación de fuentes eclesiásticas y cronológicas, incluyendo las 2 citas de San Agustín y la de Juan Margarite.
@@ -136,9 +136,9 @@ De los 92 capítulos totales, **10 no tienen entrada alguna** en la tabla de aut
 | Libros citados | Autores | % | Autores |
 |----------------|---------|---|---------|
 | 4 libros | 4 | 5,2 % | Plinio, Ptolomeo, Varrón, Plutarco |
-| 3 libros | 7 | 9,1 % | Cicerón, Isidoro, Tito Livio, Estrabón, Arriano, Aristóteles, Moro Rasis |
-| 2 libros | 21 | 27,3 % | Dion, Séneca, Apiano, Silio, Polibio, Prudencio, Suetonio, Eusebio(s), Lucano, Mela, Crinito, Amiano, San Agustín, etc. |
-| 1 libro | 39 | 50,6 % | Los demás (incl. Juan Margarite) |
+| 3 libros | 7 | 9,0 % | Cicerón, Isidoro, Tito Livio, Estrabón, Arriano, Aristóteles, Moro Rasis |
+| 2 libros | 21 | 26,9 % | Dion, Séneca, Apiano, Silio, Polibio, Prudencio, Suetonio, Eusebio(s), Lucano, Mela, Crinito, Amiano, San Agustín, etc. |
+| 1 libro | 40 | 51,3 % | Los demás (incl. Juan Margarite) |
 
 ### 4.2 Los 5 «pilares» de Mariana (citados en los 4 libros)
 
@@ -284,7 +284,7 @@ Plinio y Cicerón nunca aparecen juntos en la misma línea OCR, pese a ser dos d
 
 ### 8.1 Fórmulas citativas
 
-Del análisis de las 209 citas OCR se identifican patrones recurrentes en cómo Mariana introduce a sus fuentes:
+Del análisis de las 210 citas OCR se identifican patrones recurrentes en cómo Mariana introduce a sus fuentes:
 
 | Fórmula | Ejemplos | Frecuencia estimada |
 |---------|----------|---------------------|
@@ -368,22 +368,20 @@ Los nombres propios latinos conservan mejor su forma en el OCR que los nombres e
 | **Hilderico** | III | Solo en libros V+ |
 | **Miguel Sincelo** | IV | Ausente — bizantino, s. IX |
 | **Hernando del Pulgar** | IV | Solo en libros V+ |
-| **Arriano (en LIV)** | IV | Confundido con herejía arriana |
 
 ### 10.2 Patrón
 
 | Tipo | Autores | Explicación |
 |------|---------|-------------|
 | **Fuera de rango** | Hilderico, Pulgar | Citados en libros V+, fuera del análisis |
-| **OCR insalvable** | Casiodoro, Sincelo | Nombre corrupto o ausente del texto digitalizado |
-| **No-fuente** | Arriano (LIV) | Presente en el texto pero no como autoridad citada |
+| **OCR insalvable** | Casiodoro | Nombre corrupto o ausente del texto digitalizado |
 | **Ausencia real** | Filisto | Mariana lo menciona pero el OCR no lo captura |
 
 ---
 
 ## 11. Origen geográfico de las fuentes: un mapa mental del conocimiento antiguo
 
-La procedencia geográfica de los autores revela de qué civilizaciones dependía Mariana para reconstruir la historia de España. Los 77 autores se distribuyen en una geografía que cubre todo el Mediterráneo clásico:
+La procedencia geográfica de los autores revela de qué civilizaciones dependía Mariana para reconstruir la historia de España. Los 78 autores se distribuyen en una geografía que cubre todo el Mediterráneo clásico:
 
 ### 11.1 Distribución continental
 
@@ -470,7 +468,7 @@ Plinio el Viejo → Ptolomeo → Mariana
 
 ## 14. Densidad temática por capítulo
 
-Este frente clasifica las 209 citas por tema predominante en el capítulo donde aparecen, revelando qué aspectos de la historia de España priorizó Mariana en cada parte de su obra.
+Este frente clasifica las 210 citas por tema predominante en el capítulo donde aparecen, revelando qué aspectos de la historia de España priorizó Mariana en cada parte de su obra.
 
 ### 14.1 Distribución temática estimada
 
@@ -535,7 +533,7 @@ Mariana trabajaba con un **corpus ya filtrado** por siglos de selección. Su eru
 
 ## Metodología
 
-- **Fuente primaria:** [Tabla de autores 1.md](../Tablas/Tabla%20de%20autores%201.md) (209 entradas verificadas).
+- **Fuente primaria:** [Tabla de autores 1.md](../Tablas/Tabla%20de%20autores%201.md) (210 entradas verificadas).
 - **Verificación cruzada:** Notas del investigador (`Notas/Apuntes sobre HGE Cap I-IV.txt`) + archivos OCR individuales (`Ediciones_HGE/01_libro_primero.txt` a `04_libro_cuarto.txt`).
 - **Criterio de inclusión:** Solo autores citados explícitamente por Mariana como fuentes o autoridades. Personajes históricos mencionados de pasada (San Jerónimo, Arriano en LIV) se registran en «no encontrados».
 - **Limitaciones:** El OCR contiene corrupciones significativas que pueden ocultar menciones. La tabla refleja las citas encontradas, no necesariamente las totales de la edición completa.
