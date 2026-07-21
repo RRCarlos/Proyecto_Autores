@@ -20,6 +20,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 12 | Plinio | VII | 715 | Plinio re fierepaífaronde Europa los Brigas | Plinio relata la migración de los Brigas desde Europa |
 | 13 | Diodoro Siculus | VIII | 805 | Diodoro Siculo, y por otros nombres le llamaron Baccho,y Dionyfío | Diodoro Sículo sobre Osiris/Baccho |
 | 14 | Cayo Suetonio Tranquilo | VIII | 841 | lo teftifica Suetonio Tranquillo | Suetonio testifica el templo de los Gériones en Padua |
+| *Casiodoro | 1 | III | Sobrenombre Magnus de Pompeyo (cita conjunta con Tertuliano) |
 | 15 | Plinio | IX | 983 | es cierto que Plinio lallama colonia Romulenfe | Plinio la llama colonia Romulense de Hispalis |
 | 16 | Plutarco | IX | 985 | Plutarcho eferiue, que venido que ouo el otro Dionyfio oBaccho...a Efpaña | Plutarco sobre Dionisio/Baccho en España |
 | 17 | Falso Beroso | IX | 997 | Berofo,cuyas fábulas poco antes defechamos | Mariana descarta las fábulas de Falso Beroso |
@@ -138,101 +139,104 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 120 | Dion | XXIIII | 2465 | testimonio de Dion | Dion Casio: autoridad para confirmar hechos |
 | 121 | Ciceron | XXIIII | 2481 | Lucillio y en Cicerón se halla, que las partidas del libro de cuentas, por don de se da y toma razón de la hazienda del gasto y del recibo, se llaman Eras | Cicerón y Lucilio: etimología del término «Era» |
 | 122 | San Isidoro de Sevilla | XXIIII | 2486 | así de las obras de San Isidoro, como de las leyes Goticas | San Isidoro: denominación de capítulos |
-| 123 | San Isidoro de Sevilla | XXIIII | 2493 | del mismo tiempo de San Isidoro | San Isidoro: referencia cronológica del siglo VII |
-| 124 | San Isidoro de Sevilla | XXIIII | 2501 | por autoridad de San Isidoro, el cual engañó a los demás | San Isidoro: fuente errónea sobre etimología de Era |
-| 125 | Dion | XXIIII | 2559 | como lo dize Dion | Dion Casio: deificación de Sexto Pacuvio |
-| 126 | Claudio Ptolomeo | XXV | 2612 | Ptolomeo señala por aledaños de los Cántabros, a los Autrigones por la parte deliente, y por la de poniente a los Lungones | Ptolomeo: localización de pueblos cántabros |
-| 127 | Claudio Ptolomeo | XXV | 2685 | marcados en Ptolomeo, Vinieron pues a las manos | Ptolomeo: batalla de Vellica |
-| 128 | *Moro Rasis | XXV | 2771 | Rafis Arabe encarece mucho la grandezay hermofura de aquellaciudad,hafta dezir cofas dellacafi increíbles | Moro Rasis: grandeza y hermosura de Mérida (Emerita Augusta) |
-| 129 | Dion | XXV | 2777 | Dion siempre le llama Tito Cariño, que debió ser descuido de pluma, porque en las monedas no se llama sino Publio Carisio | Dion Casio: error sobre Publio Carisio |
-| 130 | Claudio Ptolomeo | XXV | 2796 | las Aras Sextianas, de las cuales Mela, Plinio, y Ptolomeo, hicieron notable mención | Ptolomeo: monumentos augustales |
-| 131 | Pomponio Mela | XXV | 2799 | por dezir Mela que estaban dedicadas a Augusto César | Pomponio Mela: aras sextianas |
-| 132 | Plinio | XXV | 2846 | lo certifica Plinio | Plinio: descripción de Agripa sobre Hispania |
-| 133 | Seneca | XXV | 2868 | amigo de Seneca, el padre del otro Seneca, que llamaron el Philosopho | Séneca: biografía de hispanos ilustres |
-| 134 | Ovidio Naso | XXV | 2875 | del poeta Ovidio Nasón | Ovidio: literatura hispano-romana |
+| *123 | Hilderico | XXIIII | 2492 | HiIderico, de nacion Frances,y del mismo tiempo de San Isidoro, por dezir numero de dias | Hilderico: fuente sobre la Era - de nacion Frances, mismo tiempo de San Isidoro |
+| 124 | San Isidoro de Sevilla | XXIIII | 2493 | del mismo tiempo de San Isidoro | San Isidoro: referencia cronológica del siglo VII |
+| 125 | San Isidoro de Sevilla | XXIIII | 2501 | por autoridad de San Isidoro, el cual engañó a los demás | San Isidoro: fuente errónea sobre etimología de Era |
+| 126 | Dion | XXIIII | 2559 | como lo dize Dion | Dion Casio: deificación de Sexto Pacuvio |
+| 127 | Claudio Ptolomeo | XXV | 2612 | Ptolomeo señala por aledaños de los Cántabros, a los Autrigones por la parte deliente, y por la de poniente a los Lungones | Ptolomeo: localización de pueblos cántabros |
+| 128 | Claudio Ptolomeo | XXV | 2685 | marcados en Ptolomeo, Vinieron pues a las manos | Ptolomeo: batalla de Vellica |
+| 129 | *Moro Rasis | XXV | 2771 | Rafis Arabe encarece mucho la grandezay hermofura de aquellaciudad,hafta dezir cofas dellacafi increíbles | Moro Rasis: grandeza y hermosura de Mérida (Emerita Augusta) |
+| 130 | Dion | XXV | 2777 | Dion siempre le llama Tito Cariño, que debió ser descuido de pluma, porque en las monedas no se llama sino Publio Carisio | Dion Casio: error sobre Publio Carisio |
+| 131 | Claudio Ptolomeo | XXV | 2796 | las Aras Sextianas, de las cuales Mela, Plinio, y Ptolomeo, hicieron notable mención | Ptolomeo: monumentos augustales |
+| 132 | Pomponio Mela | XXV | 2799 | por dezir Mela que estaban dedicadas a Augusto César | Pomponio Mela: aras sextianas |
+| 133 | Plinio | XXV | 2846 | lo certifica Plinio | Plinio: descripción de Agripa sobre Hispania |
+| 134 | Seneca | XXV | 2868 | amigo de Seneca, el padre del otro Seneca, que llamaron el Philosopho | Séneca: biografía de hispanos ilustres |
+| 135 | Ovidio Naso | XXV | 2875 | del poeta Ovidio Nasón | Ovidio: literatura hispano-romana |
 
 ## Libro Cuarto
 
 | # | Autor | Capítulo | Línea | Cita | Contexto |
 |---|-------|----------|-------|------|----------|
-| *135 | San Agustín | I | 20 | en tiepo de fan Auguílin fuccedio,como el mefmo lo refiere | San Agustín: discrepancia en los nombres de los cónsules del año de fundación de Roma |
-| 136 | Dion | I | 35 | Entre los historiadores solo Dion, sin señalar tiempo ni lugar | Bandido Corocota bajo Augusto |
-| 137 | Seneca | I | 113 | Iunio Gallion, hermano de Seneca el Philosopho | Galión — hermano de Séneca |
-| 138 | Dion | I | 145 | que la ave Phoenicijta, como lo refieren Dion, Tacito y Plinio | Dion entre las fuentes sobre el ave fénix |
-| 139 | Tacito | I | 145 | que la ave Phoenicijta, como lo refieren Dion, Tacito y Plinio | Tacito entre las fuentes sobre el ave fénix |
-| 140 | *Plinio | I | 145 | que la auc PlicniijTaqualfucvifta,como lorcficrcnDion^TacitojyPlinió | Plinio entre las fuentes sobre el ave fénix |
-| 141 | San Lucas | II | 170 | san Lucas en los actos de los Apóstoles llama Herodes | Agripa — Actos de los Apóstoles |
-| 142 | Cayo Silio Italico | II | 199 | vn mancebo principal, llamado Silio | Silio (marido de Mesalina) — posible error de atribución |
-| 143 | Seneca | II | 207 | embió desterrado a Seneca a la isla de Córcega | Séneca desterrado a Córcega |
-| 144 | Columela | II | 213 | Lucio Maderato Columela, natural de Cádiz, cuyos libros de agricultura andan comunmente | Columela — agricultura |
-| 145 | Seneca | II | 214 | Seneca en sus declamaciones haze mención de otros dos oradores Españoles | Séneca — oradores españoles |
-| 146 | Quintiliano | II | 218 | del qual se habló poco antes, y del dize Quintiliano | Porcio Latron — retórica |
-| 147 | Eusebio Cesariense | II | 220 | Eusebio dize que murió de quartanas | Muerte de Porcio Latron |
-| 148 | Cayo Silio Italico | II | 226 | A la fazon que acabó Nerón, era cónsul en Roma Silio Itálico | Silio Itálico — cónsul |
-| 149 | San Lucas | II | 246 | dize san Lucas en los actos, que le dieron la muerte | Muerte de Santiago |
-| 150 | *Pelayo obispo de Oviedo | II | 290 | Pelagio obifpo de Guiedo,que eferiuio fu hiftoria aura quinientos años,cuenta por difcipulos de Santiago | Pelayo: discípulos de Santiago |
-| 151 | Lucano | III | 310 | sin perdonar a Seneca su maestro, ni al inclyto poeta Lucano | Nerón mata a Séneca y Lucano |
-| 152 | Seneca | III | 310 | sin perdonar a Seneca su maestro, ni al inclyto poeta Lucano | Nerón mata a Séneca |
-| 153 | Seneca | III | 311 | al inclyto poeta Lucano | Lucano — poeta |
-| 154 | *Beda | III | 339 | Assimismo Beda y Vfuardo testifican que dexó por obispo de Narbona a Sergio Paulo | Beda: Pablo en Narbona |
-| 155 | *Usuardo | III | 339 | Assimismo Beda y Vfuardo testifican que dexó por obispo de Narbona a Sergio Paulo | Usuardo: Pablo en Narbona |
-| 156 | *Plutarco | III | 428 | la cfperanza,a la ciudad de Clunia (efte nombre eíta corrompido en Plutarcho,que pone Colonia por Clunia | Plutarco: confusión Clunia/Colonia |
-| 157 | Quintiliano | III | 458 | Llenó otro fabio Quintiliano, natural de Calahorra, que fue aventajado en la profession de la rhetorica | Quintiliano — retórica |
-| 158 | Poggio Florentín | III | 460 | Hallolas, y facolasaluz Pogio Plorentin, en tiempo del concilio cierto de Constantancia, en cierto monasterio de aquella ciudad | Poggio: recuperación de las Instituciones oratorias de Quintiliano |
-| 159 | Cayo Silio Italico | III | 466 | A la fazon que acabó Nerón, era cónsul en Roma Silio Itálico | Silio Itálico — cónsul |
-| 160 | Pietro Ricci (Crinito) | III | 469 | Crinito dize que nació en Roma, pero su descendencia era de España | Crinito — origen de Silio |
-| 161 | Gregorio Giraldo | III | 470 | Gregorio Giraldo affirma que fue natural de los Peligros | Giraldo — patria de Silio |
-| 162 | Seneca | III | 482 | Seneca el Philosopho, con el qual no se sabe si tuvo algún deudo | Seneca Trágico vs Seneca Filósofo |
-| 163 | Quintiliano | III | 484 | Quintiliano haze mención de una sola tragedia que andava en nombre de Seneca el Philosopho | Quintiliano — tragedia de Séneca |
-| 164 | Cayo Suetonio Tranquilo | IIII | 667 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos |
-| 165 | Cayo Suetonio Tranquilo | IIII | 760 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos (segunda mención) |
-| *166 | Miguel Sincelo | IIII | 842 | por Michae! Syncello, fue elque nosotros llamamos Eugenio | Sincelo: Vida de San Clemente, San Eugenio en Espa�a |
-| 167 | Plutarco | V | 875 | el gran philosopho Plutarcho | Plutarco — maestro de Trajano |
-| 168 | Plinio | V | 909 | Plinio el mas moço, proconsul a la fazón de Bithynia, le aviso por una carta suya | Plinio — carta sobre cristianos |
-| 169 | *Julio Capitolino | VI | 1066 | Iulio Capitolino dizc, q por lasoracioncs del emperadorfe aplacaron los diofesy cayóla lluuia | Julio Capitolino: Legion Fulminatrix, lluvia milagrosa |
-| 170 | Dion | VI | 1069 | muchos y muy antiguos, que refieren la cosa como ella dizo, favorece Dion | Legion Fulminatrix — lluvia |
-| 171 | Nicéforo | IX | 1446 | padeÃ§io el martyr santo Christoval, segun que lo refiere Nicephoro | Nicéforo: martirio de Cristóbal |
-| 172 | Quintiliano | X | 1492 | las declamaciones que andan impresas al fin de las instituciones de Quintiliano | Declamaciones de Quintiliano |
-| 173 | Trebellio Polión | X | 1554 | por autoridad de TrcbellioPollion,para concordar las opiniones | Trebellio citado para concordar cronologías — Mariana lo refuta por errado |
-| 174 | Prudencio | X | 1562 | según que lo testifica Prudencio | Prudencio: mártires — hija de Emiliano |
-| 175 | Quintiliano | X | 1593 | nombró en su lugar a Quintiliano su hermano, hombre de tan pequeño coragon | Quintiliano: hermano de Claudio se suicidó |
-| *175 | San Agustín | XII | 1751 | Pegun que lo refiere fan Auguílin | San Agustín: edictos contra los cristianos del año 303 (Diocleciano y Maximiano) |
-| 177 | Prudencio | XII | 1795 | Prudencio la llama Encratis | Santa Engracia |
-| 178 | Prudencio | XII | 1804 | Prudencio refiere que sucedió lo mismo a las cenizas de trescientos martyres | Masa candida |
-| 179 | Braulio de Zaragoza | XIII | 1894 | como esta en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Caragoça | Braulio: vida de Santa Leocadia |
-| 180 | Claudio Ptolomeo | XIII | 1911 | Por lo menos Ptolomeo le da nombre de Libora | Ptolomeo: Talavera = Libora |
-| 181 | Tito Livio | XIII | 1915 | Tito Livio en los Carpetanos pone un pueblo que el llama Ebura | Tito Livio: Talavera = Ebura |
-| 182 | Claudio Ptolomeo | XIII | 1924 | Ptolomeo llama Libora | Ptolomeo: Elbora/Talavera |
-| 183 | *Moro Rasis | XIV | 2010 | Lo qual teftifica el Moro Rafis,queleuantaron los Moros aquellafuercaapropofito de impedirlas correrías | Moro Rasis: murallas de Toledo |
-| 184 | Prudencio | XV | 2102 | Bivió por este tiempo Prudencio obispo de Tarragona | Prudencio obispo |
-| 185 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
-| 186 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
-| 187 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
-| 188 | *Moro Rasis | XVI | 2295 | por las mifmaspalabras del Moro Rafis,hiíloriador antiguo y graue | Moro Rasis: dioceses de Constantino |
-| 189 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
-| 190 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
-| 191 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
-| 192 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones illustres |
-| 193 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
-| 194 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
-| 195 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
-| 196 | San Jerónimo | XVII | 2489 | fan Icronymo dedicó el libro de los eferitores ccclcfiafticos | San Jerónimo dedica *De viris illustribus* a Dextro, hijo de Paciano de Barcelona |
-| 197 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
-| 198 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
-| 199 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
-| 200 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
-| 201 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
-| 202 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
-| 203 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
-| 204 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
-| 205 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
-| 206 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
-| 207 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
-| 208 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
-| 209 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
-| 210 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
+| *136 | San Agustín | I | 20 | en tiepo de fan Auguílin fuccedio,como el mefmo lo refiere | San Agustín: discrepancia en los nombres de los cónsules del año de fundación de Roma |
+| 137 | Dion | I | 35 | Entre los historiadores solo Dion, sin señalar tiempo ni lugar | Bandido Corocota bajo Augusto |
+| 138 | Seneca | I | 113 | Iunio Gallion, hermano de Seneca el Philosopho | Galión — hermano de Séneca |
+| 139 | Dion | I | 145 | que la ave Phoenicijta, como lo refieren Dion, Tacito y Plinio | Dion entre las fuentes sobre el ave fénix |
+| 140 | Tacito | I | 145 | que la ave Phoenicijta, como lo refieren Dion, Tacito y Plinio | Tacito entre las fuentes sobre el ave fénix |
+| 141 | *Plinio | I | 145 | que la auc PlicniijTaqualfucvifta,como lorcficrcnDion^TacitojyPlinió | Plinio entre las fuentes sobre el ave fénix |
+| 142 | San Lucas | II | 170 | san Lucas en los actos de los Apóstoles llama Herodes | Agripa — Actos de los Apóstoles |
+| 143 | Cayo Silio Italico | II | 199 | vn mancebo principal, llamado Silio | Silio (marido de Mesalina) — posible error de atribución |
+| 144 | Seneca | II | 207 | embió desterrado a Seneca a la isla de Córcega | Séneca desterrado a Córcega |
+| 145 | Columela | II | 213 | Lucio Maderato Columela, natural de Cádiz, cuyos libros de agricultura andan comunmente | Columela — agricultura |
+| 146 | Seneca | II | 214 | Seneca en sus declamaciones haze mención de otros dos oradores Españoles | Séneca — oradores españoles |
+| 147 | Quintiliano | II | 218 | del qual se habló poco antes, y del dize Quintiliano | Porcio Latron — retórica |
+| 148 | Eusebio Cesariense | II | 220 | Eusebio dize que murió de quartanas | Muerte de Porcio Latron |
+| 149 | Cayo Silio Italico | II | 226 | A la fazon que acabó Nerón, era cónsul en Roma Silio Itálico | Silio Itálico — cónsul |
+| 150 | San Lucas | II | 246 | dize san Lucas en los actos, que le dieron la muerte | Muerte de Santiago |
+| 151 | *Pelayo obispo de Oviedo | II | 290 | Pelagio obifpo de Guiedo,que eferiuio fu hiftoria aura quinientos años,cuenta por difcipulos de Santiago | Pelayo: discípulos de Santiago |
+| 152 | Lucano | III | 310 | sin perdonar a Seneca su maestro, ni al inclyto poeta Lucano | Nerón mata a Séneca y Lucano |
+| 153 | Seneca | III | 310 | sin perdonar a Seneca su maestro, ni al inclyto poeta Lucano | Nerón mata a Séneca |
+| 154 | Seneca | III | 311 | al inclyto poeta Lucano | Lucano — poeta |
+| 155 | *Beda | III | 339 | Assimismo Beda y Vfuardo testifican que dexó por obispo de Narbona a Sergio Paulo | Beda: Pablo en Narbona |
+| 156 | *Usuardo | III | 339 | Assimismo Beda y Vfuardo testifican que dexó por obispo de Narbona a Sergio Paulo | Usuardo: Pablo en Narbona |
+| 157 | *Plutarco | III | 428 | la cfperanza,a la ciudad de Clunia (efte nombre eíta corrompido en Plutarcho,que pone Colonia por Clunia | Plutarco: confusión Clunia/Colonia |
+| 158 | Quintiliano | III | 458 | Llenó otro fabio Quintiliano, natural de Calahorra, que fue aventajado en la profession de la rhetorica | Quintiliano — retórica |
+| 159 | Poggio Florentín | III | 460 | Hallolas, y facolasaluz Pogio Plorentin, en tiempo del concilio cierto de Constantancia, en cierto monasterio de aquella ciudad | Poggio: recuperación de las Instituciones oratorias de Quintiliano |
+| 160 | Cayo Silio Italico | III | 466 | A la fazon que acabó Nerón, era cónsul en Roma Silio Itálico | Silio Itálico — cónsul |
+| 161 | Pietro Ricci (Crinito) | III | 469 | Crinito dize que nació en Roma, pero su descendencia era de España | Crinito — origen de Silio |
+| 162 | Gregorio Giraldo | III | 470 | Gregorio Giraldo affirma que fue natural de los Peligros | Giraldo — patria de Silio |
+| *Hilderico | 1 | III | Fuente sobre la cronologia de la Era - de nacion Frances, contemporaneo de San Isidoro |
+| 163 | Seneca | III | 482 | Seneca el Philosopho, con el qual no se sabe si tuvo algún deudo | Seneca Trágico vs Seneca Filósofo |
+| 164 | Quintiliano | III | 484 | Quintiliano haze mención de una sola tragedia que andava en nombre de Seneca el Philosopho | Quintiliano — tragedia de Séneca |
+| 165 | Cayo Suetonio Tranquilo | IIII | 667 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos |
+| 166 | Cayo Suetonio Tranquilo | IIII | 760 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos (segunda mención) |
+| *167 | Miguel Sincelo | IIII | 842 | por Michae! Syncello, fue elque nosotros llamamos Eugenio | Sincelo: Vida de San Clemente, San Eugenio en Espa�a |
+| 168 | Plutarco | V | 875 | el gran philosopho Plutarcho | Plutarco — maestro de Trajano |
+| 169 | Plinio | V | 909 | Plinio el mas moço, proconsul a la fazón de Bithynia, le aviso por una carta suya | Plinio — carta sobre cristianos |
+| 170 | *Julio Capitolino | VI | 1066 | Iulio Capitolino dizc, q por lasoracioncs del emperadorfe aplacaron los diofesy cayóla lluuia | Julio Capitolino: Legion Fulminatrix, lluvia milagrosa |
+| 171 | Dion | VI | 1069 | muchos y muy antiguos, que refieren la cosa como ella dizo, favorece Dion | Legion Fulminatrix — lluvia |
+| 172 | Nicéforo | IX | 1446 | padeÃ§io el martyr santo Christoval, segun que lo refiere Nicephoro | Nicéforo: martirio de Cristóbal |
+| 173 | Quintiliano | X | 1492 | las declamaciones que andan impresas al fin de las instituciones de Quintiliano | Declamaciones de Quintiliano |
+| 174 | Trebellio Polión | X | 1554 | por autoridad de TrcbellioPollion,para concordar las opiniones | Trebellio citado para concordar cronologías — Mariana lo refuta por errado |
+| 175 | Prudencio | X | 1562 | según que lo testifica Prudencio | Prudencio: mártires — hija de Emiliano |
+| *176 | Casiodoro | XIII | 1572 | como lodize Cafsiodoro,y lo apunta Tertulliano | Casiodoro y Tertuliano: sobrenombre Magnus de Pompeyo - origen en un teatro erigido en Roma |
+| 177 | Quintiliano | X | 1593 | nombró en su lugar a Quintiliano su hermano, hombre de tan pequeño coragon | Quintiliano: hermano de Claudio se suicidó |
+| *178 | San Agustín | XII | 1751 | Pegun que lo refiere fan Auguílin | San Agustín: edictos contra los cristianos del año 303 (Diocleciano y Maximiano) |
+| 179 | Prudencio | XII | 1795 | Prudencio la llama Encratis | Santa Engracia |
+| 180 | Prudencio | XII | 1804 | Prudencio refiere que sucedió lo mismo a las cenizas de trescientos martyres | Masa candida |
+| 181 | Braulio de Zaragoza | XIII | 1894 | como esta en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Caragoça | Braulio: vida de Santa Leocadia |
+| 182 | Claudio Ptolomeo | XIII | 1911 | Por lo menos Ptolomeo le da nombre de Libora | Ptolomeo: Talavera = Libora |
+| 183 | Tito Livio | XIII | 1915 | Tito Livio en los Carpetanos pone un pueblo que el llama Ebura | Tito Livio: Talavera = Ebura |
+| 184 | Claudio Ptolomeo | XIII | 1924 | Ptolomeo llama Libora | Ptolomeo: Elbora/Talavera |
+| 185 | *Moro Rasis | XIV | 2010 | Lo qual teftifica el Moro Rafis,queleuantaron los Moros aquellafuercaapropofito de impedirlas correrías | Moro Rasis: murallas de Toledo |
+| 186 | Prudencio | XV | 2102 | Bivió por este tiempo Prudencio obispo de Tarragona | Prudencio obispo |
+| 187 | Pietro Ricci (Crinito) | XV | 2109 | Assi lo dize Crinito | Crinito: Rufo Festo Avieno |
+| 188 | San Basilio | XVI | 2197 | por vna homilía que hizo fan Bafilio en su fiestinidad | San Basilio: 40 mártires de Sebaste |
+| 189 | Eusebio Cesariense | XVI | 2215 | fue condiscípulo de los dos Eufebios, Nicomedienfey Cefarienses | Herejía arriana — los dos Eusebios |
+| 190 | *Moro Rasis | XVI | 2295 | por las mifmaspalabras del Moro Rafis,hiíloriador antiguo y graue | Moro Rasis: dioceses de Constantino |
+| 191 | Eusebio de Nicomedia | XVI | 2337 | por Eufebio obispo de aquella ciudad, gran fauorcedor de los Arrianos | Eusebio de Nicomedia — bautiza a Constantino |
+| 192 | Eusebio Cesariense | XVI | 2342 | principalmente hizo errar a muchos el testimonio de Eufebio Cefariense | Eusebio Cesariense: testimonio falso sobre Arrio |
+| 193 | Eusebio de Vercelli | XVII | 2409 | Eufebio obispo de Vercellis | Eusebio de Vercelli — concilio de Milán |
+| 194 | San Isidoro de Sevilla | XVII | 2445 | el testimonio de Marcellino presbytero, del qual fan Ifidoro en los varones illustres | San Isidoro: Marcellino en Varones illustres |
+| 195 | Amiano Marcelino | XVII | 2481 | que fue caso notable, referido por Amiano Marcelino | Amiano: caso de romano que degolló a su familia |
+| 196 | Prudencio | XVII | 2482 | Clemente Prudencio, natural de Calahorra, poeta muy señalado | Prudencio — poeta de Calahorra |
+| 197 | Prudencio | XVII | 2486 | Iuuenco presbytero Español, y mas viejo que Prudencio | Referencia cruzada — Juvenco más viejo que Prudencio |
+| 198 | San Jerónimo | XVII | 2489 | fan Icronymo dedicó el libro de los eferitores ccclcfiafticos | San Jerónimo dedica *De viris illustribus* a Dextro, hijo de Paciano de Barcelona |
+| 199 | Amiano Marcelino | XIX | 2575 | lo cuenta Amiano Marcellino historiador gentil, y de aquel tiempo | Amiano: elección del Papa (Damaso vs Ursino) |
+| 200 | Procopio | XIX | 2597 | ca en el oriente vn deudo de Iuliano, llamado Procopio, tomó nombre de emperador | Procopio — usurpador oriental |
+| 201 | Eusebio de Cesarea de Capadocia | XIX | 2635 | Eufebio obispo de Cesarea la de Capadocia, tan conocido por su valor y constancia | Eusebio de Cesarea de Capadocia — exiliado |
+| 202 | San Basilio | XIX | 2638 | Al de Capadocia succedio en aquel obispado el gran Basilio | San Basilio: conflicto con emperador Valente |
+| 203 | Amiano Marcelino | XIX | 2672 | lo cuenta Amiano Marcellino historiador gentil | Amiano: elección del Papa (segunda referencia) |
+| 204 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
+| 205 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
+| 206 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
+| 207 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
+| 208 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
+| 209 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
+| 210 | *Claudiano | XX | 3001 | lo cantó Claudiano poeta deaquel tiempo,muy famofo,fi pagano | Claudiano: batalla de Frígido (394) |
+| 211 | Orosio | XXI | 3160 | la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Orosio: discrepancia de dos años |
+| 212 | Prospero de Aquitania | XXI | 3160 | Paulo Orosio y Prospero Aquitanico, a este numero parece añaden dos años | Prospero: misma discrepancia cronológica |
 
-**Total de apariciones (fuentes externas): 210**
+**Total de apariciones (fuentes externas): 212**
 
 ## Autoreferencias de Juan de Mariana
 
@@ -328,7 +332,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 78 (76 fuentes externas + 2 autoreferencias)**
+**Total de autores distintos: 80 (79 fuentes externas + 1 autoreferencia)**
 
 ## Tabla de autores aún no encontrados con OCR
 
@@ -336,12 +340,9 @@ De los autores referidos en las notas del investigador o mencionados en la bibli
 
 | # | Autor | Libro | Causa probable |
 |---|-------|-------|----------------|
-| 1 | **Casiodoro** | III | Nombre corrupto en OCR o ausente de esta edición |
-| 2 | **Filisto de Siracusa** | I | Fuente muy antigua (s. IV a.C.), Mariana quizá cita de memoria |
-| 3 | **Hilderico** | III | Solo en libros V+ |
-| 4 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
+| 1 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
 
-**Total: 4 autores no encontrados en OCR.**
+**Total: 1 autor no encontrado en OCR (Hernando del Pulgar).**
 
 
 
