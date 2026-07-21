@@ -7,7 +7,7 @@
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **77 autores distintos (76 fuentes externas + 1 autoreferencia)** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **77 autores distintos (75 fuentes externas + 2 autoreferencias)** para fundamentar su relato.
 
 La pregunta que guía este proyecto es:
 
@@ -48,8 +48,8 @@ Comprender el sistema de citas de Mariana permite:
 
 Se realizó una verificación exhaustiva de las **209 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de **25 capítulos sin citas** en busca de nuevas referencias. Resultados:
 
-- **Autores verificados como fuentes citadas**: 76 autores externos resultaron ser citaciones genuinas (incluidos San Agustín y Juan Margarite, localizados e indexados en julio de 2026)
-- **Autores no encontrados en el OCR**: 6 autores no aparecen como fuentes citadas en los Libros I–IV (Casiodoro, Filisto, Hilderico, Miguel Sincelo, Hernando del Pulgar, Arriano en LIV)
+- **Autores verificados como fuentes citadas**: 75 autores externos resultaron ser citaciones genuinas (incluidos San Agustín y Juan Margarite, localizados e indexados en julio de 2026)
+- **Autores no encontrados en el OCR**: 5 autores no aparecen como fuentes citadas en los Libros I–IV (Casiodoro, Filisto, Hilderico, Miguel Sincelo, Hernando del Pulgar)
 - **Barrido de capítulos**: de 25 capítulos vacíos, se hallaron **6 citas nuevas** (Rufo Festo y Tito Livio en L.I CAP XXI; Trebellio Polión y San Jerónimo en L.IV; San Agustín ×2 en L.IV; Juan Margarite en L.III)
 
 #### Tabla de autores
@@ -68,8 +68,8 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 Se incluyen además:
 - **Resumen por autor** (77 autores con temática y frecuencia de aparición)
 - **Autoreferencias de Juan de Mariana** (2 remisiones a su *Historiae de Rebus Hispaniae* de 1592)
-- **Autores no encontrados** (6 autores sin citas genuinas en el OCR)
-- **Notas sobre la revisión** (6 hallazgos verificados: duplicaciones OCR, atribuciones erróneas, variantes ortográficas, barrido de capítulos, recuperación de autores perdidos, indexación de San Agustín y Juan Margarite)
+- **Autores no encontrados** (5 autores sin citas genuinas en el OCR)
+- **Notas sobre la revisión** (2 notas restantes: duplicación OCR en Libro IV (líneas 2580–2593 y 2678–2693), entrada 137 sobre atribución errónea (Silio, marido de Mesalina, no el poeta)
 
 ---
 
@@ -168,7 +168,7 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 | Métrica | Valor |
 |---------|-------|
 | Total de citas (apariciones) | 209 |
-| Autores únicos | 77 (76 externos + 1 autoref) |
+| Autores únicos | 77 (75 externos + 2 autoref) |
 | Libros cubiertos | 4 (I–IV) |
 | Capítulos con al menos 1 cita | 82 de 92 |
 | Autores que acaparan el 50 % de las citas | 13 de 77 (16,9 %) |
