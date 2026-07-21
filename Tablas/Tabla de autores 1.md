@@ -342,9 +342,7 @@ De los autores referidos en las notas del investigador o mencionados en la bibli
 
 **Total: 5 autores no encontrados en OCR.**
 
-### Autores encontrados en OCR pendientes de indexar
 
-Todos los autores localizados en el OCR han sido indexados en la tabla principal (verificación de julio 2026). San Agustín (2 citas) y Juan Margarite (1 cita) fueron incorporados como entradas #135, #175 y #119 respectivamente.
 
 ## Notas sobre la revisión
 
