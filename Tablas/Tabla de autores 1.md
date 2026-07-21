@@ -339,9 +339,8 @@ De los autores referidos en las notas del investigador o mencionados en la bibli
 | 3 | **Hilderico** | III | Solo en libros V+ |
 | 4 | **Miguel Sincelo** | IV | Bizantino (s. IX), fuera del rango de fuentes de L I–IV |
 | 5 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
-| 6 | **Arriano (en LIV)** | IV | Confundido con herejía arriana; presente como historiador solo en L I y L II |
 
-**Total: 6 autores no encontrados en OCR.**
+**Total: 5 autores no encontrados en OCR.**
 
 ### Autores encontrados en OCR pendientes de indexar
 
@@ -349,7 +348,6 @@ Todos los autores localizados en el OCR han sido indexados en la tabla principal
 
 ## Notas sobre la revisión
 
-- **Arriano** (historiador): confirmado como fuente en Libro I (línea 2747, topografía africana) y Libro II (línea 534, embajadas a Alejandro). En Libro IV, las 11 coincidencias de "Arriano" se refieren exclusivamente a la herejía arriana ("Arrianos", "hombre Arriano", "heregía Arriana"), no al historiador.
 - **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 188–194 usan los números de la primera aparición.
 - **Entrada 137** ("Cayo Silio Italico", Libro IV línea 199): la cita ("vn mancebo principal, llamado Silio") se refiere a Silio, marido de Mesalina, no al poeta Cayo Silio Italico. El poeta sí aparece como fuente en Libro II (línea 3106) y Libro IV (línea 466).
 - **San Jerónimo**: indexado como fuente en Libro IV (línea 2489, entrada 189), donde Mariana lo cita por su *De viris illustribus* dedicado a Dextro de Barcelona. Las otras 3 menciones (líneas 2591, 2688, 3040) lo describen como personaje histórico (amigo de Damaso y de Licinio Bético). Encontrado mediante variante de búsqueda «Icronymo» (OCR corrupto).
