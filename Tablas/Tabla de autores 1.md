@@ -20,7 +20,6 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 12 | Plinio | VII | 715 | Plinio re fierepaífaronde Europa los Brigas | Plinio relata la migración de los Brigas desde Europa |
 | 13 | Diodoro Siculus | VIII | 805 | Diodoro Siculo, y por otros nombres le llamaron Baccho,y Dionyfío | Diodoro Sículo sobre Osiris/Baccho |
 | 14 | Cayo Suetonio Tranquilo | VIII | 841 | lo teftifica Suetonio Tranquillo | Suetonio testifica el templo de los Gériones en Padua |
-| *Casiodoro | 1 | III | Sobrenombre Magnus de Pompeyo (cita conjunta con Tertuliano) |
 | 15 | Plinio | IX | 983 | es cierto que Plinio lallama colonia Romulenfe | Plinio la llama colonia Romulense de Hispalis |
 | 16 | Plutarco | IX | 985 | Plutarcho eferiue, que venido que ouo el otro Dionyfio oBaccho...a Efpaña | Plutarco sobre Dionisio/Baccho en España |
 | 17 | Falso Beroso | IX | 997 | Berofo,cuyas fábulas poco antes defechamos | Mariana descarta las fábulas de Falso Beroso |
@@ -184,7 +183,6 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 160 | Cayo Silio Italico | III | 466 | A la fazon que acabó Nerón, era cónsul en Roma Silio Itálico | Silio Itálico — cónsul |
 | 161 | Pietro Ricci (Crinito) | III | 469 | Crinito dize que nació en Roma, pero su descendencia era de España | Crinito — origen de Silio |
 | 162 | Gregorio Giraldo | III | 470 | Gregorio Giraldo affirma que fue natural de los Peligros | Giraldo — patria de Silio |
-| *Hilderico | 1 | III | Fuente sobre la cronologia de la Era - de nacion Frances, contemporaneo de San Isidoro |
 | 163 | Seneca | III | 482 | Seneca el Philosopho, con el qual no se sabe si tuvo algún deudo | Seneca Trágico vs Seneca Filósofo |
 | 164 | Quintiliano | III | 484 | Quintiliano haze mención de una sola tragedia que andava en nombre de Seneca el Philosopho | Quintiliano — tragedia de Séneca |
 | 165 | Cayo Suetonio Tranquilo | IIII | 667 | todos los philosophos, como lo dizc Suetonio | Domiciano destierra filósofos |
@@ -229,7 +227,6 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 204 | Procopio | XIX | 2693 | ca en el oriente vn deudo de Iuliano, llamado Procopio | Procopio — usurpador (segunda referencia) |
 | 205 | Eusebio de Cesarea de Capadocia | XIX | 2728 | Eufebio obispo de Cesarea la de Capadocia | Eusebio de Capadocia — segunda referencia |
 | 206 | San Gregorio Nacianceno | XX | 2819 | Gregorio Nazianzeno, por la mala voluntad que algunos le tenian, dexara de su voluntad aquella yglesia | Gregorio Nazianceno: deja Constantinopla |
-| San Ildefonso de Toledo | 1 | IV | Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá de Henares |
 | 207 | *Severo Sulpicio | XX | 2870 | como felee en Señero Sulpicio | Severo Sulpicio: excomunión de Priscilianos |
 | 208 | Sigiberto de Gembloux | XX | 2871 | San Isidro solo dize que era obispo de las Empañas, y Sigiberto, que de Lamego | Sigiberto: discrepa sobre sede de Itacio |
 | 209 | San Isidoro de Sevilla | XX | 2937 | Isidoro expresamente haze della mención en los varones illustres en Siricio | San Isidoro: epístola de Siricio |
@@ -270,6 +267,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Cayo Julio Solino | 3 | I | Etnografía antigua, fundaciones de ciudades (Valencia, Tarragona), mitología de Ultramediterráneo |
 | Cayo Silio Italico | 5 | II, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado |
 | Cayo Suetonio Tranquilo | 3 | I, IV | Religiones antiguas (templo de los Gériones), persecuciones imperiales (Domiciano) |
+| *Casiodoro | 1 | IV | Sobrenombre Magnus de Pompeyo, cita conjunta con Tertuliano |
 | Cicerón | 7 | III, IV | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
 | Claudio Ptolomeo | 14 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos, coordenadas y provincias |
 | Columela | 1 | IV | Tratados de agricultura |
@@ -289,6 +287,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Floro | 1 | III | Guerras civiles en Hispania |
 | Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
 | Heródoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
+| *Hilderico | 1 | IV | Fuente sobre la cronologia de la Era, de nacion Frances, contemporaneo de San Isidoro |
 | Hipócrates | 1 | II | Remedio contra la peste antigua (quema de montes y bosques en Tesalia) |
 | Juan de Mariana | 2 | III, IV | Autoreferencias a su *Historiae de Rebus Hispaniae* (1592): inscripción de Sertorio (Ébora) y epístola de Vespasiano (Sabora). Función metodológica, no de autoridad factual. |
 | *Juan Margarite | 1 | III | Discrepancia sobre la Era del César (Mariana lo corrige). Obispo de Gerona, citado en la edición de 1601. |
@@ -317,6 +316,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | *San Agustín | 2 | IV | Discrepancia en los nombres de los cónsules del año de fundación de Roma; edictos contra los cristianos del año 303 (Diocleciano y Maximiano) |
 | San Basilio | 2 | IV | Martirologio oriental (40 mártires de Sebaste), conflictos arianos |
 | San Gregorio Nacianceno | 1 | IV | Historia eclesiástica de Constantinopla |
+| *San Ildefonso de Toledo | 1 | IV | Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcala de Henares |
 | San Jerónimo | 1 | IV | Filología patrística, *De viris illustribus* dedicado a Dextro de Barcelona |
 | San Isidoro de Sevilla | 7 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
 | San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
@@ -334,20 +334,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 81 (80 fuentes externas + 1 autoreferencia)**
-
-## Tabla de autores aún no encontrados con OCR
-
-De los autores referidos en las notas del investigador o mencionados en la bibliografía de la edición, los siguientes **no han podido localizarse** en los archivos OCR de los Libros I–IV tras búsqueda exhaustiva por variantes ortográficas y corrupción OCR:
-
-| # | Autor | Libro | Causa probable |
-|---|-------|-------|----------------|
-| 1 | **Hernando del Pulgar** | IV | Solo en libros posteriores (VII+) |
-
-**Total: 1 autor no encontrado en OCR (Hernando del Pulgar).**
-
-
-
+**Total de autores distintos: 81 (80 fuentes externas + 2 autoreferencias de Juan de Mariana)**
 ## Notas sobre la revisión
 
 - **Duplicación OCR en Libro IV**: las líneas 2580–2593 y 2678–2693 contienen texto casi idéntico (biografía del Papa Damaso y su amistad con San Jerónimo). Las entradas 188–194 usan los números de la primera aparición.
