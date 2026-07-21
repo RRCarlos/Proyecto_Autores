@@ -328,21 +328,6 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 
 **Total de autores distintos: 77 (76 fuentes externas + 1 autoreferencia)**
 
-## Autores no encontrados en los archivos TXT
-
-Búsqueda exhaustiva realizada capítulo por capítulo en los cuatro archivos OCR individuales (`01_libro_primero.txt`, `02_libro_segundo.txt`, `03_libro_tercero.txt`, `04_libro_cuarto.txt`), con múltiples variantes de búsqueda por autor. Actualizada en la verificación de julio 2026.
-
-### Autores no encontrados como fuentes
-
-| Autor | Variantes buscadas | Resultado |
-|-------|-------------------|-----------|
-| Casiodoro | "Casiodoro", "Cafiodoro", "Casiodo", "Cafodoro", "Caſiodoro" en libros I–IV | **No encontrado.** Nombre posiblemente corruptado en OCR o ausente de esta edición. |
-| Filisto de Siracusa | "Filisto", "Filto", "Filifto", "Filfto", "Philiſto" en libros I–IV | **No encontrado.** Ausente de los archivos TXT. |
-| Hilderico | "Hilderico", "Hilderic", "Ilderic" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro III Cap XXIV pero ausente del OCR. |
-| Miguel Sincelo | "Sincelo", "Syncelo", "Síncelo" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap IV pero ausente del OCR. |
-| Hernando del Pulgar | "Pulgar", "del Pulgar" en libros I–IV | **No encontrado.** Mencionado en las notas del investigador en Libro IV Cap XXI pero solo aparece en libros posteriores (VII+). |
-| Arriano (en Libro IV) | "Arriano", "Arrian", "Ariano" en libro IV | **No encontrado como historiador.** Las 11 coincidencias en Libro IV se refieren todas a la herejía arriana ("ser arriano", "Arrianos"), no al historiador Arriano. Sí aparece como fuente en Libros I (línea 2747: topografía africana) y II (línea 534: embajadas a Alejandro). |
-
 ## Tabla de autores aún no encontrados con OCR
 
 De los autores referidos en las notas del investigador o mencionados en la bibliografía de la edición, los siguientes **no han podido localizarse** en los archivos OCR de los Libros I–IV tras búsqueda exhaustiva por variantes ortográficas y corrupción OCR:
