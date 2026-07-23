@@ -268,7 +268,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Cayo Silio Italico | 5 | II, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado |
 | Cayo Suetonio Tranquilo | 3 | I, IV | Religiones antiguas (templo de los Gériones), persecuciones imperiales (Domiciano) |
 | *Casiodoro | 1 | IV | Sobrenombre Magnus de Pompeyo, cita conjunta con Tertuliano |
-| Cicerón | 7 | III, IV | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
+| Cicerón | 7 | III | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
 | Claudio Ptolomeo | 14 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos, coordenadas y provincias |
 | Columela | 1 | IV | Tratados de agricultura |
 | Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
@@ -294,7 +294,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | *Julio Capitolino | 1 | IV | Legion Fulminatrix, prodigios militares |
 | Justino | 3 | I | Reyes de Tartessos, mitología, colonizaciones antiguas |
 | Lucano | 2 | III, IV | Geografía fluvial hispana, tiranía de Nerón y muerte de Séneca |
-| Marco Varrón | 11 | I, II, III, IV | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
+| Marco Varrón | 11 | I, II, III | Etimología del nombre «España», guerra civil en Hispania, administración provincial, costumbres militares |
 | *Miguel Sincelo | 1 | IV | Fuentes hagiogr�ficas bizantinas, Vida de San Clemente |
 | *Moro Rasis | 3 | III, IV | Historiador árabe: Mérida (Emerita Augusta), murallas de Toledo, dioceses de Constantino |
 | Nicéforo | 1 | IV | Martirio de Cristóbal |
@@ -321,7 +321,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | San Isidoro de Sevilla | 7 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
 | San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
 | *Severo Sulpicio | 1 | IV | Crónica eclesiástica, excomunión de Priscilianos |
-| Seneca | 7 | IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
+| Seneca | 7 | III, IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
 | Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
 | Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
 | *Trebellio Polión | 1 | IV | Cronología de la Historia Augusta — Mariana rechaza su cronología discordante |
@@ -334,4 +334,4 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Sorano | 1 | I | Religión y secretos sagrados |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 81 (80 fuentes externas + 2 autoreferencias de Juan de Mariana)**
+**Total de autores distintos: 81 (80 fuentes externas + 1 autoreferencias de Juan de Mariana)**
