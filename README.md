@@ -58,11 +58,12 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 
 | Columna | Contenido |
 |---------|-----------|
-| # | Número de entrada (1–213) |
+| # | Número de entrada (1–215) |
 | Autor | Nombre del autor tal como aparece en Mariana |
 | Capítulo | Libro y capítulo de la cita |
 | Línea | Línea exacta en el archivo OCR |
-| Cita | Extracto textual original del OCR (sin normalizar) |
+| Cita | Extracto textual original del OCR — 3 líneas de contexto (línea anterior, línea de la cita, línea siguiente) |
+| Cita normalizada | Misma cita con ortografía modernizada (ſ→s, separación de palabras, corrección de artefactos OCR) |
 | Contexto | Descripción del contexto historiográfico de la cita |
 
 Se incluyen además:
@@ -99,7 +100,7 @@ El archivo de texto completo (`HGE_TomosI-II.txt`, ~6 MB, 98.805 líneas) fue ob
 | `03_libro_tercero.txt` | Libro III completo | 2.902 |
 | `04_libro_cuarto.txt` | Libro IV completo | 3.165 |
 
-**Notas sobre el TXT**: El archivo proviene de un OCR de una digitalización del siglo XVI. Contiene artefactos de reconocimiento óptico propios de la tipografía de la época (ſ→f, v/u intercambiables, ligaduras rotas, abreviaturas de imprenta). Estos artefactos son predecibles y se mitigan con normalización ortográfica antes de la comparación textual.
+**Notas sobre el TXT**: El archivo proviene de un OCR de una digitalización del siglo XVI. Contiene artefactos de reconocimiento óptico propios de la tipografía de la época (ſ→f, v/u intercambiables, ligaduras rotas, abreviaturas de imprenta). Estos artefactos son predecibles y se mitigan con normalización ortográfica antes de la comparación textual. La columna **Cita normalizada** de la tabla aplica esta corrección automáticamente.
 
 ### Notas del investigador
 
@@ -113,7 +114,7 @@ El punto de partida empírico del proyecto es un **documento Word** (*Historia g
 
 Esas notas constituyen la **fuente primaria** del proyecto: todo lo que sigue —tablas, validaciones, clasificaciones— se construirá a partir de ellas. El documento Word original no se incluye en el repositorio por derechos de autor.
 
-La tabla resultante (`Tabla de autores 1.md`) fue verificada contra los archivos OCR y completada con las columnas **Cita** (extracto textual original sin normalizar) y **Contexto** (descripción del contexto historiográfico).
+La tabla resultante (`Tabla de autores 1.md`) fue verificada contra los archivos OCR y completada con las columnas **Cita** (extracto de 3 líneas del OCR) y **Cita normalizada** (ortografía modernizada: separación de palabras, corrección de ſ→s, eliminación de artefactos OCR). La columna **Contexto** describe la función historiográfica de cada cita.
 
 ### Catálogos de verificación
 
@@ -324,5 +325,5 @@ Mariana, J. de. *Historia General de España*. Toledo, 1601.
 
 ---
 
-*Última actualización: 21 de julio de 2026*
+*Última actualización: 22 de julio de 2026*
 [Repositorio en GitHub](https://github.com/RRCarlos/proyecto-autores)
